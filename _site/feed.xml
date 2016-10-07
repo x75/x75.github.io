@@ -5,9 +5,117 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>2016-07-27 14:39:25 +0200</pubDate>
-    <lastBuildDate>2016-07-27 14:39:25 +0200</lastBuildDate>
-    <generator>Jekyll v</generator>
+    <pubDate>Thu, 06 Oct 2016 16:50:41 +0200</pubDate>
+    <lastBuildDate>Thu, 06 Oct 2016 16:50:41 +0200</lastBuildDate>
+    <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>Apparent uselessness</title>
+        <description>&lt;h1 id=&quot;apparent-uselessness-and-the-illusion-of-progress&quot;&gt;Apparent uselessness and the illusion of progress&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Keywords&lt;/em&gt;: dominant progressivist narratives, undreamed-of-utility, robot epistemology&lt;/p&gt;
+
+&lt;p&gt;Sometime last year I picked up on Kenneth Stanley’s and Joel Lehmann’s
+2015 book called “Why Greatness Cannot Be Planned - The Myth of the
+Objective”. In the book they develop an argument based on experiments
+with synthetic processes of knowledge acquisition in the context of
+AI, ALife, and Learning. So far so good, I basically completely agree
+with their line of reasoning.&lt;/p&gt;
+
+&lt;p&gt;In the meantime, additional manifestations of that same idea keep
+popping up urging the collector inside me to collect. Here we
+go.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;2015&lt;/strong&gt; Stanley and Lehmann argue that, considering results on
+“novelty search” in learning experiments with artificial agents,
+unreflected measures of the distance to a given “goal” are bound to
+get you stuck in a local extremum in all but trivial cases &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;1939&lt;/strong&gt; Abraham Flexner’s article “The usefulness of useless
+knowledge” &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, published in Harper’s issue 179 June/November 1939 (available online as PDF). Flexner curiously sketches out a similar line of argument as
+Stanley and Lehmann reinvigorating satisfaction of &lt;em&gt;curiosity&lt;/em&gt; as a sufficient and ultimately fruitful guide in the pursuit of knowledge.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;198X&lt;/strong&gt; The young field of media archaeology has been promoting the stance
+that complex techno-mathematical media can only be understood by
+reconstructing original forward-looking perspectives and
+emphasizing the genealogical importance of developments which
+became “dead media” only in hindsight.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;2007&lt;/strong&gt; Nicholas Nassim Taleb, deserving a separate comment on the black
+swan idea (2007), meticulously expounds the difference of the
+forward and the retrospective narration and substantializes the
+phenomenon of unpredictability in the domain of complex systems (Extremistan). Honouring
+this fundamental unpredictabilty we should be highly doubtful
+about our ability to predict the future utility of any given idea.&lt;/li&gt;
+  &lt;li&gt;This is an open list and this entry is a placeholder for things to
+come …&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Realizing the validity of this issue there are fundamental
+consequences to for many areas of human activity, two of which are:
+autonomous robotic learning (no universal recipe) and funding of
+professional and amateur scientific pursuits (no maps for uncharted
+territory &lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
+
+&lt;h2 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Based on my own understanding of different learning problems for
+artificial agents there are two fundamental types of such problems:
+those in which the goal-seeker and the goal are alone in “free space”,
+and those in which other objects, usually referred to as “obstacles”,
+are present in the same space. In the first case, the goal can be
+reached by greedily reducing the distance on all axes of space
+independently. In the second case, already no universal recipe
+whatsoever can be given on how to reach the goal. In order to reach
+it, the distance to the goal has to increase on at least one axis of
+the given space at some point. It seems related to convexity but I leave the
+respective diagram for later. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Thanks Giulio Sandini. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;Please describe in precise steps how you are going to reach an
+objective (draw a route on a map), which at best is likely to exist
+and usually is only a vision, and where no one has gone before (on
+parts of the map labelled “Terra incognita”). &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 06 Oct 2016 00:00:00 +0200</pubDate>
+        <link>http://yourdomain.com/2016/10/06/apparent-uselessness/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2016/10/06/apparent-uselessness/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Rara Avis out on ALKU, ALKU099</title>
+        <description>&lt;h1 id=&quot;rara-avis-music-cassette-mc-and-booklet-both-screaming-yellow-out-now-on-alku&quot;&gt;Rara Avis Music Cassette (MC) and booklet, both screaming yellow, out now on ALKU&lt;/h1&gt;
+
+&lt;p&gt;Go get it at &lt;a href=&quot;http://alkualkualkualkualkualkualkualkualkualku.org/pmwiki/pmwiki.php/Main/ALKU99&quot; title=&quot;ALKU99&quot;&gt;ALKU&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 16 Aug 2016 00:00:00 +0200</pubDate>
+        <link>http://yourdomain.com/2016/08/16/rara-avis-out-on-alku/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2016/08/16/rara-avis-out-on-alku/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Another test post</title>
+        <description>&lt;p&gt;Just saying hi while trying to acquire a jekyll habit.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 27 Jul 2016 00:00:00 +0200</pubDate>
+        <link>http://yourdomain.com/2016/07/27/nothertestpost/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2016/07/27/nothertestpost/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Nothertestpost</title>
@@ -28,18 +136,16 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 &lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
 
-&lt;div&gt;
-  &lt;pre&gt;&lt;code class=&quot;ruby&quot;&gt;def print_hi(name)
-  puts &amp;quot;Hi, #{name}&amp;quot;
-end
-print_hi('Tom')
-#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>2015-12-03 16:42:30 +0100</pubDate>
+        <pubDate>Thu, 03 Dec 2015 16:42:30 +0100</pubDate>
         <link>http://yourdomain.com/jekyll/update/2015/12/03/init/</link>
         <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/12/03/init/</guid>
         

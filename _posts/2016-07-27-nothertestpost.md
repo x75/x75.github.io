@@ -1,2 +1,7 @@
+---
+layout: post
+title: Another test post
+---
 
-just saying hi.
+Just saying hi while trying to acquire a jekyll habit.
+
