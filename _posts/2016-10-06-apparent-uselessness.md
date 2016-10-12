@@ -1,11 +1,14 @@
 ---
 layout: post
 title: Apparent uselessness
+comments: true
+
 ---
 
-# Apparent uselessness and the illusion of progress
+## Apparent uselessness, the illusion of progress, and the difficulty of finding your way
 
-*Keywords*: dominant progressivist narratives, undreamed-of-utility, robot epistemology
+__Keywords__: robot epistemology, robot learning, exploration, dominant progressivist narratives, undreamed-of-utility
+ 
 
 Sometime last year I picked up on Kenneth Stanley's and Joel Lehmann's
 2015 book called "Why Greatness Cannot Be Planned - The Myth of the
@@ -45,19 +48,61 @@ autonomous robotic learning (no universal recipe) and funding of
 professional and amateur scientific pursuits (no maps for uncharted
 territory [^3]).
 
-## Footnotes
+### Spectrum of difficulties in reaching goals
 
-[^1]: Based on my own understanding of different learning problems for
-	artificial agents there are two fundamental types of such problems:
-	those in which the goal-seeker and the goal are alone in "free space",
-	and those in which other objects, usually referred to as "obstacles",
-	are present in the same space. In the first case, the goal can be
-	reached by greedily reducing the distance on all axes of space
-	independently. In the second case, already no universal recipe
-	whatsoever can be given on how to reach the goal. In order to reach
-	it, the distance to the goal has to increase on at least one axis of
-	the given space at some point. It seems related to convexity but I leave the
-	respective diagram for later.
+Based on my own understanding of different learning problems for
+artificial agents there exists a spectrum of difficulty along which
+agent tasks can be positioned. In that spectrum we can draw a line
+somewhere separating to types of such problems.
+
+There are those in which the goal-seeker and the goal are alone in "free space",
+meaning that the goal is in principle "visible" to the agent and the
+goal can be reached by greedily reducing the distance on all axes of
+space independently, reducing the problem of finding out about the
+effects of your primitive actions (SMP).
+
+The other type are those in which other objects, usually referred to
+as obstacles, are present in the same space. Here already no
+universal recipe whatsoever can be given on how to reach the goal
+without exploring the space first. In order to reach a goal or desired
+destination, the euclidean distance to the goal has to increase on at
+least one axis of the given space at some point. This means that if
+the wrong distance measure is used, we might end up in a local
+extremum and need more advanced exploration strategies.
+
+This issue seems related to a) convexity, leaving the respective
+reasoning and diagram as an exercise for later, and b) to Franz &
+Mallot's navigation hierarchy from their 2000 paper [^4].
+
+
+### Comments
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = '//x75.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}
+
+### Footnotes
+
+[^1]: See [this section](#spectrum-of-difficulties-in-reaching-goals)
 
 [^2]: Thanks Giulio Sandini.
 
@@ -65,4 +110,6 @@ territory [^3]).
 	objective (draw a route on a map), which at best is likely to exist
 	and usually is only a vision, and where no one has gone before (on
 	parts of the map labelled "Terra incognita").
+
+[^4]: Biomimetic robot navigation. M. Franz, and H. Mallot. Robotics and Autonomous Systems 30 (1-2): 133-153 (2000)
 

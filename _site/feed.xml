@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Swerving</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <title>Always SWERVING to steer free of obstacles</title>
+    <description>x75&#39;s experimental blog and general meme dump.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 06 Oct 2016 16:50:41 +0200</pubDate>
-    <lastBuildDate>Thu, 06 Oct 2016 16:50:41 +0200</lastBuildDate>
+    <pubDate>Wed, 12 Oct 2016 12:31:51 +0200</pubDate>
+    <lastBuildDate>Wed, 12 Oct 2016 12:31:51 +0200</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
         <title>Apparent uselessness</title>
-        <description>&lt;h1 id=&quot;apparent-uselessness-and-the-illusion-of-progress&quot;&gt;Apparent uselessness and the illusion of progress&lt;/h1&gt;
+        <description>&lt;h2 id=&quot;apparent-uselessness-the-illusion-of-progress-and-the-difficulty-of-finding-your-way&quot;&gt;Apparent uselessness, the illusion of progress, and the difficulty of finding your way&lt;/h2&gt;
 
-&lt;p&gt;&lt;em&gt;Keywords&lt;/em&gt;: dominant progressivist narratives, undreamed-of-utility, robot epistemology&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;: robot epistemology, robot learning, exploration, dominant progressivist narratives, undreamed-of-utility&lt;/p&gt;
 
 &lt;p&gt;Sometime last year I picked up on Kenneth Stanley’s and Joel Lehmann’s
 2015 book called “Why Greatness Cannot Be Planned - The Myth of the
@@ -55,22 +55,62 @@ autonomous robotic learning (no universal recipe) and funding of
 professional and amateur scientific pursuits (no maps for uncharted
 territory &lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
 
-&lt;h2 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h2&gt;
+&lt;h3 id=&quot;spectrum-of-difficulties-in-reaching-goals&quot;&gt;Spectrum of difficulties in reaching goals&lt;/h3&gt;
+
+&lt;p&gt;Based on my own understanding of different learning problems for
+artificial agents there exists a spectrum of difficulty along which
+agent tasks can be positioned. In that spectrum we can draw a line
+somewhere separating to types of such problems.&lt;/p&gt;
+
+&lt;p&gt;There are those in which the goal-seeker and the goal are alone in “free space”,
+meaning that the goal is in principle “visible” to the agent and the
+goal can be reached by greedily reducing the distance on all axes of
+space independently, reducing the problem of finding out about the
+effects of your primitive actions (SMP).&lt;/p&gt;
+
+&lt;p&gt;The other type are those in which other objects, usually referred to
+as obstacles, are present in the same space. Here already no
+universal recipe whatsoever can be given on how to reach the goal
+without exploring the space first. In order to reach a goal or desired
+destination, the euclidean distance to the goal has to increase on at
+least one axis of the given space at some point. This means that if
+the wrong distance measure is used, we might end up in a local
+extremum and need more advanced exploration strategies.&lt;/p&gt;
+
+&lt;p&gt;This issue seems related to a) convexity, leaving the respective
+reasoning and diagram as an exercise for later, and b) to Franz &amp;amp;
+Mallot’s navigation hierarchy from their 2000 paper &lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;comments&quot;&gt;Comments&lt;/h3&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&#39;s canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&#39;s unique identifier variable
+};
+*/
+(function() { // DON&#39;T EDIT BELOW THIS LINE
+var d = document, s = d.createElement(&#39;script&#39;);
+s.src = &#39;//x75.disqus.com/embed.js&#39;;
+s.setAttribute(&#39;data-timestamp&#39;, +new Date());
+(d.head || d.body).appendChild(s);
+})();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;h3 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h3&gt;
 
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Based on my own understanding of different learning problems for
-artificial agents there are two fundamental types of such problems:
-those in which the goal-seeker and the goal are alone in “free space”,
-and those in which other objects, usually referred to as “obstacles”,
-are present in the same space. In the first case, the goal can be
-reached by greedily reducing the distance on all axes of space
-independently. In the second case, already no universal recipe
-whatsoever can be given on how to reach the goal. In order to reach
-it, the distance to the goal has to increase on at least one axis of
-the given space at some point. It seems related to convexity but I leave the
-respective diagram for later. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;See &lt;a href=&quot;#spectrum-of-difficulties-in-reaching-goals&quot;&gt;this section&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:2&quot;&gt;
       &lt;p&gt;Thanks Giulio Sandini. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
@@ -80,6 +120,9 @@ respective diagram for later. &lt;a href=&quot;#fnref:1&quot; class=&quot;revers
 objective (draw a route on a map), which at best is likely to exist
 and usually is only a vision, and where no one has gone before (on
 parts of the map labelled “Terra incognita”). &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;Biomimetic robot navigation. M. Franz, and H. Mallot. Robotics and Autonomous Systems 30 (1-2): 133-153 (2000) &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
