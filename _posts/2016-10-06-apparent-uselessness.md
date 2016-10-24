@@ -49,7 +49,7 @@ go.
    come ...
 
 Realizing the validity of this issue there are fundamental
-consequences to for many areas of human activity, two of which are:
+consequences for many areas of human activity, two of which are:
 autonomous robotic learning (no universal recipe) and funding of
 professional and amateur scientific pursuits (no maps for uncharted
 territory [^3]).
@@ -58,27 +58,27 @@ territory [^3]).
 
 Based on my own understanding of different learning problems for
 artificial agents there exists a spectrum of difficulty along which
-agent tasks can be positioned. In that spectrum we can draw a line
-somewhere separating to types of such problems.
+learning tasks can be positioned. In that spectrum we can draw a line
+somewhere separating two types of such problems.
 
-There are those in which the goal-seeker and the goal are alone in "free space",
-meaning that the goal is in principle "visible" to the agent and the
-goal can be reached by greedily reducing the distance on all axes of
-space independently, reducing the problem of finding out about the
-effects of your primitive actions (SMP).
+There are those, in which the goal-seeker (agent) and the goal are alone in "free space",
+meaning that the goal is visible to the agent and the
+goal can be reached by following a monotonic gradient, that is, by greedily reducing the distance on all axes of
+space independently, reducing the problem to finding out about the
+effects of the primitive actions (SMP) available to the agent.
 
 The other type are those in which other objects, usually referred to
-as obstacles, are present in the same space. Here already no
-universal recipe whatsoever can be given on how to reach the goal
-without exploring the space first. In order to reach a goal or desired
-destination, the euclidean distance to the goal has to increase on at
-least one axis of the given space at some point. This means that if
-the wrong distance measure is used, we might end up in a local
-extremum and need more advanced exploration strategies.
+as obstacles, are present in the same space. Here already no universal
+recipe whatsoever can be given on how to reach the goal without
+exploring the space first. In order to reach a goal or desired
+destination, the distance to the goal has to increase on at least one
+axis of the given space at some point (non-monotonic gradient). This
+means, that if the wrong distance measure is used, you easily end up in a
+local extremum.
 
 This issue seems related to a) convexity, leaving the respective
-reasoning and diagram as an exercise for later, and b) to Franz &
-Mallot's navigation hierarchy from their 2000 paper [^4].
+reasoning and diagram as an exercise for a possible later post, and b)
+to Franz & Mallot's navigation hierarchy from their 2000 paper [^4].
 
 
 ### Comments
