@@ -9,10 +9,16 @@ title: Apparent uselessness
 
 Sometime last year I picked up on Kenneth Stanley's and Joel Lehmann's
 2015 book called "Why Greatness Cannot Be Planned - The Myth of the
-Objective". In the book they develop an argument based on experiments
-with synthetic processes of knowledge acquisition in the context of
-AI, ALife, and Learning. So far so good, I basically completely agree
-with their line of reasoning.
+Objective". In the book they develop an argument for an advanced
+teleology based on experiments with synthetic processes of knowledge
+acquisition in the context of AI, ALife, and Learning. The argument
+roughly says, that if you want to reach a goal, that is ambitious in
+the sense that the *exact* sequence of steps (the route) which will
+get you there, is not known, then accumulating possible steps is a
+better strategy than heading directly into the direction of the
+goal. That's because chances are, that some of these steps will turn
+out, but unforseeably so, to be precisely what is needed to make the
+next move when negotiating the route. So far so good, I agree with this line of reasoning.
 
 In the meantime, additional manifestations of that same idea keep
 popping up urging the collector inside me to collect. Here we
