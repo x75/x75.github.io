@@ -34,7 +34,7 @@ go.
  - __1939__ Abraham Flexner's article "The usefulness of useless
    knowledge" [^2], published in Harper's issue 179 June/November 1939 (available online as PDF). Flexner curiously sketches out a similar line of argument as
    Stanley and Lehmann reinvigorating satisfaction of _curiosity_ as a sufficient and ultimately fruitful guide in the pursuit of knowledge.
- - __198X__ The young field of media archaeology has been promoting the stance
+ - __198X__ The field of media archaeology has been promoting the stance
    that complex techno-mathematical media can only be understood by
    reconstructing original forward-looking perspectives and
    emphasizing the genealogical importance of developments which
