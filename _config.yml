@@ -1,7 +1,7 @@
 # Site settings
-title: Swerving
+title: Always SWERVING to steer free of obstacles
 email: x75@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "x75's experimental blog and general meme dump."
 baseurl: ""
 url: "http://yourdomain.com"
 twitter_username: x7557x
@@ -10,3 +10,6 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+comments: true
+
