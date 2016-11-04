@@ -5,8 +5,8 @@
     <description>x75&#39;s experimental blog and general meme dump.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 12 Oct 2016 12:31:51 +0200</pubDate>
-    <lastBuildDate>Wed, 12 Oct 2016 12:31:51 +0200</lastBuildDate>
+    <pubDate>Fri, 04 Nov 2016 14:02:28 +0100</pubDate>
+    <lastBuildDate>Fri, 04 Nov 2016 14:02:28 +0100</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
@@ -16,11 +16,17 @@
 &lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;: robot epistemology, robot learning, exploration, dominant progressivist narratives, undreamed-of-utility&lt;/p&gt;
 
 &lt;p&gt;Sometime last year I picked up on Kenneth Stanley’s and Joel Lehmann’s
-2015 book called “Why Greatness Cannot Be Planned - The Myth of the
-Objective”. In the book they develop an argument based on experiments
-with synthetic processes of knowledge acquisition in the context of
-AI, ALife, and Learning. So far so good, I basically completely agree
-with their line of reasoning.&lt;/p&gt;
+2015 book called &lt;a href=&quot;http://mythoftheobjective.com/&quot;&gt;Why Greatness Cannot Be Planned - The Myth of the
+Objective&lt;/a&gt;. In the book they develop an argument for an advanced
+teleology based on experiments with synthetic processes of knowledge
+acquisition in the context of AI, ALife, and Learning. The argument
+roughly says, that if you want to reach a goal, that is ambitious in
+the sense that the &lt;em&gt;exact&lt;/em&gt; sequence of steps (the route) which will
+get you there, is not known, then accumulating possible steps is a
+better strategy than heading directly into the direction of the
+goal. That’s because chances are, that some of these steps will turn
+out, but unforseeably so, to be precisely what is needed to make the
+next move when negotiating the route. So far so good, I agree with this line of reasoning.&lt;/p&gt;
 
 &lt;p&gt;In the meantime, additional manifestations of that same idea keep
 popping up urging the collector inside me to collect. Here we
@@ -32,9 +38,9 @@ go.&lt;/p&gt;
 unreflected measures of the distance to a given “goal” are bound to
 get you stuck in a local extremum in all but trivial cases &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;1939&lt;/strong&gt; Abraham Flexner’s article “The usefulness of useless
-knowledge” &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, published in Harper’s issue 179 June/November 1939 (available online as PDF). Flexner curiously sketches out a similar line of argument as
+knowledge” &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, published in Harper’s issue 179 June/November 1939 (available online as &lt;a href=&quot;https://library.ias.edu/files/UsefulnessHarpers.pdf&quot;&gt;PDF&lt;/a&gt;). Flexner curiously sketches out a similar line of argument as
 Stanley and Lehmann reinvigorating satisfaction of &lt;em&gt;curiosity&lt;/em&gt; as a sufficient and ultimately fruitful guide in the pursuit of knowledge.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;198X&lt;/strong&gt; The young field of media archaeology has been promoting the stance
+  &lt;li&gt;&lt;strong&gt;198X&lt;/strong&gt; The field of media archaeology has been promoting the stance
 that complex techno-mathematical media can only be understood by
 reconstructing original forward-looking perspectives and
 emphasizing the genealogical importance of developments which
@@ -50,7 +56,7 @@ come …&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Realizing the validity of this issue there are fundamental
-consequences to for many areas of human activity, two of which are:
+consequences for many areas of human activity, two of which are:
 autonomous robotic learning (no universal recipe) and funding of
 professional and amateur scientific pursuits (no maps for uncharted
 territory &lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
@@ -58,28 +64,34 @@ territory &lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&
 &lt;h3 id=&quot;spectrum-of-difficulties-in-reaching-goals&quot;&gt;Spectrum of difficulties in reaching goals&lt;/h3&gt;
 
 &lt;p&gt;Based on my own understanding of different learning problems for
-artificial agents there exists a spectrum of difficulty along which
-agent tasks can be positioned. In that spectrum we can draw a line
-somewhere separating to types of such problems.&lt;/p&gt;
+artificial agents there exists a spectrum of difficulty, open to the
+top, along which learning tasks can be positioned. In that spectrum we
+can draw a line somewhere separating two types of such
+problems. &lt;strong&gt;Update [2016-11-03]&lt;/strong&gt;: There is a direct correspondence here
+with the complexity of functional relationships which could be ordered
+like linear, monotonic, non-monotonic, zero/random. The line that I am
+referring to above goes through the spectrum between monotonic and
+non-monotonic problems.&lt;/p&gt;
 
-&lt;p&gt;There are those in which the goal-seeker and the goal are alone in “free space”,
-meaning that the goal is in principle “visible” to the agent and the
-goal can be reached by greedily reducing the distance on all axes of
-space independently, reducing the problem of finding out about the
-effects of your primitive actions (SMP).&lt;/p&gt;
+&lt;p&gt;There are those problems, in which the goal-seeker (agent) and the
+goal are alone in “free space”, meaning that the goal is visible to
+the agent and the goal can be reached by following a monotonic
+gradient, that is, by greedily reducing the distance on all axes of
+space independently, reducing the problem to finding out about the
+effects of the primitive actions (SMP) available to the agent.&lt;/p&gt;
 
 &lt;p&gt;The other type are those in which other objects, usually referred to
-as obstacles, are present in the same space. Here already no
-universal recipe whatsoever can be given on how to reach the goal
-without exploring the space first. In order to reach a goal or desired
-destination, the euclidean distance to the goal has to increase on at
-least one axis of the given space at some point. This means that if
-the wrong distance measure is used, we might end up in a local
-extremum and need more advanced exploration strategies.&lt;/p&gt;
+as obstacles, are present in the same space. Here already no universal
+recipe whatsoever can be given on how to reach the goal without
+exploring the space first and building a map. In order to reach a goal
+or desired destination, the distance to the goal has to increase on at
+least one axis of the given space at some point
+(non-monotonicity). This means, that if the wrong distance measure is
+used, you easily end up in a local extremum.&lt;/p&gt;
 
-&lt;p&gt;This issue seems related to a) convexity, leaving the respective
-reasoning and diagram as an exercise for later, and b) to Franz &amp;amp;
-Mallot’s navigation hierarchy from their 2000 paper &lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;This issue also seems related to a) convexity, leaving the respective
+reasoning and diagram as an exercise for a possible later post, and b)
+to Franz &amp;amp; Mallot’s navigation hierarchy from their 2000 paper &lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;comments&quot;&gt;Comments&lt;/h3&gt;
 
@@ -127,7 +139,7 @@ parts of the map labelled “Terra incognita”). &lt;a href=&quot;#fnref:3&quot
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>2016-10-06 00:00:00 +0200</pubDate>
+        <pubDate>Thu, 06 Oct 2016 00:00:00 +0200</pubDate>
         <link>http://yourdomain.com/2016/10/06/apparent-uselessness/</link>
         <guid isPermaLink="true">http://yourdomain.com/2016/10/06/apparent-uselessness/</guid>
         
@@ -141,7 +153,7 @@ parts of the map labelled “Terra incognita”). &lt;a href=&quot;#fnref:3&quot
 &lt;p&gt;Go get it at &lt;a href=&quot;http://alkualkualkualkualkualkualkualkualkualku.org/pmwiki/pmwiki.php/Main/ALKU99&quot; title=&quot;ALKU99&quot;&gt;ALKU&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>2016-08-16 00:00:00 +0200</pubDate>
+        <pubDate>Tue, 16 Aug 2016 00:00:00 +0200</pubDate>
         <link>http://yourdomain.com/2016/08/16/rara-avis-out-on-alku/</link>
         <guid isPermaLink="true">http://yourdomain.com/2016/08/16/rara-avis-out-on-alku/</guid>
         
@@ -153,7 +165,7 @@ parts of the map labelled “Terra incognita”). &lt;a href=&quot;#fnref:3&quot
         <description>&lt;p&gt;Just saying hi while trying to acquire a jekyll habit.&lt;/p&gt;
 
 </description>
-        <pubDate>2016-07-27 00:00:00 +0200</pubDate>
+        <pubDate>Wed, 27 Jul 2016 00:00:00 +0200</pubDate>
         <link>http://yourdomain.com/2016/07/27/nothertestpost/</link>
         <guid isPermaLink="true">http://yourdomain.com/2016/07/27/nothertestpost/</guid>
         
@@ -167,18 +179,16 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 &lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
 
-&lt;div&gt;
-  &lt;pre&gt;&lt;code class=&quot;ruby&quot;&gt;def print_hi(name)
-  puts &amp;quot;Hi, #{name}&amp;quot;
-end
-print_hi('Tom')
-#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>2015-12-03 16:42:30 +0100</pubDate>
+        <pubDate>Thu, 03 Dec 2015 16:42:30 +0100</pubDate>
         <link>http://yourdomain.com/jekyll/update/2015/12/03/init/</link>
         <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/12/03/init/</guid>
         

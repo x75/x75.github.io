@@ -11,8 +11,8 @@ __Keywords__: robot epistemology, robot learning, exploration, dominant progress
  
 
 Sometime last year I picked up on Kenneth Stanley's and Joel Lehmann's
-2015 book called "Why Greatness Cannot Be Planned - The Myth of the
-Objective". In the book they develop an argument for an advanced
+2015 book called [Why Greatness Cannot Be Planned - The Myth of the
+Objective](http://mythoftheobjective.com/). In the book they develop an argument for an advanced
 teleology based on experiments with synthetic processes of knowledge
 acquisition in the context of AI, ALife, and Learning. The argument
 roughly says, that if you want to reach a goal, that is ambitious in
@@ -32,7 +32,7 @@ go.
    unreflected measures of the distance to a given "goal" are bound to
    get you stuck in a local extremum in all but trivial cases [^1].
  - __1939__ Abraham Flexner's article "The usefulness of useless
-   knowledge" [^2], published in Harper's issue 179 June/November 1939 (available online as PDF). Flexner curiously sketches out a similar line of argument as
+   knowledge" [^2], published in Harper's issue 179 June/November 1939 (available online as [PDF](https://library.ias.edu/files/UsefulnessHarpers.pdf)). Flexner curiously sketches out a similar line of argument as
    Stanley and Lehmann reinvigorating satisfaction of _curiosity_ as a sufficient and ultimately fruitful guide in the pursuit of knowledge.
  - __198X__ The field of media archaeology has been promoting the stance
    that complex techno-mathematical media can only be understood by
@@ -57,29 +57,34 @@ territory [^3]).
 ### Spectrum of difficulties in reaching goals
 
 Based on my own understanding of different learning problems for
-artificial agents there exists a spectrum of difficulty along which
-learning tasks can be positioned. In that spectrum we can draw a line
-somewhere separating two types of such problems.
+artificial agents there exists a spectrum of difficulty, open to the
+top, along which learning tasks can be positioned. In that spectrum we
+can draw a line somewhere separating two types of such
+problems. **Update [2016-11-03]**: There is a direct correspondence here
+with the complexity of functional relationships which could be ordered
+like linear, monotonic, non-monotonic, zero/random. The line that I am
+referring to above goes through the spectrum between monotonic and
+non-monotonic problems.
 
-There are those, in which the goal-seeker (agent) and the goal are alone in "free space",
-meaning that the goal is visible to the agent and the
-goal can be reached by following a monotonic gradient, that is, by greedily reducing the distance on all axes of
+There are those problems, in which the goal-seeker (agent) and the
+goal are alone in "free space", meaning that the goal is visible to
+the agent and the goal can be reached by following a monotonic
+gradient, that is, by greedily reducing the distance on all axes of
 space independently, reducing the problem to finding out about the
 effects of the primitive actions (SMP) available to the agent.
 
 The other type are those in which other objects, usually referred to
 as obstacles, are present in the same space. Here already no universal
 recipe whatsoever can be given on how to reach the goal without
-exploring the space first. In order to reach a goal or desired
-destination, the distance to the goal has to increase on at least one
-axis of the given space at some point (non-monotonic gradient). This
-means, that if the wrong distance measure is used, you easily end up in a
-local extremum.
+exploring the space first and building a map. In order to reach a goal
+or desired destination, the distance to the goal has to increase on at
+least one axis of the given space at some point
+(non-monotonicity). This means, that if the wrong distance measure is
+used, you easily end up in a local extremum.
 
-This issue seems related to a) convexity, leaving the respective
+This issue also seems related to a) convexity, leaving the respective
 reasoning and diagram as an exercise for a possible later post, and b)
 to Franz & Mallot's navigation hierarchy from their 2000 paper [^4].
-
 
 ### Comments
 
