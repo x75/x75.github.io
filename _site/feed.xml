@@ -5,27 +5,72 @@
     <description>x75&#39;s experimental blog and general meme dump.</description>
     <link>http://x75.github.io/</link>
     <atom:link href="http://x75.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 09 Nov 2016 11:14:53 +0100</pubDate>
-    <lastBuildDate>Wed, 09 Nov 2016 11:14:53 +0100</lastBuildDate>
+    <pubDate>Wed, 09 Nov 2016 11:58:28 +0100</pubDate>
+    <lastBuildDate>Wed, 09 Nov 2016 11:58:28 +0100</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
         <title>From snowboarding to motion, music, and robotics</title>
         <description>&lt;h2 id=&quot;from-snowboarding-to-motion-music-and-robotics&quot;&gt;From snowboarding to motion, music, and robotics&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;: motion, robot learning, exploration, music&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;: motion, robot learning, exploration, music, bio-inspiration&lt;/p&gt;
 
-&lt;p&gt;Recently while browsing my &lt;a href=&quot;https://www.redbulletin.com/at/de/the-red-bulletin-magazin&quot;&gt;favorite robotics magazine&lt;/a&gt; I started reading an interview with Travis Rice, which I didn’t know, promoting his recent film &lt;a href=&quot;http://www.thefourthphase.com/&quot;&gt;The Fourth Phase&lt;/a&gt;. It’s usual that athletes mention issues interesting to robotics when talking about their body and the challenges involved in particular stunts, which is the reason why RB in fact is my fav’ed robotics mag in the first place. What struck me about this interview though that Travis just didn’t stop dropping major agreeable insights about motion and environments.&lt;/p&gt;
+&lt;p&gt;Recently while browsing my &lt;a href=&quot;https://www.redbulletin.com/at/de/the-red-bulletin-magazin&quot;&gt;favorite robotics
+magazine&lt;/a&gt;
+I started reading an interview with Travis Rice, previously unknown to
+me, promoting his recent film &lt;a href=&quot;http://www.thefourthphase.com/&quot;&gt;The Fourth
+Phase&lt;/a&gt;. It’s usual that athletes
+mention issues interesting to robotics when talking about their body
+and the challenges involved in particular stunts, which is the reason
+why RB in fact is my fav’ed robotics mag in the first place. What
+struck me about this interview, though, is that Travis just didn’t
+stop dropping major agreeable insights about motion and environments
+and possible responses of an agent. Sorry for the german text, here’s
+the &lt;a href=&quot;https://www.redbulletin.com/uk/en/sports/travis-rices-quest-for-the-ultimate-snowboard-adventure&quot;&gt;english version of the
+interview&lt;/a&gt;
+which seems nicer in the formulations anyway ;)&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://x75.github.io/assets/20161109_rb_rice/rbrice_01_IMG_20161103_091430_400.jpg&quot; alt=&quot;Snowboarding and music&quot; title=&quot;Snowboarding and music&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;This is about adaptive rhythms which &lt;em&gt;play&lt;/em&gt; with the topographic
+situation and the transitions between local configurations, the result
+being a combination of the influences of the environment and the
+individual response. The same evaluation criteria seem to apply for
+music and motion in terms of the &lt;em&gt;groove&lt;/em&gt;. Would be nice if we could
+capture that as a loss criterion for learning motions, like, what is
+a nice dance for a given song.&lt;/p&gt;
+
 &lt;p&gt;&lt;img src=&quot;http://x75.github.io/assets/20161109_rb_rice/rbrice_02_IMG_20161103_091444_400.jpg&quot; alt=&quot;Topography, saliency, navigation&quot; title=&quot;Topography, saliency, navigation&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;![Topography, saliency, navigation](http://x75.github.io/assets/20161109_rb_rice/rbrice_03_IMG_20161103_091455_400.jpg “”)&lt;/p&gt;
+&lt;p&gt;First we need errors to do any actual learning, no problem. Then this
+is about picking salient features of the topography, landmarks, as
+reference points to attach triggers for specific action sequences.&lt;/p&gt;
 
-&lt;p&gt;![Topography, saliency, navigation](http://x75.github.io/assets/20161109_rb_rice/rbrice_04_IMG_20161103_091506_400.jpg “”)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://x75.github.io/assets/20161109_rb_rice/rbrice_03_IMG_20161103_091455_400.jpg&quot; alt=&quot;Flow, reaction speed and mental simulation&quot; title=&quot;Flow, reaction speed and mental simulation&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;![Topography, saliency, navigation](http://x75.github.io/assets/20161109_rb_rice/rbrice_05_IMG_20161103_091511_400.jpg “”)&lt;/p&gt;
+&lt;p&gt;Adequate reaction speed requires a flow-state which means very little
+or zero conscious participation in the motion control. Not sure about
+the fear stuff in the context of robotics. Finally, mental simulation
+is being used for finding an action sequence that copes with some
+topographic situation and is being pushed down during the simulations
+into low-level action control.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://x75.github.io/assets/20161109_rb_rice/rbrice_04_IMG_20161103_091506_400.jpg&quot; alt=&quot;Search objectives, exploration&quot; title=&quot;Search objectives, exploration&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is about search criteria where you are trying to find features
+that provoke motion solutions which are supposed to be rewarding in
+the musical sense, which provides inspiration for interesting
+exploration objectives for robots (“… geological oddities. We want
+weird. Weird is good”). Actively seek out environmental and perceptual
+challenges such that entirely new behaviour needs to be generated in
+response.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://x75.github.io/assets/20161109_rb_rice/rbrice_05_IMG_20161103_091511_400.jpg&quot; alt=&quot;Motivations, objectives&quot; title=&quot;Motivations, objectives&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Finding an &lt;em&gt;answer&lt;/em&gt; to weird and unusual environmental stimuli that
+you have sought out earlier using the weirdness search objective.&lt;/p&gt;
+
+&lt;p&gt;Cheers, let’s move.&lt;/p&gt;
 </description>
         <pubDate>Wed, 09 Nov 2016 00:00:00 +0100</pubDate>
         <link>http://x75.github.io/2016/11/09/motion-music-robotics/</link>
