@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Always SWERVING to steer free of obstacles</title>
-    <description>x75's experimental blog and general meme dump.</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>2016-11-09 10:39:54 +0100</pubDate>
-    <lastBuildDate>2016-11-09 10:39:54 +0100</lastBuildDate>
-    <generator>Jekyll v</generator>
+    <description>x75&#39;s experimental blog and general meme dump.</description>
+    <link>http://x75.github.io/</link>
+    <atom:link href="http://x75.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 09 Nov 2016 10:47:49 +0100</pubDate>
+    <lastBuildDate>Wed, 09 Nov 2016 10:47:49 +0100</lastBuildDate>
+    <generator>Jekyll v2.2.0</generator>
     
       <item>
         <title>From snowboarding to motion, music, and robotics</title>
@@ -17,12 +17,12 @@
 
 &lt;p&gt;Recently while browsing my &lt;a href=&quot;https://www.redbulletin.com/at/de/the-red-bulletin-magazin&quot;&gt;favorite robotics magazine&lt;/a&gt; I started reading an interview with Travis Rice, which I didn’t know, promoting his recent film &lt;a href=&quot;http://www.thefourthphase.com/&quot;&gt;The Fourth Phase&lt;/a&gt;. It’s usual that athletes mention issues interesting to robotics when talking about their body and the challenges involved in particular stunts, which is the reason why RB in fact is my fav’ed robotics mag in the first place. What struck me about this interview though that Travis just didn’t stop dropping major agreeable insights about motion and environments.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://yourdomain.com/assets/rbrice_01_IMG_20161103_091430.jpg&quot; alt=&quot;Pic 1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://x75.github.io/assets/rbrice_01_IMG_20161103_091430.jpg&quot; alt=&quot;Pic 1&quot; /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>2016-11-09 00:00:00 +0100</pubDate>
-        <link>http://yourdomain.com/2016/11/09/motion-music-robotics/</link>
-        <guid isPermaLink="true">http://yourdomain.com/2016/11/09/motion-music-robotics/</guid>
+        <pubDate>Wed, 09 Nov 2016 00:00:00 +0100</pubDate>
+        <link>http://x75.github.io/2016/11/09/motion-music-robotics/</link>
+        <guid isPermaLink="true">http://x75.github.io/2016/11/09/motion-music-robotics/</guid>
         
         
       </item>
@@ -121,14 +121,14 @@ to Franz &amp;amp; Mallot’s navigation hierarchy from their 2000 paper &lt;sup
 *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
 /*
 var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&#39;s canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&#39;s unique identifier variable
 };
 */
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = '//x75.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
+(function() { // DON&#39;T EDIT BELOW THIS LINE
+var d = document, s = d.createElement(&#39;script&#39;);
+s.src = &#39;//x75.disqus.com/embed.js&#39;;
+s.setAttribute(&#39;data-timestamp&#39;, +new Date());
 (d.head || d.body).appendChild(s);
 })();
 &lt;/script&gt;
@@ -157,9 +157,9 @@ parts of the map labelled “Terra incognita”). &lt;a href=&quot;#fnref:3&quot
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>2016-10-06 00:00:00 +0200</pubDate>
-        <link>http://yourdomain.com/2016/10/06/apparent-uselessness/</link>
-        <guid isPermaLink="true">http://yourdomain.com/2016/10/06/apparent-uselessness/</guid>
+        <pubDate>Thu, 06 Oct 2016 00:00:00 +0200</pubDate>
+        <link>http://x75.github.io/2016/10/06/apparent-uselessness/</link>
+        <guid isPermaLink="true">http://x75.github.io/2016/10/06/apparent-uselessness/</guid>
         
         
       </item>
@@ -171,9 +171,9 @@ parts of the map labelled “Terra incognita”). &lt;a href=&quot;#fnref:3&quot
 &lt;p&gt;Go get it at &lt;a href=&quot;http://alkualkualkualkualkualkualkualkualkualku.org/pmwiki/pmwiki.php/Main/ALKU99&quot; title=&quot;ALKU99&quot;&gt;ALKU&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>2016-08-16 00:00:00 +0200</pubDate>
-        <link>http://yourdomain.com/2016/08/16/rara-avis-out-on-alku/</link>
-        <guid isPermaLink="true">http://yourdomain.com/2016/08/16/rara-avis-out-on-alku/</guid>
+        <pubDate>Tue, 16 Aug 2016 00:00:00 +0200</pubDate>
+        <link>http://x75.github.io/2016/08/16/rara-avis-out-on-alku/</link>
+        <guid isPermaLink="true">http://x75.github.io/2016/08/16/rara-avis-out-on-alku/</guid>
         
         
       </item>
@@ -183,9 +183,9 @@ parts of the map labelled “Terra incognita”). &lt;a href=&quot;#fnref:3&quot
         <description>&lt;p&gt;Just saying hi while trying to acquire a jekyll habit.&lt;/p&gt;
 
 </description>
-        <pubDate>2016-07-27 00:00:00 +0200</pubDate>
-        <link>http://yourdomain.com/2016/07/27/nothertestpost/</link>
-        <guid isPermaLink="true">http://yourdomain.com/2016/07/27/nothertestpost/</guid>
+        <pubDate>Wed, 27 Jul 2016 00:00:00 +0200</pubDate>
+        <link>http://x75.github.io/2016/07/27/nothertestpost/</link>
+        <guid isPermaLink="true">http://x75.github.io/2016/07/27/nothertestpost/</guid>
         
         
       </item>
@@ -197,20 +197,18 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 &lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
 
-&lt;div&gt;
-  &lt;pre&gt;&lt;code class=&quot;ruby&quot;&gt;def print_hi(name)
-  puts &amp;quot;Hi, #{name}&amp;quot;
-end
-print_hi('Tom')
-#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>2015-12-03 16:42:30 +0100</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/12/03/init/</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/12/03/init/</guid>
+        <pubDate>Thu, 03 Dec 2015 16:42:30 +0100</pubDate>
+        <link>http://x75.github.io/jekyll/update/2015/12/03/init/</link>
+        <guid isPermaLink="true">http://x75.github.io/jekyll/update/2015/12/03/init/</guid>
         
         
         <category>jekyll</category>
