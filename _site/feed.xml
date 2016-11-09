@@ -5,8 +5,8 @@
     <description>x75&#39;s experimental blog and general meme dump.</description>
     <link>http://x75.github.io/</link>
     <atom:link href="http://x75.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 09 Nov 2016 11:58:28 +0100</pubDate>
-    <lastBuildDate>Wed, 09 Nov 2016 11:58:28 +0100</lastBuildDate>
+    <pubDate>Wed, 09 Nov 2016 12:06:22 +0100</pubDate>
+    <lastBuildDate>Wed, 09 Nov 2016 12:06:22 +0100</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
@@ -71,6 +71,31 @@ response.&lt;/p&gt;
 you have sought out earlier using the weirdness search objective.&lt;/p&gt;
 
 &lt;p&gt;Cheers, let’s move.&lt;/p&gt;
+
+&lt;h3 id=&quot;comments&quot;&gt;Comments&lt;/h3&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&#39;s canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&#39;s unique identifier variable
+};
+*/
+(function() { // DON&#39;T EDIT BELOW THIS LINE
+var d = document, s = d.createElement(&#39;script&#39;);
+s.src = &#39;//x75.disqus.com/embed.js&#39;;
+s.setAttribute(&#39;data-timestamp&#39;, +new Date());
+(d.head || d.body).appendChild(s);
+})();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
 </description>
         <pubDate>Wed, 09 Nov 2016 00:00:00 +0100</pubDate>
         <link>http://x75.github.io/2016/11/09/motion-music-robotics/</link>
