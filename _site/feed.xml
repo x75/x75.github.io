@@ -5,8 +5,8 @@
     <description>x75&#39;s experimental blog and general meme dump.</description>
     <link>http://x75.github.io/</link>
     <atom:link href="http://x75.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 09 Nov 2016 10:47:49 +0100</pubDate>
-    <lastBuildDate>Wed, 09 Nov 2016 10:47:49 +0100</lastBuildDate>
+    <pubDate>Wed, 09 Nov 2016 11:13:57 +0100</pubDate>
+    <lastBuildDate>Wed, 09 Nov 2016 11:13:57 +0100</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
@@ -17,8 +17,15 @@
 
 &lt;p&gt;Recently while browsing my &lt;a href=&quot;https://www.redbulletin.com/at/de/the-red-bulletin-magazin&quot;&gt;favorite robotics magazine&lt;/a&gt; I started reading an interview with Travis Rice, which I didn’t know, promoting his recent film &lt;a href=&quot;http://www.thefourthphase.com/&quot;&gt;The Fourth Phase&lt;/a&gt;. It’s usual that athletes mention issues interesting to robotics when talking about their body and the challenges involved in particular stunts, which is the reason why RB in fact is my fav’ed robotics mag in the first place. What struck me about this interview though that Travis just didn’t stop dropping major agreeable insights about motion and environments.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://x75.github.io/assets/rbrice_01_IMG_20161103_091430.jpg&quot; alt=&quot;Pic 1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://x75.github.io/assets/20161109_rb_rice/rbrice_01_IMG_20161103_091430_400.jpg&quot; alt=&quot;Snowboarding and music&quot; title=&quot;Snowboarding and music&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;http://x75.github.io/assets/20161109_rb_rice/rbrice_02_IMG_20161103_091444_400.jpg&quot; alt=&quot;Topography, saliency, navigation&quot; title=&quot;Topography, saliency, navigation&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;![Topography, saliency, navigation](http://x75.github.io/assets/20161109_rb_rice/rbrice_03_IMG_20161103_091455_400.jpg “”)&lt;/p&gt;
+
+&lt;p&gt;![Topography, saliency, navigation](http://x75.github.io/assets/20161109_rb_rice/rbrice_04_IMG_20161103_091506_400.jpg “”)&lt;/p&gt;
+
+&lt;p&gt;![Topography, saliency, navigation](http://x75.github.io/assets/20161109_rb_rice/rbrice_05_IMG_20161103_091511_400.jpg “”)&lt;/p&gt;
 </description>
         <pubDate>Wed, 09 Nov 2016 00:00:00 +0100</pubDate>
         <link>http://x75.github.io/2016/11/09/motion-music-robotics/</link>
