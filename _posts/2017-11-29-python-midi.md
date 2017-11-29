@@ -7,7 +7,11 @@ comments: true
 ## python tools for midi
 
 __Keywords__: python, music, midi, score, event representation
- 
+
+And the best is the non-python **midicsv**,
+http://www.fourmilab.ch/webtools/midicsv/ which reads the midifile and
+dumps it into a nice table of comma-separated values.
+
 Some python candidate packages for working with MIDI, essentially reading and parsing MIDI files but musicology can be put on top.
 
 **Mido** - MIDI Objects for Python, https://github.com/olemb/mido
