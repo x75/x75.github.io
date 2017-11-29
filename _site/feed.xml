@@ -5,9 +5,81 @@
     <description>x75&#39;s experimental blog and general meme dump.</description>
     <link>http://x75.github.io/</link>
     <atom:link href="http://x75.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 09 Nov 2016 12:06:22 +0100</pubDate>
-    <lastBuildDate>Wed, 09 Nov 2016 12:06:22 +0100</lastBuildDate>
-    <generator>Jekyll v2.2.0</generator>
+    <pubDate>Wed, 29 Nov 2017 10:58:09 +0100</pubDate>
+    <lastBuildDate>Wed, 29 Nov 2017 10:58:09 +0100</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>python for MIDI</title>
+        <description>&lt;h2 id=&quot;python-tools-for-midi&quot;&gt;python tools for midi&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;: python, music, midi, score, event representation&lt;/p&gt;
+
+&lt;p&gt;Some python candidate packages for working with MIDI, essentially reading and parsing MIDI files but musicology can be put on top.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mido&lt;/strong&gt; - MIDI Objects for Python, https://github.com/olemb/mido&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Mido is a library for working with MIDI messages and ports. It’s designed to be as straight forward and Pythonic as possible.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Docs: https://mido.readthedocs.io/en/latest/&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Python MIDI&lt;/strong&gt;, https://github.com/vishnubob/python-midi,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Python, for all its amazing ability out of the box, does not provide you with an easy means to manipulate MIDI data. There are probably about ten different python packages out there that accomplish some part of this goal, but there is nothing that is totally comprehensive.&lt;/p&gt;
+
+  &lt;p&gt;This toolkit aims to fulfill this goal.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;music21&lt;/strong&gt;: a toolkit for computer-aided musicology, http://web.mit.edu/music21/&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Music21 is a set of tools for helping scholars and other active listeners answer questions about music quickly and simply.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;mingus&lt;/strong&gt;, https://github.com/bspaans/python-mingus, Docs: http://bspaans.github.io/python-mingus/&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;mingus is a package for Python used by programmers, musicians, composers and researchers to make and analyse music&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Result&lt;/strong&gt;: Pip installed all four of them without issues, music21 nags about running in python2, loaded and dumped some midi data.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Open ends&lt;/strong&gt;: musicxml, configure music21 with all helper programs, workflows for some common conversion tasks.&lt;/p&gt;
+
+&lt;h3 id=&quot;comments&quot;&gt;Comments&lt;/h3&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&#39;s canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&#39;s unique identifier variable
+};
+*/
+(function() { // DON&#39;T EDIT BELOW THIS LINE
+var d = document, s = d.createElement(&#39;script&#39;);
+s.src = &#39;//x75.disqus.com/embed.js&#39;;
+s.setAttribute(&#39;data-timestamp&#39;, +new Date());
+(d.head || d.body).appendChild(s);
+})();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+</description>
+        <pubDate>Wed, 29 Nov 2017 00:00:00 +0100</pubDate>
+        <link>http://x75.github.io/2017/11/29/python-midi/</link>
+        <guid isPermaLink="true">http://x75.github.io/2017/11/29/python-midi/</guid>
+        
+        
+      </item>
     
       <item>
         <title>From snowboarding to motion, music, and robotics</title>
@@ -269,16 +341,16 @@ parts of the map labelled “Terra incognita”). &lt;a href=&quot;#fnref:3&quot
     
       <item>
         <title>Init post</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code class=&quot;highlighter-rouge&quot;&gt;-w&lt;/code&gt; switch) to see your changes!
+To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
 
 &lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
