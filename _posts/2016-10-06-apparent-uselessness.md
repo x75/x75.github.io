@@ -2,7 +2,6 @@
 layout: post
 title: Apparent uselessness
 comments: true
-
 ---
 
 ## Apparent uselessness, the illusion of progress, and the difficulty of finding your way

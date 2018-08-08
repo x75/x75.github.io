@@ -4,10 +4,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>About</title>
+    <title>From snowboarding to motion, music, and robotics</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="x75's blog, a dump for memes and sketches">
-    <link rel="canonical" href="http://localhost:4000/about/">
+    <link rel="canonical" href="http://localhost:4000/2016/11/09/motion-music-robotics/">
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/css/main.css">
@@ -56,15 +56,96 @@
       <div class="post">
 
   <header class="post-header">
-    <h1>About</h1>
+    <h1>From snowboarding to motion, music, and robotics</h1>
+    <p class="meta">Nov 9, 2016</p>
   </header>
 
   <article class="post-content">
-  <p>This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at <a href="http://jekyllrb.com/">jekyllrb.com</a></p>
+  <h2 id="from-snowboarding-to-motion-music-and-robotics">From snowboarding to motion, music, and robotics</h2>
 
-<p>You can find the source code for the Jekyll new theme at: <a href="https://github.com/jglovier/jekyll-new">github.com/jglovier/jekyll-new</a></p>
+<p><strong>Keywords</strong>: motion, robot learning, exploration, music, bio-inspiration</p>
 
-<p>You can find the source code for Jekyll at <a href="https://github.com/jekyll/jekyll">github.com/jekyll/jekyll</a></p>
+<p>Recently while browsing my <a href="https://www.redbulletin.com/at/de/the-red-bulletin-magazin">favorite robotics
+magazine</a>
+I started reading an interview with Travis Rice, previously unknown to
+me, promoting his recent film <a href="http://www.thefourthphase.com/">The Fourth
+Phase</a>. It’s usual that athletes
+mention issues interesting to robotics when talking about their body
+and the challenges involved in particular stunts, which is the reason
+why RB in fact is my fav’ed robotics mag in the first place. What
+struck me about this interview, though, is that Travis just didn’t
+stop dropping major agreeable insights about motion and environments
+and possible responses of an agent. Sorry for the german text, here’s
+the <a href="https://www.redbulletin.com/uk/en/sports/travis-rices-quest-for-the-ultimate-snowboard-adventure">english version of the
+interview</a>
+which seems nicer in the formulations anyway ;)</p>
+
+<p><img src="http://localhost:4000/assets/20161109_rb_rice/rbrice_01_IMG_20161103_091430_400.jpg" alt="Snowboarding and music" title="Snowboarding and music" /></p>
+
+<p>This is about adaptive rhythms which <em>play</em> with the topographic
+situation and the transitions between local configurations, the result
+being a combination of the influences of the environment and the
+individual response. The same evaluation criteria seem to apply for
+music and motion in terms of the <em>groove</em>. Would be nice if we could
+capture that as a loss criterion for learning motions, like, what is
+a nice dance for a given song.</p>
+
+<p><img src="http://localhost:4000/assets/20161109_rb_rice/rbrice_02_IMG_20161103_091444_400.jpg" alt="Topography, saliency, navigation" title="Topography, saliency, navigation" /></p>
+
+<p>First we need errors to do any actual learning, no problem. Then this
+is about picking salient features of the topography, landmarks, as
+reference points to attach triggers for specific action sequences.</p>
+
+<p><img src="http://localhost:4000/assets/20161109_rb_rice/rbrice_03_IMG_20161103_091455_400.jpg" alt="Flow, reaction speed and mental simulation" title="Flow, reaction speed and mental simulation" /></p>
+
+<p>Adequate reaction speed requires a flow-state which means very little
+or zero conscious participation in the motion control. Not sure about
+the fear stuff in the context of robotics. Finally, mental simulation
+is being used for finding an action sequence that copes with some
+topographic situation and is being pushed down during the simulations
+into low-level action control.</p>
+
+<p><img src="http://localhost:4000/assets/20161109_rb_rice/rbrice_04_IMG_20161103_091506_400.jpg" alt="Search objectives, exploration" title="Search objectives, exploration" /></p>
+
+<p>This is about search criteria where you are trying to find features
+that provoke motion solutions which are supposed to be rewarding in
+the musical sense, which provides inspiration for interesting
+exploration objectives for robots (“… geological oddities. We want
+weird. Weird is good”). Actively seek out environmental and perceptual
+challenges such that entirely new behaviour needs to be generated in
+response.</p>
+
+<p><img src="http://localhost:4000/assets/20161109_rb_rice/rbrice_05_IMG_20161103_091511_400.jpg" alt="Motivations, objectives" title="Motivations, objectives" /></p>
+
+<p>Finding an <em>answer</em> to weird and unusual environmental stimuli that
+you have sought out earlier using the weirdness search objective.</p>
+
+<p>Cheers, let’s move.</p>
+
+<h3 id="comments">Comments</h3>
+
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = '//x75.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
 
   </article>
 
