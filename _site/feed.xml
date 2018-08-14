@@ -5,8 +5,8 @@
     <description>x75's blog, a dump for memes and sketches</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 15 Aug 2018 00:25:22 +0200</pubDate>
-    <lastBuildDate>Wed, 15 Aug 2018 00:25:22 +0200</lastBuildDate>
+    <pubDate>Wed, 15 Aug 2018 00:42:14 +0200</pubDate>
+    <lastBuildDate>Wed, 15 Aug 2018 00:42:14 +0200</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
@@ -14,11 +14,12 @@
         <description>&lt;h3 id=&quot;sound-music-sequences-search&quot;&gt;Sound, music, sequences, search&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;: sound, music, algorithms, generative models, sequence
-models, blub&lt;/p&gt;
+models&lt;/p&gt;
 
-&lt;p&gt;Graphical description of the scenery of AI music, incomplete but
-more or less consistent. Domain layer in black, modelling layer in
-green.&lt;/p&gt;
+&lt;p&gt;Graphical dump of my current picture related to the relationships of
+sound, music, sequences and search in corresponding spaces; incomplete
+but more or less consistent [claim]. Domain layer in black, modelling
+layer in green.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/2018-08-14-Sound-music-sequences-search/aib-sound-music-sequences-search.svg&quot; alt=&quot;Graphical description of the scenery drawing&quot; /&gt;&lt;/p&gt;
 

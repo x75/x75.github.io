@@ -7,11 +7,12 @@ comments: true
 ### Sound, music, sequences, search
 
 __Keywords__: sound, music, algorithms, generative models, sequence
-models, blub
+models
 
-Graphical description of the scenery of AI music, incomplete but
-more or less consistent. Domain layer in black, modelling layer in
-green.
+Graphical dump of my current picture related to the relationships of
+sound, music, sequences and search in corresponding spaces; incomplete
+but more or less consistent [claim]. Domain layer in black, modelling
+layer in green.
 
 ![Graphical description of the scenery drawing]({{ site-url }}/assets/2018-08-14-Sound-music-sequences-search/aib-sound-music-sequences-search.svg)
 
