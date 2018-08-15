@@ -9,8 +9,9 @@ comments: true
 __Keywords__: sound, music, algorithms, generative models, sequence
 models
 
-Graphical dump of my current picture related to the relationships of
-sound, music, sequences and search in corresponding spaces; incomplete
+This turned out the quickest way to get it done, a graphical dump of
+my current picture related to the relationship of sound, music,
+sequences and search, based on a shared modelling approach; incomplete
 but more or less consistent [claim]. Domain layer in black, modelling
 layer in green.
 
@@ -19,7 +20,7 @@ layer in green.
 Would like to argue that by combining *coding*, *latent space state
 propagation*, and *hierarchical composition*, most of the phenomena in
 sound, music, vocalization, spoken language, and written language can
-be modelled, all with the same few items. Let me know if you think,
+be modelled, all with the *same few items*. Let me know if you think,
 that this is obvious. Taking language as variable length sequences of
 actions, this can be extended straightforwardly to model navigation
 problems.
