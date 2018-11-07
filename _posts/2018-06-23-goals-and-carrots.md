@@ -114,7 +114,6 @@ href="#fn.4">4</a></sup>, **Attention / awareness** G. Franck,
 **Credibility** (Trouble: F\*\*\*'in with a real one, no quests)
 
 More refs:
-
 -   Cobra effect
 -   The myth of the objective, usefulness of useless knowledge
 -   Team of teams
