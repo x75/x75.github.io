@@ -2,12 +2,114 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Always SWERVING to steer free of classically-minded mobs</title>
-    <description>x75's blog, a dump for memes and sketches</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 15 Aug 2018 00:49:26 +0200</pubDate>
-    <lastBuildDate>Wed, 15 Aug 2018 00:49:26 +0200</lastBuildDate>
-    <generator>Jekyll v3.4.0</generator>
+    <description>x75&#39;s blog, a dump for memes and sketches</description>
+    <link>http://x75.github.io/</link>
+    <atom:link href="http://x75.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 07 Nov 2018 14:08:24 +0100</pubDate>
+    <lastBuildDate>Wed, 07 Nov 2018 14:08:24 +0100</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Catalogue of sound and music works by Oswald Berthold</title>
+        <description>&lt;h3 id=&quot;catalogue-of-sound-and-music-works-by-oswald-berthold&quot;&gt;Catalogue of sound and music works by Oswald Berthold&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;: sound, music, algorithms, generative models, sequence
+models, dsp, synthesis, sonfication, data-driven audio, digital musician, aesthetics-ng, …&lt;/p&gt;
+
+&lt;h4 id=&quot;humboldt-beginnings-and-plazma&quot;&gt;Humboldt beginnings and plazma&lt;/h4&gt;
+
+&lt;p&gt;Not showing specific musical talent during childhood, Oswald’s musical
+career starts at age 6 or so, with the production of nonsense radio
+plays together with his brother &lt;em&gt;ub&lt;/em&gt; using the tape-based recording
+functions of their parents’ stereo. Later on, playing the guitar had
+to be learned, to be able to found a band together with homies Klaus,
+grt, Tomi, Mitch and Hannah. After a few transformations, this band
+became &lt;em&gt;plazma&lt;/em&gt; which was a unique outfit within the ecosystem of
+teenager-run bands in the city of Graz, Austria, at that time. plazma
+has two albums, both self-produced at ultra-low budget, using advanced
+track-bouncing techniques and countryside creativity retreats. Both
+also, unfortunately unreleased to date, but #wip.&lt;/p&gt;
+
+&lt;h4 id=&quot;farmersmanual&quot;&gt;farmersmanual&lt;/h4&gt;
+
+&lt;p&gt;Separate story to be filled in at another time, until then find more
+info on &lt;a href=&quot;https://farmersmanual.bandcamp.com/&quot;&gt;bandcamp&lt;/a&gt;,
+&lt;a href=&quot;https://www.discogs.com/artist/356-Farmers-Manual&quot;&gt;discogs&lt;/a&gt;,
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Farmers_Manual&quot;&gt;wikipedia&lt;/a&gt;, and their
+&lt;a href=&quot;http://web.fm&quot;&gt;website&lt;/a&gt; or the &lt;a href=&quot;http://rla.web.fm&quot;&gt;recent live
+archive&lt;/a&gt; or the &lt;a href=&quot;https://archive.org/search.php?query=farmersmanual&quot;&gt;internet
+archive&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;gullibloon&quot;&gt;gullibloon&lt;/h4&gt;
+
+&lt;p&gt;Picking up fm’s sonification and real time data-driven synthesis and
+composition approach, gullibloon was conceived as both software vendor
+and musical identity, building all of their pieces on data feeds
+collected from virtual and physical source processes such as network
+traffic, computer activity status, various sensors and algorithmic
+generators. They can be found on the &lt;a href=&quot;https://gullibloon.org&quot;&gt;web&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Gullibloon ‘MUH’ (ALKU 87, 2010), Music cassette tape, grey and pink versions, sold out, &lt;a href=&quot;http://alkualkualkualkualkualkualkualkualkualku.org/pmwiki/pmwiki.php/Main/ALKU87&quot;&gt;http://alkualkualkualkualkualkualkualkualkualku.org/pmwiki/pmwiki.php/Main/ALKU87&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;army of darkness, on &lt;a href=&quot;https://www.youtube.com/watch?v=a7nEPDXEioM&amp;amp;t=28s&quot;&gt;youtube&lt;/a&gt;, produced ca. 2010 (?)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;solo-work&quot;&gt;Solo work&lt;/h4&gt;
+
+&lt;p&gt;Been building several different identities over time, starting with
+wrzk and &lt;em&gt;pxp&lt;/em&gt; and &lt;em&gt;tsx&lt;/em&gt; later on.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;pxp - while (wavetrap, 2002)&lt;/li&gt;
+  &lt;li&gt;pxp - nada (rekorder, 2005)&lt;/li&gt;
+  &lt;li&gt;Various - Rara avis, ALKU, 2017?&lt;/li&gt;
+  &lt;li&gt;tsx - recur (trust, 2017), available via TRUST Vienna on
+&lt;a href=&quot;https://trust.bandcamp.com/album/recur&quot;&gt;bandcamp&lt;/a&gt; or on youtube
+(&lt;a href=&quot;https://www.youtube.com/watch?v=K6gjx773udo&quot;&gt;going&lt;/a&gt;,
+&lt;a href=&quot;https://www.youtube.com/watch?v=lSqJ-OmqtDA&quot;&gt;squrp&lt;/a&gt;,
+&lt;a href=&quot;https://www.youtube.com/watch?v=-MyBKmX7xpA&quot;&gt;slow&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=oEtSrK6kbO4&quot;&gt;brum brum
+like&lt;/a&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--
+References: autopop, augmented creativity, augmented editing,
+teaching, game sounds, sonification, information sound scapes.
+--&gt;
+
+&lt;h3 id=&quot;comments&quot;&gt;Comments&lt;/h3&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&#39;s canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&#39;s unique identifier variable
+};
+*/
+(function() { // DON&#39;T EDIT BELOW THIS LINE
+var d = document, s = d.createElement(&#39;script&#39;);
+s.src = &#39;//x75.disqus.com/embed.js&#39;;
+s.setAttribute(&#39;data-timestamp&#39;, +new Date());
+(d.head || d.body).appendChild(s);
+})();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;h3 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h3&gt;
+
+&lt;p&gt;&lt;sup&gt;&lt;a id=&quot;fn.1&quot; href=&quot;#fnr.1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;fn.1&lt;/p&gt;
+</description>
+        <pubDate>Wed, 07 Nov 2018 00:00:00 +0100</pubDate>
+        <link>http://x75.github.io/2018/11/07/Oswald-Berthold-music-works/</link>
+        <guid isPermaLink="true">http://x75.github.io/2018/11/07/Oswald-Berthold-music-works/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Sound, music, sequences, search</title>
@@ -47,14 +149,14 @@ teaching, game sounds, sonification, information sound scapes.
 *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
 /*
 var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&#39;s canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&#39;s unique identifier variable
 };
 */
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = '//x75.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
+(function() { // DON&#39;T EDIT BELOW THIS LINE
+var d = document, s = d.createElement(&#39;script&#39;);
+s.src = &#39;//x75.disqus.com/embed.js&#39;;
+s.setAttribute(&#39;data-timestamp&#39;, +new Date());
 (d.head || d.body).appendChild(s);
 })();
 &lt;/script&gt;
@@ -66,8 +168,8 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;p&gt;&lt;sup&gt;&lt;a id=&quot;fn.1&quot; href=&quot;#fnr.1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;fn.1&lt;/p&gt;
 </description>
         <pubDate>Tue, 14 Aug 2018 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2018/08/14/Sound-music-sequences-search/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/08/14/Sound-music-sequences-search/</guid>
+        <link>http://x75.github.io/2018/08/14/Sound-music-sequences-search/</link>
+        <guid isPermaLink="true">http://x75.github.io/2018/08/14/Sound-music-sequences-search/</guid>
         
         
       </item>
@@ -203,14 +305,14 @@ of power moves. Or so. Anyway, need to run, tbc.&lt;/p&gt;
 *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
 /*
 var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&#39;s canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&#39;s unique identifier variable
 };
 */
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = '//x75.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
+(function() { // DON&#39;T EDIT BELOW THIS LINE
+var d = document, s = d.createElement(&#39;script&#39;);
+s.src = &#39;//x75.disqus.com/embed.js&#39;;
+s.setAttribute(&#39;data-timestamp&#39;, +new Date());
 (d.head || d.body).appendChild(s);
 })();
 &lt;/script&gt;
@@ -222,8 +324,8 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;p&gt;&lt;sup&gt;&lt;a id=&quot;fn.1&quot; href=&quot;#fnr.1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;fn.1&lt;/p&gt;
 </description>
         <pubDate>Wed, 08 Aug 2018 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2018/08/08/Hot-books/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/08/08/Hot-books/</guid>
+        <link>http://x75.github.io/2018/08/08/Hot-books/</link>
+        <guid isPermaLink="true">http://x75.github.io/2018/08/08/Hot-books/</guid>
         
         
       </item>
@@ -343,7 +445,6 @@ discount factor &lt;sup&gt;&lt;a id=&quot;fnr.4&quot; class=&quot;footref&quot; 
 &lt;strong&gt;Credibility&lt;/strong&gt; (Trouble: F***‘in with a real one, no quests)&lt;/p&gt;
 
 &lt;p&gt;More refs:&lt;/p&gt;
-
 &lt;ul&gt;
   &lt;li&gt;Cobra effect&lt;/li&gt;
   &lt;li&gt;The myth of the objective, usefulness of useless knowledge&lt;/li&gt;
@@ -365,14 +466,14 @@ discount factor &lt;sup&gt;&lt;a id=&quot;fnr.4&quot; class=&quot;footref&quot; 
 *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
 /*
 var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&#39;s canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&#39;s unique identifier variable
 };
 */
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = '//x75.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
+(function() { // DON&#39;T EDIT BELOW THIS LINE
+var d = document, s = d.createElement(&#39;script&#39;);
+s.src = &#39;//x75.disqus.com/embed.js&#39;;
+s.setAttribute(&#39;data-timestamp&#39;, +new Date());
 (d.head || d.body).appendChild(s);
 })();
 &lt;/script&gt;
@@ -390,8 +491,8 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;p&gt;&lt;sup&gt;&lt;a id=&quot;fn.4&quot; href=&quot;#fnr.4&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; &lt;a href=&quot;https://stats.stackexchange.com/questions/221402/understanding-the-role-of-the-discount-factor-in-reinforcement-learning&quot;&gt;https://stats.stackexchange.com/questions/221402/understanding-the-role-of-the-discount-factor-in-reinforcement-learning&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 23 Jun 2018 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2018/06/23/goals-and-carrots/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/06/23/goals-and-carrots/</guid>
+        <link>http://x75.github.io/2018/06/23/goals-and-carrots/</link>
+        <guid isPermaLink="true">http://x75.github.io/2018/06/23/goals-and-carrots/</guid>
         
         
       </item>
@@ -421,14 +522,14 @@ s.setAttribute('data-timestamp', +new Date());
 *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
 /*
 var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&#39;s canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&#39;s unique identifier variable
 };
 */
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = '//x75.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
+(function() { // DON&#39;T EDIT BELOW THIS LINE
+var d = document, s = d.createElement(&#39;script&#39;);
+s.src = &#39;//x75.disqus.com/embed.js&#39;;
+s.setAttribute(&#39;data-timestamp&#39;, +new Date());
 (d.head || d.body).appendChild(s);
 })();
 &lt;/script&gt;
@@ -437,8 +538,8 @@ s.setAttribute('data-timestamp', +new Date());
 
 </description>
         <pubDate>Tue, 05 Dec 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2017/12/05/minecraft/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/12/05/minecraft/</guid>
+        <link>http://x75.github.io/2017/12/05/minecraft/</link>
+        <guid isPermaLink="true">http://x75.github.io/2017/12/05/minecraft/</guid>
         
         
       </item>
@@ -497,14 +598,14 @@ dumps it into a nice table of comma-separated values.&lt;/p&gt;
 *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
 /*
 var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&#39;s canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&#39;s unique identifier variable
 };
 */
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = '//x75.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
+(function() { // DON&#39;T EDIT BELOW THIS LINE
+var d = document, s = d.createElement(&#39;script&#39;);
+s.src = &#39;//x75.disqus.com/embed.js&#39;;
+s.setAttribute(&#39;data-timestamp&#39;, +new Date());
 (d.head || d.body).appendChild(s);
 })();
 &lt;/script&gt;
@@ -513,8 +614,8 @@ s.setAttribute('data-timestamp', +new Date());
 
 </description>
         <pubDate>Wed, 29 Nov 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2017/11/29/python-midi/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/11/29/python-midi/</guid>
+        <link>http://x75.github.io/2017/11/29/python-midi/</link>
+        <guid isPermaLink="true">http://x75.github.io/2017/11/29/python-midi/</guid>
         
         
       </item>
@@ -540,7 +641,7 @@ the &lt;a href=&quot;https://www.redbulletin.com/uk/en/sports/travis-rices-quest
 interview&lt;/a&gt;
 which seems nicer in the formulations anyway ;)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/20161109_rb_rice/rbrice_01_IMG_20161103_091430_400.jpg&quot; alt=&quot;Snowboarding and music&quot; title=&quot;Snowboarding and music&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://x75.github.io/assets/20161109_rb_rice/rbrice_01_IMG_20161103_091430_400.jpg&quot; alt=&quot;Snowboarding and music&quot; title=&quot;Snowboarding and music&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This is about adaptive rhythms which &lt;em&gt;play&lt;/em&gt; with the topographic
 situation and the transitions between local configurations, the result
@@ -550,13 +651,13 @@ music and motion in terms of the &lt;em&gt;groove&lt;/em&gt;. Would be nice if w
 capture that as a loss criterion for learning motions, like, what is
 a nice dance for a given song.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/20161109_rb_rice/rbrice_02_IMG_20161103_091444_400.jpg&quot; alt=&quot;Topography, saliency, navigation&quot; title=&quot;Topography, saliency, navigation&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://x75.github.io/assets/20161109_rb_rice/rbrice_02_IMG_20161103_091444_400.jpg&quot; alt=&quot;Topography, saliency, navigation&quot; title=&quot;Topography, saliency, navigation&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;First we need errors to do any actual learning, no problem. Then this
 is about picking salient features of the topography, landmarks, as
 reference points to attach triggers for specific action sequences.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/20161109_rb_rice/rbrice_03_IMG_20161103_091455_400.jpg&quot; alt=&quot;Flow, reaction speed and mental simulation&quot; title=&quot;Flow, reaction speed and mental simulation&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://x75.github.io/assets/20161109_rb_rice/rbrice_03_IMG_20161103_091455_400.jpg&quot; alt=&quot;Flow, reaction speed and mental simulation&quot; title=&quot;Flow, reaction speed and mental simulation&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Adequate reaction speed requires a flow-state which means very little
 or zero conscious participation in the motion control. Not sure about
@@ -565,7 +666,7 @@ is being used for finding an action sequence that copes with some
 topographic situation and is being pushed down during the simulations
 into low-level action control.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/20161109_rb_rice/rbrice_04_IMG_20161103_091506_400.jpg&quot; alt=&quot;Search objectives, exploration&quot; title=&quot;Search objectives, exploration&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://x75.github.io/assets/20161109_rb_rice/rbrice_04_IMG_20161103_091506_400.jpg&quot; alt=&quot;Search objectives, exploration&quot; title=&quot;Search objectives, exploration&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This is about search criteria where you are trying to find features
 that provoke motion solutions which are supposed to be rewarding in
@@ -575,7 +676,7 @@ weird. Weird is good”). Actively seek out environmental and perceptual
 challenges such that entirely new behaviour needs to be generated in
 response.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/20161109_rb_rice/rbrice_05_IMG_20161103_091511_400.jpg&quot; alt=&quot;Motivations, objectives&quot; title=&quot;Motivations, objectives&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://x75.github.io/assets/20161109_rb_rice/rbrice_05_IMG_20161103_091511_400.jpg&quot; alt=&quot;Motivations, objectives&quot; title=&quot;Motivations, objectives&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Finding an &lt;em&gt;answer&lt;/em&gt; to weird and unusual environmental stimuli that
 you have sought out earlier using the weirdness search objective.&lt;/p&gt;
@@ -592,14 +693,14 @@ you have sought out earlier using the weirdness search objective.&lt;/p&gt;
 *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
 /*
 var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&#39;s canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&#39;s unique identifier variable
 };
 */
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = '//x75.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
+(function() { // DON&#39;T EDIT BELOW THIS LINE
+var d = document, s = d.createElement(&#39;script&#39;);
+s.src = &#39;//x75.disqus.com/embed.js&#39;;
+s.setAttribute(&#39;data-timestamp&#39;, +new Date());
 (d.head || d.body).appendChild(s);
 })();
 &lt;/script&gt;
@@ -608,8 +709,8 @@ s.setAttribute('data-timestamp', +new Date());
 
 </description>
         <pubDate>Wed, 09 Nov 2016 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2016/11/09/motion-music-robotics/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/11/09/motion-music-robotics/</guid>
+        <link>http://x75.github.io/2016/11/09/motion-music-robotics/</link>
+        <guid isPermaLink="true">http://x75.github.io/2016/11/09/motion-music-robotics/</guid>
         
         
       </item>
@@ -708,14 +809,14 @@ to Franz &amp;amp; Mallot’s navigation hierarchy from their 2000 paper &lt;sup
 *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
 /*
 var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&#39;s canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&#39;s unique identifier variable
 };
 */
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = '//x75.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
+(function() { // DON&#39;T EDIT BELOW THIS LINE
+var d = document, s = d.createElement(&#39;script&#39;);
+s.src = &#39;//x75.disqus.com/embed.js&#39;;
+s.setAttribute(&#39;data-timestamp&#39;, +new Date());
 (d.head || d.body).appendChild(s);
 })();
 &lt;/script&gt;
@@ -727,26 +828,26 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;See &lt;a href=&quot;#spectrum-of-difficulties-in-reaching-goals&quot;&gt;this section&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;See &lt;a href=&quot;#spectrum-of-difficulties-in-reaching-goals&quot;&gt;this section&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;Thanks Giulio Sandini.&amp;nbsp;&lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Thanks Giulio Sandini. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:3&quot;&gt;
       &lt;p&gt;Please describe in precise steps how you are going to reach an
 objective (draw a route on a map), which at best is likely to exist
 and usually is only a vision, and where no one has gone before (on
-parts of the map labelled “Terra incognita”).&amp;nbsp;&lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+parts of the map labelled “Terra incognita”). &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;Biomimetic robot navigation. M. Franz, and H. Mallot. Robotics and Autonomous Systems 30 (1-2): 133-153 (2000)&amp;nbsp;&lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Biomimetic robot navigation. M. Franz, and H. Mallot. Robotics and Autonomous Systems 30 (1-2): 133-153 (2000) &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 06 Oct 2016 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2016/10/06/apparent-uselessness/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/10/06/apparent-uselessness/</guid>
+        <link>http://x75.github.io/2016/10/06/apparent-uselessness/</link>
+        <guid isPermaLink="true">http://x75.github.io/2016/10/06/apparent-uselessness/</guid>
         
         
       </item>
@@ -759,8 +860,8 @@ parts of the map labelled “Terra incognita”).&amp;nbsp;&lt;a href=&quot;#fnr
 
 </description>
         <pubDate>Tue, 16 Aug 2016 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2016/08/16/rara-avis-out-on-alku/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/08/16/rara-avis-out-on-alku/</guid>
+        <link>http://x75.github.io/2016/08/16/rara-avis-out-on-alku/</link>
+        <guid isPermaLink="true">http://x75.github.io/2016/08/16/rara-avis-out-on-alku/</guid>
         
         
       </item>
@@ -771,36 +872,9 @@ parts of the map labelled “Terra incognita”).&amp;nbsp;&lt;a href=&quot;#fnr
 
 </description>
         <pubDate>Wed, 27 Jul 2016 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2016/07/27/nothertestpost/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/07/27/nothertestpost/</guid>
+        <link>http://x75.github.io/2016/07/27/nothertestpost/</link>
+        <guid isPermaLink="true">http://x75.github.io/2016/07/27/nothertestpost/</guid>
         
-        
-      </item>
-    
-      <item>
-        <title>Init post</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code class=&quot;highlighter-rouge&quot;&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 03 Dec 2015 16:42:30 +0100</pubDate>
-        <link>http://localhost:4000/jekyll/update/2015/12/03/init/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2015/12/03/init/</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
