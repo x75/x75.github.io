@@ -2,6 +2,7 @@
 layout: post
 title: Apparent uselessness
 comments: true
+tags: robot-epistemology, robot-learning, exploration, dominant-progressivist-narratives, undreamed-of-utility
 ---
 
 ## Apparent uselessness, the illusion of progress, and the difficulty of finding your way

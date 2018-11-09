@@ -2,6 +2,7 @@
 layout: post
 title: Minecraft
 comments: true
+tags: minecraft, open-world, graphical, games, gaming
 ---
 
 ## Minecraft is great [wip]
@@ -12,10 +13,16 @@ __Keywords__: minecraft, open world, graphical, games
 
 **Python**: `pip install minecraft_data minecraftmap nbt2yaml PyNBT PyCraft picraft`
 
+### World design and purpose
+
 Salge et al's work on **generative design**:
 <http://arxiv.org/abs/1803.09853>,
 <http://gendesignmc.engineering.nyu.edu/>,
 <https://github.com/mcgreentn/GDMC>
+
+Did this [video
+recording](https://www.youtube.com/watch?v=uJIaBhK85AU) of an elytra
+flight through a flying parcour designed and performed by Lapinska.
 
 ### Comments
 
