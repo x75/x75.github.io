@@ -2,6 +2,7 @@
 layout: post
 title: python for MIDI
 comments: true
+tags: python music midi score event-representation
 ---
 
 ## python tools for midi

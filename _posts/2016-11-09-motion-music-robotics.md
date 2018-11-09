@@ -2,7 +2,7 @@
 layout: post
 title: From snowboarding to motion, music, and robotics
 comments: true
-
+tags: motion robotics robot-learning exploration priors music bio-inspiration
 ---
 
 ## From snowboarding to motion, music, and robotics

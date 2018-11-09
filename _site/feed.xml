@@ -5,8 +5,8 @@
     <description>x75&#39;s blog, a dump for memes and sketches</description>
     <link>http://x75.github.io/</link>
     <atom:link href="http://x75.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 07 Nov 2018 14:08:24 +0100</pubDate>
-    <lastBuildDate>Wed, 07 Nov 2018 14:08:24 +0100</lastBuildDate>
+    <pubDate>Fri, 09 Nov 2018 11:10:44 +0100</pubDate>
+    <lastBuildDate>Fri, 09 Nov 2018 11:10:44 +0100</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -76,6 +76,60 @@ References: autopop, augmented creativity, augmented editing,
 teaching, game sounds, sonification, information sound scapes.
 --&gt;
 
+&lt;h2&gt;Archive&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/tag/music&quot;&gt;&lt;code class=&quot;highligher-rouge&quot;&gt;&lt;nobr&gt;music&lt;/nobr&gt;&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/tag/sound&quot;&gt;&lt;code class=&quot;highligher-rouge&quot;&gt;&lt;nobr&gt;sound&lt;/nobr&gt;&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/tag/models&quot;&gt;&lt;code class=&quot;highligher-rouge&quot;&gt;&lt;nobr&gt;models&lt;/nobr&gt;&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/tag/generative&quot;&gt;&lt;code class=&quot;highligher-rouge&quot;&gt;&lt;nobr&gt;generative&lt;/nobr&gt;&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/tag/algorithms&quot;&gt;&lt;code class=&quot;highligher-rouge&quot;&gt;&lt;nobr&gt;algorithms&lt;/nobr&gt;&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/tag/synthesis&quot;&gt;&lt;code class=&quot;highligher-rouge&quot;&gt;&lt;nobr&gt;synthesis&lt;/nobr&gt;&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/tag/sonic-ambience&quot;&gt;&lt;code class=&quot;highligher-rouge&quot;&gt;&lt;nobr&gt;sonic-ambience&lt;/nobr&gt;&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/tag/sonfication&quot;&gt;&lt;code class=&quot;highligher-rouge&quot;&gt;&lt;nobr&gt;sonfication&lt;/nobr&gt;&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/tag/sequence-models&quot;&gt;&lt;code class=&quot;highligher-rouge&quot;&gt;&lt;nobr&gt;sequence-models&lt;/nobr&gt;&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/tag/sequence&quot;&gt;&lt;code class=&quot;highligher-rouge&quot;&gt;&lt;nobr&gt;sequence&lt;/nobr&gt;&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/tag/score&quot;&gt;&lt;code class=&quot;highligher-rouge&quot;&gt;&lt;nobr&gt;score&lt;/nobr&gt;&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/tag/robotics&quot;&gt;&lt;code class=&quot;highligher-rouge&quot;&gt;&lt;nobr&gt;robotics&lt;/nobr&gt;&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/tag/robot-learning&quot;&gt;&lt;code class=&quot;highligher-rouge&quot;&gt;&lt;nobr&gt;robot-learning&lt;/nobr&gt;&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/tag/python&quot;&gt;&lt;code class=&quot;highligher-rouge&quot;&gt;&lt;nobr&gt;python&lt;/nobr&gt;&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/tag/priors&quot;&gt;&lt;code class=&quot;highligher-rouge&quot;&gt;&lt;nobr&gt;priors&lt;/nobr&gt;&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/tag/motion&quot;&gt;&lt;code class=&quot;highligher-rouge&quot;&gt;&lt;nobr&gt;motion&lt;/nobr&gt;&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/tag/midi&quot;&gt;&lt;code class=&quot;highligher-rouge&quot;&gt;&lt;nobr&gt;midi&lt;/nobr&gt;&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/tag/generative-models&quot;&gt;&lt;code class=&quot;highligher-rouge&quot;&gt;&lt;nobr&gt;generative-models&lt;/nobr&gt;&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/tag/exploration&quot;&gt;&lt;code class=&quot;highligher-rouge&quot;&gt;&lt;nobr&gt;exploration&lt;/nobr&gt;&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/tag/event-representation&quot;&gt;&lt;code class=&quot;highligher-rouge&quot;&gt;&lt;nobr&gt;event-representation&lt;/nobr&gt;&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/tag/dsp&quot;&gt;&lt;code class=&quot;highligher-rouge&quot;&gt;&lt;nobr&gt;dsp&lt;/nobr&gt;&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/tag/digital-musician&quot;&gt;&lt;code class=&quot;highligher-rouge&quot;&gt;&lt;nobr&gt;digital-musician&lt;/nobr&gt;&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/tag/data-driven-audio&quot;&gt;&lt;code class=&quot;highligher-rouge&quot;&gt;&lt;nobr&gt;data-driven-audio&lt;/nobr&gt;&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/tag/birds&quot;&gt;&lt;code class=&quot;highligher-rouge&quot;&gt;&lt;nobr&gt;birds&lt;/nobr&gt;&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/tag/bio-inspiration&quot;&gt;&lt;code class=&quot;highligher-rouge&quot;&gt;&lt;nobr&gt;bio-inspiration&lt;/nobr&gt;&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/tag/aesthetics-ng&quot;&gt;&lt;code class=&quot;highligher-rouge&quot;&gt;&lt;nobr&gt;aesthetics-ng&lt;/nobr&gt;&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
 &lt;h3 id=&quot;comments&quot;&gt;Comments&lt;/h3&gt;
 
 &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
@@ -108,6 +162,28 @@ s.setAttribute(&#39;data-timestamp&#39;, +new Date());
         <link>http://x75.github.io/2018/11/07/Oswald-Berthold-music-works/</link>
         <guid isPermaLink="true">http://x75.github.io/2018/11/07/Oswald-Berthold-music-works/</guid>
         
+        <category>sound</category>
+        
+        <category>music</category>
+        
+        <category>algorithms</category>
+        
+        <category>generative-models</category>
+        
+        <category>sequence-models</category>
+        
+        <category>dsp</category>
+        
+        <category>synthesis</category>
+        
+        <category>sonfication</category>
+        
+        <category>data-driven-audio</category>
+        
+        <category>digital-musician</category>
+        
+        <category>aesthetics-ng</category>
+        
         
       </item>
     
@@ -115,8 +191,7 @@ s.setAttribute(&#39;data-timestamp&#39;, +new Date());
         <title>Sound, music, sequences, search</title>
         <description>&lt;h3 id=&quot;sound-music-sequences-search&quot;&gt;Sound, music, sequences, search&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;: sound, music, algorithms, generative models, sequence
-models&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;: sound, music, algorithms, generative models, sequence models&lt;/p&gt;
 
 &lt;p&gt;This turned out the quickest way to get it done, a graphical dump of
 my current picture related to the relationship of sound, music,
@@ -170,6 +245,20 @@ s.setAttribute(&#39;data-timestamp&#39;, +new Date());
         <pubDate>Tue, 14 Aug 2018 00:00:00 +0200</pubDate>
         <link>http://x75.github.io/2018/08/14/Sound-music-sequences-search/</link>
         <guid isPermaLink="true">http://x75.github.io/2018/08/14/Sound-music-sequences-search/</guid>
+        
+        <category>sound</category>
+        
+        <category>music</category>
+        
+        <category>algorithms</category>
+        
+        <category>generative</category>
+        
+        <category>models</category>
+        
+        <category>sequence</category>
+        
+        <category>models</category>
         
         
       </item>
@@ -617,6 +706,16 @@ s.setAttribute(&#39;data-timestamp&#39;, +new Date());
         <link>http://x75.github.io/2017/11/29/python-midi/</link>
         <guid isPermaLink="true">http://x75.github.io/2017/11/29/python-midi/</guid>
         
+        <category>python</category>
+        
+        <category>music</category>
+        
+        <category>midi</category>
+        
+        <category>score</category>
+        
+        <category>event-representation</category>
+        
         
       </item>
     
@@ -711,6 +810,20 @@ s.setAttribute(&#39;data-timestamp&#39;, +new Date());
         <pubDate>Wed, 09 Nov 2016 00:00:00 +0100</pubDate>
         <link>http://x75.github.io/2016/11/09/motion-music-robotics/</link>
         <guid isPermaLink="true">http://x75.github.io/2016/11/09/motion-music-robotics/</guid>
+        
+        <category>motion</category>
+        
+        <category>robotics</category>
+        
+        <category>robot-learning</category>
+        
+        <category>exploration</category>
+        
+        <category>priors</category>
+        
+        <category>music</category>
+        
+        <category>bio-inspiration</category>
         
         
       </item>
@@ -862,6 +975,16 @@ parts of the map labelled “Terra incognita”). &lt;a href=&quot;#fnref:3&quo
         <pubDate>Tue, 16 Aug 2016 00:00:00 +0200</pubDate>
         <link>http://x75.github.io/2016/08/16/rara-avis-out-on-alku/</link>
         <guid isPermaLink="true">http://x75.github.io/2016/08/16/rara-avis-out-on-alku/</guid>
+        
+        <category>music</category>
+        
+        <category>sound</category>
+        
+        <category>birds</category>
+        
+        <category>sonic-ambience</category>
+        
+        <category>generative</category>
         
         
       </item>

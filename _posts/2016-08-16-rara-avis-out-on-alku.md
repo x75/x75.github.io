@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Rara Avis out on ALKU, ALKU099
+tags: music sound birds sonic-ambience generative
 ---
 
 Rara Avis Music Cassette (MC) and booklet, both screaming yellow, out now on ALKU

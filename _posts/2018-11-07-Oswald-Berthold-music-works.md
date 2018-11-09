@@ -2,6 +2,7 @@
 layout: post
 title: Catalogue of sound and music works by Oswald Berthold
 comments: true
+tags: sound music algorithms generative-models sequence-models dsp synthesis sonfication data-driven-audio digital-musician aesthetics-ng
 ---
 
 ### Catalogue of sound and music works by Oswald Berthold
@@ -64,6 +65,8 @@ wrzk and *pxp* and *tsx* later on.
 References: autopop, augmented creativity, augmented editing,
 teaching, game sounds, sonification, information sound scapes.
 -->
+
+{% include archive.html %}
 
 ### Comments
 
