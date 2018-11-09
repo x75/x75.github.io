@@ -9,8 +9,8 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 
-{% if site.tags != "" %}
+{% if site.tags == "" %}
   {% include collecttags.html %}
 {% endif %}
-
+    
 </head>

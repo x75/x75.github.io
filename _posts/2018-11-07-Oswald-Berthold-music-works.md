@@ -66,7 +66,7 @@ References: autopop, augmented creativity, augmented editing,
 teaching, game sounds, sonification, information sound scapes.
 -->
 
-{% include archive.html %}
+<!-- {% include archive.html %} -->
 
 ### Comments
 
