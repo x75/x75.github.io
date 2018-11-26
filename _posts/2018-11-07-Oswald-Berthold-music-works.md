@@ -34,6 +34,35 @@ info on [bandcamp](https://farmersmanual.bandcamp.com/),
 archive](http://rla.web.fm) or the [internet
 archive](https://archive.org/search.php?query=farmersmanual).
 
+#### cd_slopper
+
+Working together with Florian Hecker we soon thought `cd_slopper` to
+be a good name for our activity. At the time we were deep in exploring
+codecs and manipulating audio on the level of non-PCM codecs. The
+frame structure used in MP3 is aesthetically very close to grain based
+synthesis. This became an interesting set of relations to sample from.
+
+#### fals.ch
+
+At about the same time that work on cd_slopper was started, we built a
+new version of Mego's sublabel falsch. The idea was to be an digital
+content provider (netlabel), build a random but unique
+self-referential and novel digital style, and implement the
+organization as a digital process itself. Curiosly, the backend of the
+first version of the website was Andrew Pam's (?, check) perl
+implementation of Ted Nelson's ZigZag(tm) using custom frontend
+code. In the second iteration, a custom implementation of a similar
+mechanism was used, making it easier to benefit from existing web
+technologies and allowing online editing of the label's datastore,
+directly via the website. All of this proved to be creatively fruitful
+and a lot of fun, although economically unsuccessful due to our
+outright art-pour-l'art approach, aka business naivity. The label
+released more than 50 packages of digital audio-visual content by a
+diverse set of upcoming and acclaimed artists, united by the their
+quest for truly innovative approaches to media design of technical and
+aesthetic excellence. The releases include two tangible CDROMs serving
+as cross-sections of the catalogue.
+
 #### gullibloon
 
 Picking up fm's sonification and real time data-driven synthesis and
