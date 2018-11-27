@@ -36,8 +36,10 @@ archive](https://archive.org/search.php?query=farmersmanual).
 
 #### cd_slopper
 
-Working together with Florian Hecker we soon thought `cd_slopper` to
-be a good name for our activity. At the time we were deep in exploring
+Working together with [Florian
+Hecker](http://florianhecker.blogspot.com/) we soon thought
+[cd_slopper](https://www.discogs.com/artist/11328-CD_slopper) to be a
+good name for our activity. At the time we were deep in exploring
 codecs and manipulating audio on the level of non-PCM codecs. The
 frame structure used in MP3 is aesthetically very close to grain based
 synthesis. This became an interesting set of relations to sample from.
@@ -45,9 +47,10 @@ synthesis. This became an interesting set of relations to sample from.
 #### fals.ch
 
 At about the same time that work on cd_slopper was started, we built a
-new version of Mego's sublabel falsch. The idea was to be an digital
-content provider (netlabel), build a random but unique
-self-referential and novel digital style, and implement the
+new version of Mego's sublabel falsch on
+[fals.ch](web.archive.org/web/19991218005216/http://fals.ch). The idea
+was to be a digital content provider (aka netlabel), build a random
+but unique self-referential and novel digital style, and implement the
 organization as a digital process itself. Curiosly, the backend of the
 first version of the website was Andrew Pam's (?, check) perl
 implementation of Ted Nelson's ZigZag(tm) using custom frontend
@@ -77,9 +80,11 @@ generators. They can be found on the [web](https://gullibloon.org).
 
 #### Solo work
 
-Been building several different identities over time, starting with
-wrzk and *pxp* and *tsx* later on.
+Been working on different synthetic persona over time including
+*calimba de luna*, *dprmkr*, *pxp* and *tsx*.
 
+ - dprmkr - Test codes for the measurement of airborne noise, (con*, 1997)
+  - Farmers Manual attribution is incorrect
  - pxp - while (wavetrap, 2002)
  - pxp - nada (rekorder, 2005)
  - Various - Rara avis, ALKU, 2017?
@@ -89,6 +94,27 @@ wrzk and *pxp* and *tsx* later on.
    [squrp](https://www.youtube.com/watch?v=lSqJ-OmqtDA),
    [slow](https://www.youtube.com/watch?v=-MyBKmX7xpA), [brum brum
    like](https://www.youtube.com/watch?v=oEtSrK6kbO4)).
+   
+### Raw list
+
+FIXME: include trackdb, in the meantime simple version
+
+| **Year** | **artist** | **package** | **Refs**|
+|----------|------------|-------------|---------|
+| 1996 | farmersmanual | fm | Mego - Mego 017 |
+| 1996 | farmersmanual | No backup | Mego - Mego 008 |
+| 1996 | farmersmanual | does not compute | tray - TRAY 1 |
+| 1997 | farmersmanual | fsck | tray - TRAY 2, OR - SLUMP 8 |
+| 1997 | dprmkr        | test codes ftmoan | constar - con\* 0004 |
+| 1998 | farmersmanual | explorers\_we | OR - SQUISH04 |
+| 2000 | cd\_slopper   | SaskieWoxi | OR - JODEL 10 |
+| 2002 | pxp           | while(p){print"."," "x$p++} | Wavetrap - WAV04 |
+| 2003 | farmersmanual | Recent live archive (RLA) | Mego - Mego 777 |
+| 2005 | pxp           | nada                      | Dekorder - Dekorder 009 |
+| 2010 | gullibloon    | MUH                       | Alku - ALKU 87 |
+| 2016 | Various       | Rara Avis | Alku - ALKU 99 |
+| 2017 | farmersmanual | fmoto | generate and test - gt0 |
+| 2017 | tsx           | recur | TRUST - TRUSTe02 | 
 
 <!--
 References: autopop, augmented creativity, augmented editing,
