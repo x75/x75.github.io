@@ -101,20 +101,20 @@ FIXME: include trackdb, in the meantime simple version
 
 | **Year** | **artist** | **package** | **Refs**|
 | -------- | ---------- | ----------- | ------- |
-| 1996 | farmersmanual | fm | Mego - Mego 017 |
-| 1996 | farmersmanual | No backup | Mego - Mego 008 |
-| 1996 | farmersmanual | does not compute | tray - TRAY 1 |
-| 1997 | farmersmanual | fsck | tray - TRAY 2, OR - SLUMP 8 |
-| 1997 | dprmkr        | test codes ftmoan | constar - con\* 0004 |
-| 1998 | farmersmanual | explorers\_we | OR - SQUISH04 |
-| 2000 | cd\_slopper   | SaskieWoxi | OR - JODEL 10 |
-| 2002 | pxp           | while(p){print"."," "x$p++} | Wavetrap - WAV04 |
-| 2003 | farmersmanual | Recent live archive (RLA) | Mego - Mego 777 |
-| 2005 | pxp           | nada                      | Dekorder - Dekorder 009 |
-| 2010 | gullibloon    | MUH                       | Alku - ALKU 87 |
-| 2016 | Various       | Rara Avis | Alku - ALKU 99 |
-| 2017 | farmersmanual | fmoto | generate and test - gt0 |
-| 2017 | tsx           | recur | TRUST - TRUSTe02 | 
+|  1996    | farmersmanual | fm | Mego - Mego 017 |
+| 1996     | farmersmanual | No backup | Mego - Mego 008 |
+| 1996     | farmersmanual | does not compute | tray - TRAY 1 |
+| 1997     | farmersmanual | fsck | tray - TRAY 2, OR - SLUMP 8 |
+| 1997     | dprmkr        | test codes ftmoan | constar - con\* 0004 |
+| 1998     | farmersmanual | explorers\_we | OR - SQUISH04 |
+| 2000     | cd\_slopper   | SaskieWoxi | OR - JODEL 10 |
+| 2002     | pxp           | while(p){print"."," "x$p++} | Wavetrap - WAV04 |
+| 2003     | farmersmanual | Recent live archive (RLA) | Mego - Mego 777 |
+| 2005     | pxp           | nada                      | Dekorder - Dekorder 009 |
+| 2010     | gullibloon    | MUH                       | Alku - ALKU 87 |
+| 2016     | Various       | Rara Avis | Alku - ALKU 99 |
+| 2017     | farmersmanual | fmoto | generate and test - gt0 |
+| 2017     | tsx           | recur | TRUST - TRUSTe02 | 
 
 <!--
 References: autopop, augmented creativity, augmented editing,
