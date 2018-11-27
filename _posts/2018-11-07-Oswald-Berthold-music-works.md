@@ -100,7 +100,7 @@ Been working on different synthetic persona over time including
 FIXME: include trackdb, in the meantime simple version
 
 | **Year** | **artist** | **package** | **Refs**|
-|----------|------------|-------------|---------|
+| -------- | ---------- | ----------- | ------- |
 | 1996 | farmersmanual | fm | Mego - Mego 017 |
 | 1996 | farmersmanual | No backup | Mego - Mego 008 |
 | 1996 | farmersmanual | does not compute | tray - TRAY 1 |
