@@ -110,6 +110,7 @@ FIXME: include trackdb, in the meantime simple version
 | 2000     | cd\_slopper   | SaskieWoxi | OR - JODEL 10 |
 | 2002     | pxp           | while(p){print"."," "x$p++} | Wavetrap - WAV04 |
 | 2003     | farmersmanual | Recent live archive (RLA) | Mego - Mego 777 |
+| 2004     | Emanual Frakt | Kekkoushougai             | Tonto - tonto #24 |
 | 2005     | pxp           | nada                      | Dekorder - Dekorder 009 |
 | 2010     | gullibloon    | MUH                       | Alku - ALKU 87 |
 | 2016     | Various       | Rara Avis | Alku - ALKU 99 |
