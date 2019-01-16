@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A listening guide to electronic music [WIP]
+title: A listening guide to electronic music [perma-WIP]
 comments: true
 tags: sound music dsp synthesis sonfication data-driven-audio digital-musician aesthetics-ng
 ---
