@@ -9,8 +9,8 @@ tags: sound music dsp synthesis sonfication data-driven-audio digital-musician a
 
 __Keywords__: sound, music, algorithms, dsp, synthesis, sonfication, data-driven audio, digital musician, aesthetics-ng
 
-Was asked about an introductory playlist of electronic music
-connecting to instrumental aesthetics. Here it is
+A playlist intended as a guide to electronic music providing a bridge
+between pure and hybrid instrumental breeds.
 
 #### The list
 
