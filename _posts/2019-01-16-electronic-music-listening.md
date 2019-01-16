@@ -14,7 +14,18 @@ connecting to instrumental aesthetics. Here it is
 
 #### The list
 
-
+|                       |                    |                                 |                   |      |                                               |
+|-----------------------|--------------------|---------------------------------|-------------------|------|-----------------------------------------------|
+| &lt;2019-01-16 Mi&gt; |                    |                                 |                   |      |                                               |
+|                       | Can                | Pinch                           | Ege Bamyasi       | 1972 | <https://youtu.be/Hls8WnUfHbY>                |
+|                       | Can                | Spray                           | Future Days       | 1973 | <https://www.youtube.com/watch?v=7za3-tbYtPU> |
+|                       | Neu!               | Hallogallo                      | Neu!              | 1972 | <https://youtu.be/zndpi8tNZyQ>                |
+|                       | Earth              | Crooked Axis For String Quartet | Pentastar         | 1996 | <https://youtu.be/apmIX4piRsQ>                |
+|                       | Beach Boys         | Smile Backing Vocals Montage    | Smile sessions    | 1967 | <https://youtu.be/0DIzxxAiyQI>                |
+|                       | Bernard Parmegiani | *full album*                    | De Natura Sonorum | 1975 | <https://youtu.be/c_JHjUFfOs8>                |
+|                       | Mikey Murka        | Breeze Blow                     | Downpressor Man   | 2008 | <https://youtu.be/5lJ4fpo0JaA>                |
+|                       | Like a Tim         | Kill Killers                    | Boogie            | 1995 | <https://youtu.be/Rkl_DGNSgNw>                |
+|                       |                    |                                 |                   |      |                                               |
 
 ### Comments
 
