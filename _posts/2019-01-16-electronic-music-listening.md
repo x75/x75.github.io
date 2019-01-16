@@ -16,7 +16,7 @@ connecting to instrumental aesthetics. Here it is
 
 |                       |                    |                                 |                   |      |                                               |
 |-----------------------|--------------------|---------------------------------|-------------------|------|-----------------------------------------------|
-| &lt;2019-01-16 Mi&gt; |                    |                                 |                   |      |                                               |
+| 2019-01-16 |                    |                                 |                   |      |                                               |
 |                       | Can                | Pinch                           | Ege Bamyasi       | 1972 | <https://youtu.be/Hls8WnUfHbY>                |
 |                       | Can                | Spray                           | Future Days       | 1973 | <https://www.youtube.com/watch?v=7za3-tbYtPU> |
 |                       | Neu!               | Hallogallo                      | Neu!              | 1972 | <https://youtu.be/zndpi8tNZyQ>                |
