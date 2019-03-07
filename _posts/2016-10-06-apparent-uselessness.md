@@ -2,13 +2,10 @@
 layout: post
 title: Apparent uselessness
 comments: true
-tags: robot-epistemology, robot-learning, exploration, dominant-progressivist-narratives, undreamed-of-utility
+tags: robot-epistemology robot-learning exploration dominant-progressivist-narratives undreamed-of-utility
 ---
 
 ## Apparent uselessness, the illusion of progress, and the difficulty of finding your way
-
-__Keywords__: robot epistemology, robot learning, exploration, dominant progressivist narratives, undreamed-of-utility
- 
 
 Sometime last year I picked up on Kenneth Stanley's and Joel Lehmann's
 2015 book called [Why Greatness Cannot Be Planned - The Myth of the

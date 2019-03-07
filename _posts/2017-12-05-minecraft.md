@@ -2,12 +2,10 @@
 layout: post
 title: Minecraft
 comments: true
-tags: minecraft, open-world, graphical, games, gaming
+tags: minecraft open-world graphical games gaming
 ---
 
 ## Minecraft is great [wip]
-
-__Keywords__: minecraft, open world, graphical, games
 
 **Malmo**: <https://www.microsoft.com/en-us/research/project/project-malmo/>, <https://github.com/Microsoft/malmo>
 

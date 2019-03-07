@@ -20,11 +20,15 @@ filenames = glob.glob(post_dir + '*md')
 
 total_tags = []
 for filename in filenames:
+    print "scanning file {0}".format(filename)
     f = open(filename, 'r')
     crawl = False
     for line in f:
         if crawl:
+            print "crawl line {0}".format(line)
             current_tags = line.strip().split()
+            print "      current_tags {0}".format(current_tags)
+            if len(current_tags) < 1: continue
             if current_tags[0] == 'tags:':
                 total_tags.extend(current_tags[1:])
                 crawl = False

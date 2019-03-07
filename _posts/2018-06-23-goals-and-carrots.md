@@ -2,14 +2,10 @@
 layout: post
 title: Goals and carrots
 comments: true
-tags: motivation, temporal-horizon, discount factor, policies, complexity, management, self-organization, failure, creativity, open-culture
+tags: motivation temporal-horizon discount factor policies complexity management self-organization failure creativity open-culture
 ---
 
 ### Goals and carrots [WIP]
-
-__Keywords__: motivation, temporal horizon, discount factor, policies,
-complexity, management, self-organization, failure, creativity, open
-culture
 
 On reflection, it currently appears to me, that the source of my
 motivation is *beauty* which comes quite close to something like

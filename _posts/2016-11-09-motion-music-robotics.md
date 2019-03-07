@@ -7,8 +7,6 @@ tags: motion robotics robot-learning exploration priors music bio-inspiration
 
 ## From snowboarding to motion, music, and robotics
 
-__Keywords__: motion, robot learning, exploration, music, bio-inspiration
-
 Recently while browsing my [favorite robotics
 magazine](https://www.redbulletin.com/at/de/the-red-bulletin-magazin)
 I started reading an interview with Travis Rice, previously unknown to

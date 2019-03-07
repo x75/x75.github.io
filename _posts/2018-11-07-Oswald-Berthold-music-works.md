@@ -1,14 +1,13 @@
 ---
-
 layout: post
 title: Catalogue of sound and music works by Oswald Berthold
 comments: true
-tags: sound music algorithms generative-models sequence-models dsp synthesis sonfication data-driven-audio digital-musician aesthetics-ng
+tags: sound music algorithms models dsp synthesis sonfication data-driven-audio digital-musician aesthetics-ng
 ---
 
 ### Catalogue of sound and music works by Oswald Berthold
 
-**Keywords**: sound, music, algorithms, generative models, sequence models, dsp, synthesis, sonfication, data-driven audio, digital musician, aesthetics-ng, ...
+
 
 #### Humboldt beginnings and plazma
 
