@@ -2,7 +2,7 @@
 layout: post
 title: Agent self-organisation principles
 comments: true
-tags: agents, principles, models, algorithms, brain
+tags: agents, principles, models, algorithms, brain, robotics
 ---
 
 Principles for agent design is a hot research topic providing precious
