@@ -1,23 +1,17 @@
 ---
 layout: post
-title: Building music products from robotics 
+title: Music and robotics 
 comments: true
-tags: sound music dsp synthesis sonfication data-driven-audio digital-musician aesthetics-ng
+tags: sound music robotics
 ---
 
-### Music and robotics
+The connection between robots and music is often not easily by many
+people. For me as both a sound and robotics researcher and many of my
+peers, that connection seems quite obvious, though. Here I want to
+tell the story in an accessible way and provide high level of detail
+for those interested.
 
-__Keywords__: sound, music, algorithms, dsp, synthesis, sonfication, data-driven audio, digital musician, aesthetics-ng
-
-smp\_audio
-
-In conversation, different people see the strong connection between
-robots and music with different ease. For me as both a sound and
-robotics researcher that connection can be estblished beyond doubt and
-to high level of detail. The point in case is shown constructively by
-building a computational (executable) model from the mental picture.
-
-
+tbc: smp\_audio and friends
 
 ### Comments
 
