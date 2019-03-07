@@ -20,15 +20,16 @@ Homeokinesis (Der), Empowerment (Klyubin et al), Autopoeisis (Maturana
 
 ### Ad-hoc set of approaches
 
-| **Ad-hoc set of known approaches**             |     |  **Year**|     | **Attribution**           |
-|:-----------------------------------------------|-----|---------:|-----|:--------------------------|
-| Design for a brain, ultrastability             |     |      1952|     | Ashby                     |
-| Autopoeisis                                    |     |      1972|     | Maturana & Varela         |
-| Adequate locomotion strategies, brain equation |     |      1974|     | Rössler                   |
-| Embodied agent design principles               |     |      2006|     | Pfeifer & Bongard         |
-| Self-organization of behaviour                 |     |      1999|     | Der                       |
-|                                                |     |      2008|     | Klyubin, Polani & Nehaniv |
-|                                                |     |          |     |                           |
+| **Ad-hoc set of known approaches**             |     |   **Year**|     | **Attribution**           |
+|:-----------------------------------------------|-----|----------:|-----|:--------------------------|
+| Design for a brain, ultrastability             |     |       1952|     | Ashby                     |
+| Autopoeisis                                    |     |       1972|     | Maturana & Varela         |
+| Adequate locomotion strategies, brain equation |     |       1974|     | Rössler                   |
+| Embodied agent design principles               |     |       2006|     | Pfeifer & Bongard         |
+| Self-organization of behaviour                 |     |       1999|     | Der                       |
+|                                                |     |       2008|     | Klyubin, Polani & Nehaniv |
+| Predictive brain                               |     |  2006/2010|     | Friston, Clark            |
+|                                                |     |           |     |                           |
 
 #### Embodied agent design principles
 

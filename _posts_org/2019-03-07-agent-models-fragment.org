@@ -46,16 +46,17 @@ and sorted in *category-contiguous* blocks
 |            | = | much direction, wow. so motion. |
 
 
-| *Ad-hoc set of known approaches*               |   | *Year* |   | *Attribution*             |
-|------------------------------------------------+---+--------+---+---------------------------|
-| <l>                                            |   |    <r> |   | <l>                       |
-| Design for a brain, ultrastability             |   |   1952 |   | Ashby                     |
-| Autopoeisis                                    |   |   1972 |   | Maturana & Varela         |
-| Adequate locomotion strategies, brain equation |   |   1974 |   | Rössler                   |
-| Embodied agent design principles               |   |   2006 |   | Pfeifer & Bongard         |
-| Self-organization of behaviour                 |   |   1999 |   | Der                       |
-|                                                |   |   2008 |   | Klyubin, Polani & Nehaniv |
-|                                                |   |        |   |                           |
+| *Ad-hoc set of known approaches*               |   |    *Year* |   | *Attribution*             |
+|------------------------------------------------+---+-----------+---+---------------------------|
+| <l>                                            |   |       <r> |   | <l>                       |
+| Design for a brain, ultrastability             |   |      1952 |   | Ashby                     |
+| Autopoeisis                                    |   |      1972 |   | Maturana & Varela         |
+| Adequate locomotion strategies, brain equation |   |      1974 |   | Rössler                   |
+| Embodied agent design principles               |   |      2006 |   | Pfeifer & Bongard         |
+| Self-organization of behaviour                 |   |      1999 |   | Der                       |
+|                                                |   |      2008 |   | Klyubin, Polani & Nehaniv |
+| Predictive brain                               |   | 2006/2010 |   | Friston, Clark            |
+|                                                |   |           |   |                           |
 
 #+CAPTION: Design principles for embodied AI (Pfeifer & Bongard 2006)
 #+ATTR_LATEX: :environment longtable :align r|p{0.3\textwidth}p{0.5\textwidth}
