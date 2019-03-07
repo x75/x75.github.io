@@ -1,31 +1,63 @@
 ---
 layout: post
-title: A listening guide to electronic music [perma-WIP]
+title: Electronic music listening list [perma-WIP]
 comments: true
 tags: sound music dsp synthesis sonfication data-driven-audio digital-musician aesthetics-ng
 ---
 
-### A listening guide to electronic music
+### A listening list of electronic music
 
-__Keywords__: sound, music, algorithms, dsp, synthesis, sonfication, data-driven audio, digital musician, aesthetics-ng
-
-A perma-WIP playlist intended as a guide to electronic music providing
-a bridge between pure and physically hybrid breeds.
+Process of compiling introductory / representative playlist for
+electronic music connecting to instrumental aesthetics. A perma-WIP
+playlist intended as a guide to electronic music providing a bridge
+between pure and physically hybrid breeds.
 
 #### The list
 
-|                       |                    |                                 |                   |      |                                               |
-|-----------------------|--------------------|---------------------------------|-------------------|------|-----------------------------------------------|
-| 2019-01-16 |                    |                                 |                   |      |                                               |
-|                       | Can                | Pinch                           | Ege Bamyasi       | 1972 | <https://youtu.be/Hls8WnUfHbY>                |
-|                       | Can                | Spray                           | Future Days       | 1973 | <https://www.youtube.com/watch?v=7za3-tbYtPU> |
-|                       | Neu!               | Hallogallo                      | Neu!              | 1972 | <https://youtu.be/zndpi8tNZyQ>                |
-|                       | Earth              | Crooked Axis For String Quartet | Pentastar         | 1996 | <https://youtu.be/apmIX4piRsQ>                |
-|                       | Beach Boys         | Smile Backing Vocals Montage    | Smile sessions    | 1967 | <https://youtu.be/0DIzxxAiyQI>                |
-|                       | Bernard Parmegiani | *full album*                    | De Natura Sonorum | 1975 | <https://youtu.be/c_JHjUFfOs8>                |
-|                       | Mikey Murka        | Breeze Blow                     | Downpressor Man   | 2008 | <https://youtu.be/5lJ4fpo0JaA>                |
-|                       | Like a Tim         | Kill Killers                    | Boogie            | 1995 | <https://youtu.be/Rkl_DGNSgNw>                |
-|                       |                    |                                 |                   |      |                                               |
+|            |     | **Track**                       |     | **Artist**          |     | **Album**              |     |  **Year**|     | **Audio**                                                         |
+|-----------:|-----|---------------------------------|-----|---------------------|-----|------------------------|-----|---------:|-----|-------------------------------------------------------------------|
+|  2019-01-16|     |                                 |     |                     |     |                        |     |          |     |                                                                   |
+|            |     | Pinch                           |     | Can                 |     | Ege Bamyasi            |     |      1972|     | <https://youtu.be/Hls8WnUfHbY>                                    |
+|            |     | Spray                           |     | Can                 |     | Future Days            |     |      1973|     | <https://www.youtube.com/watch?v=7za3-tbYtPU>                     |
+|            |     | Hallogallo                      |     | Neu!                |     | Neu!                   |     |      1972|     | <https://youtu.be/zndpi8tNZyQ>                                    |
+|            |     | Crooked Axis For String Quartet |     | Earth               |     | Pentastar              |     |      1996|     | <https://youtu.be/apmIX4piRsQ>                                    |
+|            |     | Smile Backing Vocals Montage    |     | Beach Boys          |     | Smile sessions         |     |      1967|     | <https://youtu.be/0DIzxxAiyQI>                                    |
+|            |     | *full album*                    |     | Bernard Parmegiani  |     | De Natura Sonorum      |     |      1975|     | <https://youtu.be/c_JHjUFfOs8>                                    |
+|            |     | Breeze Blow                     |     | Mikey Murka         |     | Downpressor Man        |     |      2008|     | <https://youtu.be/5lJ4fpo0JaA>                                    |
+|            |     | Kill Killers                    |     | Like a Tim          |     | Boogie                 |     |      1995|     | <https://youtu.be/Rkl_DGNSgNw>                                    |
+|  2019-01-17|     |                                 |     |                     |     |                        |     |          |     |                                                                   |
+|            |     | Earth                           |     |                     |     |                        |     |          |     |                                                                   |
+|            |     | Raime                           |     |                     |     |                        |     |          |     |                                                                   |
+|  2019-03-07|     |                                 |     |                     |     |                        |     |          |     |                                                                   |
+|            |     | O superman                      |     | Laurie Anderson     |     | Big science            |     |          |     | <https://youtu.be/Vkfpi2H8tOE>                                    |
+|            |     | From the air                    |     | Laurie Anderson     |     | Big science            |     |          |     | <https://youtu.be/k1fhRtrC2Cw>                                    |
+|            |     | Walk the dog                    |     | Laurie Anderson     |     | Big science            |     |          |     | <https://youtu.be/uIqErvv5lG4>                                    |
+|            |     |                                 |     | Miles Davis         |     |                        |     |          |     |                                                                   |
+|            |     |                                 |     | Mulatu Astatke      |     |                        |     |          |     |                                                                   |
+|            |     |                                 |     | Blondie             |     |                        |     |          |     |                                                                   |
+|            |     |                                 |     |                     |     |                        |     |          |     |                                                                   |
+|            |     | **Mix**                         |     |                     |     |                        |     |          |     |                                                                   |
+|            |     |                                 |     |                     |     |                        |     |          |     |                                                                   |
+|            |     | Sendspaace guest mix            |     | jhud, farmersmanual |     | NTS Radio, London      |     |      2019|     | <https://www.mixcloud.com/NTSRadio/sendspaace-9th-february-2019/> |
+|            |     | Sorbie Rd. guest mix            |     | farmersmanual       |     | Subcity Radio, Glasgow |     |      2018|     | <https://www.mixcloud.com/sorbierd/guest-mix-farmers-manual/>     |
+|            |     |                                 |     |                     |     |                        |     |          |     |                                                                   |
+
+### Genres
+
+In the context of generate and test activity, some additional genres are needed. There's maybe three axes
+
+|    **Axis**|     | **Description**                                                  |     | **Value spectrum**                                                     |
+|-----------:|-----|------------------------------------------------------------------|-----|------------------------------------------------------------------------|
+|      source|     | cymatics, vibration domain                                       |     | mechanic, electronic, electro-mechanic                                 |
+|            |     |                                                                  |     |                                                                        |
+|     process|     | determinism, predictability, autonomy, closed-loop               |     | deterministic sequence, probabilistic sequence, generative, cybernetic |
+|            |     |                                                                  |     |                                                                        |
+|  complexity|     | process output, process residual, aesthetics, perceptual quality |     | constant, complex, random                                              |
+|            |     |                                                                  |     |                                                                        |
+
+Another version of that 
+
+![GT genres](/assets/2019-01-16-Electronic-music-listening/gt-genres-flat-small.png)
 
 ### Comments
 

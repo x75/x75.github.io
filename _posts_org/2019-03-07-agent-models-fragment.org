@@ -1,0 +1,87 @@
+** notes: auto: meme:
+
+ - dynatropic: motion towards option
+ - autoplastic: subject to change by itself
+ - autohedonistic: subject to its own value
+ - autonomic: subject to its own rules
+ - autotelic: subject to its own goals
+ - autochronic: subject to its own timing
+ - autogenerative: subject to its own making
+ - autopoetic: subject to its own storytelling
+ - ecologic: subject to its own limits and difference towards the other
+
+\newpage
+
+Two versions of the same stack of items, sorted in *bracing* order
+
+|              <r> |   |                                                            |
+|     *dynatropic* |   | motion towards option                                      |
+|    *autoplastic* |   | subject to change by itself                                |
+| *autohedonistic* |   | subject to its own value                                   |
+|      *autonomic* |   | subject to its own rules                                   |
+|      *autotelic* |   | subject to its own goals                                   |
+|    *autochronic* |   | subject to its own timing                                  |
+| *autogenerative* |   | subject to its own making                                  |
+|     *autopoetic* |   | subject to its own storytelling                            |
+|       *ecologic* |   | subject to its own limits and difference towards the other |
+
+and sorted in *category-contiguous* blocks
+
+|               <r> |   |                                     |
+|  *autohedonistic* |   | subject to its own value            |
+|       *autonomic* |   | subject to its own rules            |
+|       *autotelic* |   | subject to its own goals            |
+|     *autochronic* |   | subject to its own timing           |
+|  *autogenerative* |   | subject to its own making           |
+|      *autopoetic* |   | subject to its own storytelling     |
+| *autometaplastic* |   | subject to its own change by itself |
+|      *dynatropic* |   | motion towards option               |
+|        *ecologic* |   | limitation as resource              |
+
+\newpage 
+
+| jet + pack | = | jetpack                         |
+|            | = | rocket booster                  |
+|            | = | wound spring                    |
+|            | = | much direction, wow. so motion. |
+
+
+| *Ad-hoc set of known approaches*               |   | *Year* |   | *Attribution*             |
+|------------------------------------------------+---+--------+---+---------------------------|
+| <l>                                            |   |    <r> |   | <l>                       |
+| Design for a brain, ultrastability             |   |   1952 |   | Ashby                     |
+| Autopoeisis                                    |   |   1972 |   | Maturana & Varela         |
+| Adequate locomotion strategies, brain equation |   |   1974 |   | Rössler                   |
+| Embodied agent design principles               |   |   2006 |   | Pfeifer & Bongard         |
+| Self-organization of behaviour                 |   |   1999 |   | Der                       |
+|                                                |   |   2008 |   | Klyubin, Polani & Nehaniv |
+|                                                |   |        |   |                           |
+
+#+CAPTION: Design principles for embodied AI (Pfeifer & Bongard 2006)
+#+ATTR_LATEX: :environment longtable :align r|p{0.3\textwidth}p{0.5\textwidth}
+| *Number* |   | *Design principle* |   | *Description*                                        |
+|----------+---+--------------------+---+------------------------------------------------------|
+|      <r> |   | <l>                |   | <l>                                                  |
+|       P1 |   | Three constituents |   | Ecologial niche, behaviours and tasks, agent design  |
+|          |   |                    |   |                                                      |
+|       P2 |   | Complete agent     |   | The complete agent behaving in the real world        |
+|          |   |                    |   |                                                      |
+|       P3 |   | Cheap design       |   | Outsource as much as possible to environment         |
+|          |   |                    |   |                                                      |
+|       P4 |   | Redundancy         |   | Verteilte physikalisches Substrat, teilweise         |
+|          |   |                    |   | Überlappung in Funktion                              |
+|          |   |                    |   | P+: No single cause, no single effect                |
+|          |   |                    |   |                                                      |
+|       P5 |   | Sensorimotor       |   | Use motors to produce sensory stimulation,           |
+|          |   | coordination       |   | P+: Closed-loop, Predictive processing               |
+|          |   |                    |   |                                                      |
+|       P6 |   | Ecological balance |   | 1) Complexity match task-environment / sensori-motor |
+|          |   |                    |   | 2) Uniform task distribution over morphology,        |
+|          |   |                    |   | material, control, environment                       |
+|          |   |                    |   | P+: Adequate design                                  |
+|          |   |                    |   |                                                      |
+|       P7 |   | Parallel, loosely  |   | Large number of concurrent async processes           |
+|          |   | coupled processes  |   | P+: Population coding, Ensembles                     |
+|          |   |                    |   |                                                      |
+|       P8 |   | Value              |   | Fundamental value definition - good / bad            |
+|          |   |                    |   |                                                      |
