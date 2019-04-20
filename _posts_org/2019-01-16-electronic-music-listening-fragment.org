@@ -1,3 +1,6 @@
+
+#+OPTIONS: ^:{}
+
 --------------
 
 layout: post\\
@@ -21,6 +24,50 @@ electronic music connecting to instrumental aesthetics.
 A perma-WIP playlist intended as a guide to electronic music providing
 a bridge between pure and physically hybrid breeds.
 
+*** The list
+    :PROPERTIES:
+    :CUSTOM_ID: the-list
+    :END:
+
+|            |   | *Tracks / Albums*                                 |   | *Artist*            |   | *Album*                                |   | *Year* |   | *Audio*                                                                                                                         |
+|------------+---+---------------------------------------------------+---+---------------------+---+----------------------------------------+---+--------+---+---------------------------------------------------------------------------------------------------------------------------------|
+|        <r> |   |                                                   |   |                     |   |                                        |   |    <r> |   |                                                                                                                                 |
+| 2019-04-19 |   |                                                   |   |                     |   |                                        |   |        |   |                                                                                                                                 |
+|            |   | ATAXIA_C1,D1,D3,any                               |   | Rian Treanor        |   | Ataxia                                 |   |   2019 |   | https://riantreanor.bandcamp.com/album/ataxia                                                                                   |
+|            |   | Any                                               |   | Jlin                |   | Autobiography                          |   |   2018 |   | https://jlin.bandcamp.com/album/autobiography-music-from-wayne-mcgregors-autobiography                                          |
+|            |   | Any                                               |   | Category            |   | Arrays                                 |   |   2019 |   | https://category.bandcamp.com/album/arrays                                                                                      |
+|            |   |                                                   |   |                     |   |                                        |   |        |   |                                                                                                                                 |
+| 2019-03-07 |   |                                                   |   |                     |   |                                        |   |        |   |                                                                                                                                 |
+|            |   | O superman                                        |   | Laurie Anderson     |   | Big science                            |   |        |   | https://youtu.be/Vkfpi2H8tOE                                                                                                    |
+|            |   | From the air                                      |   | Laurie Anderson     |   | Big science                            |   |        |   | https://youtu.be/k1fhRtrC2Cw                                                                                                    |
+|            |   | Walk the dog                                      |   | Laurie Anderson     |   | Big science                            |   |        |   | https://youtu.be/uIqErvv5lG4                                                                                                    |
+|            |   |                                                   |   | Miles Davis         |   |                                        |   |        |   |                                                                                                                                 |
+|            |   |                                                   |   | Mulatu Astatke      |   |                                        |   |        |   |                                                                                                                                 |
+|            |   |                                                   |   | Blondie             |   |                                        |   |        |   |                                                                                                                                 |
+| 2019-01-17 |   |                                                   |   |                     |   |                                        |   |        |   |                                                                                                                                 |
+|            |   | Crooked axis for string quartet                   |   | Earth               |   | Pentastar: In the style of daemons     |   |        |   |                                                                                                                                 |
+|            |   |                                                   |   | Raime               |   |                                        |   |        |   |                                                                                                                                 |
+| 2019-01-16 |   |                                                   |   |                     |   |                                        |   |        |   |                                                                                                                                 |
+|            |   | Pinch                                             |   | Can                 |   | Ege Bamyasi                            |   |   1972 |   | https://youtu.be/Hls8WnUfHbY                                                                                                    |
+|            |   | Spray                                             |   | Can                 |   | Future Days                            |   |   1973 |   | https://www.youtube.com/watch?v=7za3-tbYtPU                                                                                     |
+|            |   | Hallogallo                                        |   | Neu!                |   | Neu!                                   |   |   1972 |   | https://youtu.be/zndpi8tNZyQ                                                                                                    |
+|            |   | Crooked Axis For String Quartet                   |   | Earth               |   | Pentastar                              |   |   1996 |   | https://youtu.be/apmIX4piRsQ                                                                                                    |
+|            |   | Smile Backing Vocals Montage                      |   | Beach Boys          |   | Smile sessions                         |   |   1967 |   | https://youtu.be/0DIzxxAiyQI                                                                                                    |
+|            |   | /full album/                                      |   | Bernard Parmegiani  |   | De Natura Sonorum                      |   |   1975 |   | https://youtu.be/c_JHjUFfOs8                                                                                                    |
+|            |   | Breeze Blow                                       |   | Mikey Murka         |   | Downpressor Man                        |   |   2008 |   | https://youtu.be/5lJ4fpo0JaA                                                                                                    |
+|            |   | Kill Killers                                      |   | Like a Tim          |   | Boogie                                 |   |   1995 |   | https://youtu.be/Rkl_DGNSgNw                                                                                                    |
+|            |   |                                                   |   |                     |   |                                        |   |        |   |                                                                                                                                 |
+|            |   |                                                   |   |                     |   |                                        |   |        |   |                                                                                                                                 |
+|------------+---+---------------------------------------------------+---+---------------------+---+----------------------------------------+---+--------+---+---------------------------------------------------------------------------------------------------------------------------------|
+|            |   | *Mixes*                                           |   |                     |   |                                        |   |        |   |                                                                                                                                 |
+|            |   |                                                   |   |                     |   |                                        |   |        |   |                                                                                                                                 |
+|            |   | Selective Listening w/ Russell Haswell 29.03.2019 |   | Russell Haswell     |   | Selective Listening w/ Russell Haswell |   |        |   | https://www.nts.live/shows/selective-listening-w-russell-haswell/episodes/selective-listening-w-russell-haswell-29th-march-2019 |
+|            |   | Sendspaace guest mix                              |   | jhud, farmersmanual |   | NTS Radio, London                      |   |   2019 |   | https://www.mixcloud.com/NTSRadio/sendspaace-9th-february-2019/                                                                 |
+|            |   | FACT mix 672 - Rian Treanor (Sept '18)            |   | Rian Treanor        |   | FACT mixes                             |   |   2018 |   | https://soundcloud.com/factmag/fact-mix-672-rian-treanor-sept-18?in=factmag/sets/fact-mixes                                     |
+|            |   | Sorbie Rd. guest mix                              |   | farmersmanual       |   | Subcity Radio, Glasgow                 |   |   2018 |   | https://www.mixcloud.com/sorbierd/guest-mix-farmers-manual/                                                                     |
+|            |   | TouchRadio 127                                    |   | farmersmanual       |   | TouchRadio                             |   |   2017 |   | https://soundcloud.com/heyitsjessbro/touchradio-127-farmers-manual                                                              |
+|            |   |                                                   |   |                     |   |                                        |   |        |   |                                                                                                                                 |
+
 *** Genres
 
 In the context of generate and test activity, some additional genres are needed. There's maybe three axes
@@ -36,41 +83,6 @@ In the context of generate and test activity, some additional genres are needed.
 |            |   |                                                                  |   |                                                                        |
 
 [[file:/assets/2019-01-16-Electronic-music-listening/gt-genres-flat.png][Genre diagram]]
-
-*** The list
-    :PROPERTIES:
-    :CUSTOM_ID: the-list
-    :END:
-
-|            |   | *Track*                         |   | *Artist*            |   | *Album*                |   | *Year* |   | *Audio*                                                         |
-|------------+---+---------------------------------+---+---------------------+---+------------------------+---+--------+---+-----------------------------------------------------------------|
-|        <r> |   |                                 |   |                     |   |                        |   |    <r> |   |                                                                 |
-| 2019-01-16 |   |                                 |   |                     |   |                        |   |        |   |                                                                 |
-|            |   | Pinch                           |   | Can                 |   | Ege Bamyasi            |   |   1972 |   | https://youtu.be/Hls8WnUfHbY                                    |
-|            |   | Spray                           |   | Can                 |   | Future Days            |   |   1973 |   | https://www.youtube.com/watch?v=7za3-tbYtPU                     |
-|            |   | Hallogallo                      |   | Neu!                |   | Neu!                   |   |   1972 |   | https://youtu.be/zndpi8tNZyQ                                    |
-|            |   | Crooked Axis For String Quartet |   | Earth               |   | Pentastar              |   |   1996 |   | https://youtu.be/apmIX4piRsQ                                    |
-|            |   | Smile Backing Vocals Montage    |   | Beach Boys          |   | Smile sessions         |   |   1967 |   | https://youtu.be/0DIzxxAiyQI                                    |
-|            |   | /full album/                    |   | Bernard Parmegiani  |   | De Natura Sonorum      |   |   1975 |   | https://youtu.be/c_JHjUFfOs8                                    |
-|            |   | Breeze Blow                     |   | Mikey Murka         |   | Downpressor Man        |   |   2008 |   | https://youtu.be/5lJ4fpo0JaA                                    |
-|            |   | Kill Killers                    |   | Like a Tim          |   | Boogie                 |   |   1995 |   | https://youtu.be/Rkl_DGNSgNw                                    |
-| 2019-01-17 |   |                                 |   |                     |   |                        |   |        |   |                                                                 |
-|            |   | Earth                           |   |                     |   |                        |   |        |   |                                                                 |
-|            |   | Raime                           |   |                     |   |                        |   |        |   |                                                                 |
-| 2019-03-07 |   |                                 |   |                     |   |                        |   |        |   |                                                                 |
-|            |   | O superman                      |   | Laurie Anderson     |   | Big science            |   |        |   | https://youtu.be/Vkfpi2H8tOE                                    |
-|            |   | From the air                    |   | Laurie Anderson     |   | Big science            |   |        |   | https://youtu.be/k1fhRtrC2Cw                                    |
-|            |   | Walk the dog                    |   | Laurie Anderson     |   | Big science            |   |        |   | https://youtu.be/uIqErvv5lG4                                    |
-|            |   |                                 |   | Miles Davis         |   |                        |   |        |   |                                                                 |
-|            |   |                                 |   | Mulatu Astatke      |   |                        |   |        |   |                                                                 |
-|            |   |                                 |   | Blondie             |   |                        |   |        |   |                                                                 |
-|            |   |                                 |   |                     |   |                        |   |        |   |                                                                 |
-|------------+---+---------------------------------+---+---------------------+---+------------------------+---+--------+---+-----------------------------------------------------------------|
-|            |   | *Mix*                           |   |                     |   |                        |   |        |   |                                                                 |
-|            |   |                                 |   |                     |   |                        |   |        |   |                                                                 |
-|            |   | Sendspaace guest mix            |   | jhud, farmersmanual |   | NTS Radio, London      |   |   2019 |   | https://www.mixcloud.com/NTSRadio/sendspaace-9th-february-2019/ |
-|            |   | Sorbie Rd. guest mix            |   | farmersmanual       |   | Subcity Radio, Glasgow |   |   2018 |   | https://www.mixcloud.com/sorbierd/guest-mix-farmers-manual/     |
-|            |   |                                 |   |                     |   |                        |   |        |   |                                                                 |
 
 ** Comments
    :PROPERTIES:
