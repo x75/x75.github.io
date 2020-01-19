@@ -5,7 +5,7 @@ comments: true
 tags: stuff
 ---
 
-### smp word2block summary snapshot 2019-05-17
+### smp autosummary snapshot 2019-05-17
 
 Approach (2), Methods and framework (3), Contributions (4), Ansatz
 (6), Methoden und Rahmen (7), The engineering black box (1), AI

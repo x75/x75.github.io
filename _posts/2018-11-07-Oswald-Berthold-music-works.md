@@ -11,9 +11,21 @@ tags: sound music algorithms models dsp synthesis sonfication data-driven-audio 
 
 #### Humboldt beginnings and plazma
 
-Not showing specific musical talent during childhood, Oswald's musical career starts at age 6 or so, with the production of nonsense radio plays together with his brother *ub* using the tape-based recording functions of their parents' stereo. Later on, playing the guitar had to be learned, to be able to found a band together with homies Klaus, grt, Tomi, Mitch and Hannah. After a few transformations, this band became *plazma* which was a unique outfit within the ecosystem of teenage bands in the city of Graz, Austria, at that time. plazma has two albums, both self-produced at ultra-low budget, using advanced track-bouncing techniques and countryside creativity retreats. Both also, unfortunately unreleased to date, but \#wip.
+Not showing specific musical talent during childhood, Oswald's musical
+career starts at age 6 or so, with the production of nonsense radio
+plays together with his brother *ub* using the tape-based recording
+functions of their parents' stereo. Later on, playing the guitar had
+to be learned, to be able to found a band together with homies Klaus,
+grt, Tomi, Mitch and Hannah. After a few transformations, this band
+became *plazma* which was a unique outfit within the ecosystem of
+teenage bands in the city of Graz, Austria, at that time. plazma has
+two albums, both self-produced at ultra-low budget, using advanced
+track-bouncing techniques and countryside creativity retreats. Both
+also, unfortunately unreleased to date, but \#wip.
 
-**Update**: plazma's debut album self-published on music cassette (MC) in 1994 is available digitally for the first time ever on [plazma's bandcamp](https://plazmagraz.bandcamp.com/releases).
+**Update**: plazma's debut album self-published on music cassette (MC)
+in 1994 is available digitally for the first time ever on [plazma's
+bandcamp](https://plazmagraz.bandcamp.com/releases).
 
 #### farmersmanual
 
