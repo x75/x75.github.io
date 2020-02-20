@@ -9,10 +9,6 @@ tags: robotics, research, startups
 
 Hello and welcome.
 
-> aka Stripe Atlas as a German startups
-
-> aka How to create and run a US-based startup that operates in Germany
-
 Bla, etc.
 
  - we were looking for small tickets already
