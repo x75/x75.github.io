@@ -7,9 +7,27 @@ tags: robotics, research, startups
 
 ### Jetpack - the story, part 1: init
 
+Hello and welcome.
+
 > aka Stripe Atlas as a German startups
 
 > aka How to create and run a US-based startup that operates in Germany
+
+Bla, etc.
+
+ - we were looking for small tickets already
+ - tried to apply for EXIST stipend
+ - we were lucky with our founders
+ - how private funding overtook EXIST
+ - ycombinator, standard documents, SAFE agreement
+ - stripe atlas, delaware c corp, ...
+ - company structure: shareholders, directors, officers
+ - issuing stock, 40/40, 20 pool
+ - two freelancers invoicing to american company
+ - todo: german commercial registry, certified copies, notaries, ...
+ - todo: working contracts w/ who again? us or de?
+ - todo: taxes
+ - todo: hiring
 
 ### Comments
 
