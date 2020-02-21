@@ -7,27 +7,27 @@ tags: robotics, research, startups
 
 ### Jetpack the Story, Part 1 Init
 
-> aka How to create a startup with Stripe Atlas in the US and run it in Germany
+> summary
 
 In July 2019 we founded Jetpack Cognition Lab, Inc.. This simple
-sentence betrays the fact that for us a decade of weaving a million
+statement betrays the fact that for us a decade of weaving a million
 threads comes together as a single piece of rainbow for the first
 time. Me and my cofounder Matthias Kubisch have come a long way to see
 this happen. Unsurprising in retrospect it took some time to realize
-the full impact of this particular step. This is reason why I'm
-writing this text six months later only.
+the full impact of this particular step. This is the reason why I'm
+six months late in writing this text.
 
-> research background
+> background
 
-Both of us were starting a PhD in robotics ca. 2012 at the Department
-of Computer Science within the Humboldt-Universität zu Berlin. There
-we got to know each other during undergraduate studies earlier on. By
-now in 2020 both thesis projects are close to being finished. When my
-employment at university ended in 2017 before anything was finished,
-it was already clear to us that we were going to create a robotics
-company together as a post-doc thing. After a few early experiments in
-the time since then we entered 2019 fully committed to our own startup
-idea and were out to get some funding.
+Both of us were starting a PhD in robotics in ca. 2012 at the
+Department of Computer Science within the Humboldt-Universität zu
+Berlin. There we got to know each other during undergraduate studies
+earlier on. By now in 2020 both thesis projects are close to being
+completed. When my employment at the university ended in 2017, before
+the thesis was finished, it was already clear to us that we were going
+to create a robotics company together as a post-doc thing. After a few
+early experiments in the time since then we entered 2019 fully
+committed to our own startup idea and were out to get some funding.
 
 > tried to apply for EXIST stipend
  
@@ -35,32 +35,42 @@ In the German research ecosystem the EXIST grant is widely used as an
 instrument to help scientists with that kind of ambition to transform
 their research innovations into a business by funding three people
 with a stipend for one year. We started out on that track and were
-busy working on the proposal text all through Q1/2019.
+busy working on a proposal all through Q1/2019.
 
 > microfunding
 
-In the course of writing down our concept we were looking with
-interest at small funding tickets on the order of 20-50K already. This
-is an order of magnitude you can expect to receive from programs like
-Prototype Fund or from any respectable crowdfunding campaign.
+In the course of writing down our concept we were looking at small
+funding tickets on the order of 20-50K already with interest. This is
+an order of magnitude one can expect to receive from programs like
+"Prototype Fund" or from any respectable crowdfunding campaign. It's
+also a very friendly size psychologically.
 
 Sometime during Jan/Feb 2019 we got in touch with Tosh from the
 magic.do investment fund via our mutual connection and
 lead-investor-to-be Oskar Obereder. It was introduced to us as a
-microfund for tech- and AI-centered startups. At that time we were
+microfund for tech- and AI-centered startups. At that time, we were
 still fully committed to applying for EXIST and delayed our
 negotiations so we wouldn't rule out any downstream options in
-govermental funding programmes by tainting the company with unapproved
-investment. The plan was to keep the option warm until EXIST would be
+governmental funding programs by tainting the company with unapproved
+investments. The plan was to keep the option open until EXIST would be
 fixed.
 
 > how we were lucky with our investors and private funding overtook EXIST
 
-During May/June 2019 we met up with several times with the magic
-consortium, which answered by raising the stakes. At about the same
+During May/June 2019 we met up several times with the funding
+consortium.
+
+TODO: Screening episode in Leo's Biergarten
+
+which answered by raising the stakes. At about the same
 time we got v/ positive feedback from these people while receiving
-quite demotivating one from our EXIST pre-evaluation. At this point
+quite demotivating ones from our EXIST pre-evaluation. At this point
 the decision for which way to go fell silently and swiftly.
+
+End of part one.
+
+
+### Jetpack the Story, Part 2 Founding mechanics
 
 > ycombinator, standard documents, SAFE agreement
 
@@ -76,24 +86,28 @@ investment deal is written down, requiring only a few variables to be
 configured: the name of the company, the name of the investor, and the
 number of shares returned for what amount of investment.
 
+TODO: Make sure that we're _not_ a ycombinator investment.
+
 The Future bit in the SAFE takes care of the fact that all of this is
-only relevant if and only if some kind of positive liquidization event
-occurs during the time the SAFE is valid for. LE's can be taking on
-new investment rounds, selling the company or closing it down. Either
+only relevant if and only if some kind of positive liquidation event
+occurs during the time the SAFE is valid for. LE's can take on
+new investment rounds, sell the company or close it down. Either
 way, we took a SAFE and went with that.
+
+> aka How to create a startup with Stripe Atlas in the US and run it in Germany
 
 > stripe atlas, delaware c corp, ...
 
 One of ycombinator's own startup children is the payment service
 provider Stripe. They have a product called Atlas which takes the YC
-standardization idea to an App level. The Atlas app allows you to
+standardization idea to an app level. The Atlas app allows you to
 create your company by registering a Delaware LLC or C-Corporation and
-opening a workable bank account in the name of the newly founded
+open a workable bank account in the name of the newly founded
 company.
 
 In case you're a pure software business at this point you're probably
 pretty much set. If you registered a corporation like we did, the
-Atlas process involves a few more steps than you'll be churning down
+Atlas process involves a few more steps that you'll be churning down
 in the weeks after the company initialization (for an LLC that's
 probably true as well but I have not been there).
 
@@ -104,10 +118,10 @@ ownership of the company among a potentially large number of
 parties. The standard document creates a stock of 10M shares
 initially. These shares are Common Stock (CS) which means that they
 come with a right to vote in a shareholder assembly. Another kind of
-stock exists is Preferred Stock (PS) which does not include the right
+stock is a so called preferred stock (PS), which does not include the right
 to vote.
 
-The corporation, its structure and organs are defined by the Bylaws
+The corporation, its structure and organs are defined by the bylaws
 which are standardized and part of Atlas. At the top of the decision
 chain are the shareholders with common stock. The shareholders then
 name one or more directors into the Board of Directors, which in turn
@@ -121,24 +135,24 @@ Founding the company does not make you the effective owner
 automatically. For this to happen the company needs to issue the stock
 to interested parties. In order to avoid paying a large income tax for
 the non-liquid assets of the fledgling company, this needs to be done
-within a month after registering the company, where they are
-guarantueed to be accounted by their par-value of something very
-small. After signing the purchase agreement you have to make sure to
+within a month after registering the company, whereby they are
+guaranteed to be valued by their par-value of something very
+small. After signing the purchase agreement, one has to make sure to
 actually pay this amount to your own company and make sure the
 transaction is recorded in the logs.
 
-The stock purchase agreement also comes with the process. The precise
+The stock purchase agreement also comes with this process. The precise
 allocation of shares depends on the number of founders and their
-indivdual stakes of course. In addition it is considered good practice
-leave a portion of shares unissued. These comprise a pool which we can
+indivdual stakes of course. In addition, it is considered good practice
+to leave a portion of shares unissued. These comprise a pool, which we can
 use later on to give to the first few critical team members as an
-incentive. After few discussions this way and that we went for a 40 /
+incentive. After few discussions we went for a 40 /
 40 / 20 split among founder / founder / pool.
 
 > enter operations
 
 Depending on your situation you will need to divert company money
-towards yourself. Starting with a full-blown employment is maybe to
+towards yourself. Starting with a full-blown employment is maybe too
 complicated in terms of admin overhead and also not so flexible. Based
 on different advice from our network and beyond we picked the
 two-freelancers-invoicing-to-company model. This means each founder
@@ -171,7 +185,7 @@ registry. This can be done by any notary and requires notarized true
 copies of the original foreign registry entry.
 
 While initially unclear how these can be obtained we found out just
-this week that the process is called an Apostille which exists by
+this week that the process is called an apostille which exists by
 decree from a 1961 Den Haag convention. For apostilles again, there
 exists a large number of service providers many of which offer online
 interfaces allowing you to click the required apostille service
