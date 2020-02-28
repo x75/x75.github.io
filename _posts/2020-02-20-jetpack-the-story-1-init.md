@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jetpack the Story, Part 1 Init
+title: Jetpack the Story, Part 1 and 2
 comments: true
 tags: robotics, research, startups
 ---
@@ -58,35 +58,36 @@ fixed.
 > how we were lucky with our investors and private funding overtook EXIST
 
 During May/June 2019 we met up several times with the funding
-consortium.
-
-TODO: Screening episode in Leo's Biergarten
-
-which answered by raising the stakes. At about the same
-time we got v/ positive feedback from these people while receiving
-quite demotivating ones from our EXIST pre-evaluation. At this point
-the decision for which way to go fell silently and swiftly.
+consortium. There was one meeting where we were getting infused by
+Tosh on some general ideas sitting in front of a Kreuzberg Späti. A
+few of these episodes lead up to our screening by Oskar and Wendelin
+Weingartner in Feinkost Minutillo's Biergarten hosted by ACUD.  This
+went reasonably well and we fixed the stakes. At the same time that we
+were getting v/ positive feedback during these sessions we were
+receiving very bad one from a pre-evaluation of our EXIST grant
+application draft. At this point the decision announced itself.
 
 End of part one.
-
 
 ### Jetpack the Story, Part 2 Founding mechanics
 
 > ycombinator, standard documents, SAFE agreement
 
-During our earlier talks the magic crew introduced us to ycombinator
-and their accomplishments. One of those is the consolidated process
-for setting up a company with minimum headaches and maximum
-readiness. The process emphasizes the use of standard documents that
-do not have to be modified when going from one company to the next. A
-central piece in this is the SAFE agreement which is a four-page
-document that is consumable and parseable for anyone possessing common
-sense. SAFE means Simple Agreement on Future Equity and in it the
-investment deal is written down, requiring only a few variables to be
-configured: the name of the company, the name of the investor, and the
-number of shares returned for what amount of investment.
+The magic crew introduced us to ycombinator and the startup-building
+recipes they have come up. One of those is the consolidated process
+for setting up a company (aka incorporating) with minimum
+headache. The process emphasizes the use of standard documents that do
+not have to be modified when going from one company to the next. A
+central piece in this is the _Simple Agreement on Future Equity_
+(SAFE), a **four-page** document that can be consumed and understood
+by virtually anyone. In the SAFE a standard early-stage investment
+deal is written down, requiring only a few variables to be filled in:
+the name of the company, the name of the investor, and the number of
+shares returned for what amount of investment.
 
-TODO: Make sure that we're _not_ a ycombinator investment.
+Just to be clear about it, we're **not** associated with ycombinator
+in any way but are adopting some of their processes and tools that are
+publically available.
 
 The Future bit in the SAFE takes care of the fact that all of this is
 only relevant if and only if some kind of positive liquidation event
