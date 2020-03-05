@@ -2,7 +2,7 @@
 layout: post
 title: Jetpack the Story, Part 2
 comments: true
-tags: jetpack, jcl, robotics, research, startups
+tags: jetpack jcl robotics research startups
 ---
 
 ### Jetpack the Story, Part 2 Founding mechanics

@@ -2,7 +2,7 @@
 layout: post
 title: grounding
 comments: true
-tags: jetpack, jcl, robotics, research, startups
+tags: jetpack jcl robotics research startups
 ---
 
 ### grounding
