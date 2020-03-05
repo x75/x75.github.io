@@ -2,7 +2,7 @@
 layout: post
 title: grounding
 comments: true
-tags: jetpack jcl robotics research startups
+tags: jetpack jcl robotics research startups grounding grounding-fail
 ---
 
 ### grounding
@@ -37,15 +37,15 @@ trustworthy robots.
 
 > grounding fails
 
-**insert** image scaffold and pile
-
 The systems that are being built and which surround us and shape our
 lives are usually built to a specification which is held in vague
 (natural language) terms. Then engineering kicks in to solve each
 point of the spec. If the project is framed in narrow terms
 (Kahneman), it is likely that a solution is created that fits the spec
 but does so in a fragile way that relies on assumptions that often do
-not hold.
+not hold. The situation is illustrated in the picture below.
+
+![Classical scaffolding and newschool piling.](/assets/2020-02-28-grounding/smp_scaffold_pile_classical_piling_v3_small.jpg){:height="100%" width="100%"}
 
 A premium grounding fail is the story of Alexa ordering an expensive
 dollhouse in interaction with a kid playing dolls at home (Alexa,
@@ -64,7 +64,14 @@ of a speaking voice; and so. These properties allow to distinguish
 fundamentally between different types of sound sources and we expect
 them to be mastered before we even begin to speak ourselves.
 
-**insert** list of funny examples
+List of funny and serious examples
+- Janelle Shane's supernice blog on [https://aiweirdness.com](https://aiweirdness.com) is full of this
+- Alexa doll house incident, radio runaway / replay attack, [https://www.theverge.com/2017/1/7/14200210/amazon-alexa-tech-news-anchor-order-dollhouse](https://www.theverge.com/2017/1/7/14200210/amazon-alexa-tech-news-anchor-order-dollhouse)
+- accidental recording and leak of couple arguing to random addressbook contact, [https://www.theguardian.com/technology/2018/may/24/amazon-alexa-recorded-conversation](https://www.theguardian.com/technology/2018/may/24/amazon-alexa-recorded-conversation)
+- new scientist: adversarial foo: [https://twitter.com/newscientist/status/1122794657568698369](https://twitter.com/newscientist/status/1122794657568698369)
+- AI hallucination problem: pareidolia: face in the street: [https://www.wired.com/story/ai-has-a-hallucination-problem-thats-proving-tough-to-fix/](https://www.wired.com/story/ai-has-a-hallucination-problem-thats-proving-tough-to-fix/), [https://en.wikipedia.org/wiki/Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
+- steganographic audio attacks to voice recognition
+- tbc
 
 > pile of sheets
 
@@ -86,9 +93,9 @@ Now if we fail and pull out one or more of these sheets from the pile,
 nothing really happens. There will only be small readjustment to a new
 equilibrium under the gravitational pull of unexplanation.
 
-TODO: Explain nonintuitive decompositions.
-
-TODO: Is intuition the same as introspection? Does intuitive mean recognizable by means of introspection?
+- TODO: Explain proprioceptive grounding and force gauging
+- TODO: Explain nonintuitive decompositions
+- TODO: Q: Is intuition the same as introspection? Does intuitive mean recognizable by means of introspection?
 
 ### Comments
 
