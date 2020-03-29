@@ -65,12 +65,16 @@ Some apps for sending OSC control from screen interaction or phone sensors.
 
 **sensor2OSC**
 
-#### powertools
+#### termux power w/ command line tools
 
 **Termux** is superpowers for the phone and v/ handy if you like
 working on a linux shell. Let's you use Sox, aubiocut, the scientific
 Python stack, even pulseaudio with a driver for OpenSL ES, and much
-more. Sometimes requires attention though to get things working.
+more. Does require significant attention though to get things working.
+
+##### ReSampler
+
+High quality command-line audio sample rate converter on [https://github.com/jniemann66/ReSampler](github).
 
 ### Comments
 
