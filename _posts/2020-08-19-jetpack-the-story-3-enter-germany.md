@@ -36,64 +36,85 @@ down the line.
 
 It turns out that there exists a nice solution for the initial
 phase. It consists of creating a German _branch_ of the company
-(Zweigniederlassung in German). The branch can be registered with the
-federal German commercial registry. This can be done by any notary and
-requires _legalized_ copies of the original foreign documents.
+(Zweigniederlassung in German) simply by registering it with the
+federal German commercial registry. This can be done by any
+notary.
 
 > German commercial registry, certified copies, ..., the Apostille
 
-Legalization is done through a process called an _apostille_ which
-exists by decree from the 1961 Den Haag convention. Apostilles can be
-obtained through a large number of providers of legal services, some
-of which offer online interfaces allowing you to order the required
-documents with an apostille from the Delaware state.
+The list of required documents we obtained is this, translated
+from German:
+- publicly certified extract from the commercial register of the company, together with a certified translation
+- publicly certified copy of the currently valid articles of association together with a certified translation
+- publicly certified copies of the shareholders' resolutions containing the appointment of the company's directors, together with a certified translation
+- List of shareholders
 
-For us, the required documents were the Articles of Incorporation, the
-Board of Directors approval of the CEO, the Bylaws, and a shareholder
-listing. The articles of incorporation correspond with the German
+The public certification and certified translation of each document
+serves to _legalize_ the foreign documents, which means to make them
+legally valid in the destination country. It was not obvious
+rightaway, that the named documents are legalized by different
+mechanisms.
+
+Let's translate each item to the Stripe Atlas terminology.  The
+commercial register extract translates to the Certificate / Articles
+of Incorporation. The articles of association translate into the
+Bylaws, and the shareholder's resolutions is a document called Board
+Approval. The shareholder listing explains itself.
+
+The articles of incorporation correspond with the German
 Handelsregisterauszug, and basically consist of the Certificate of
-Incorporation. This needs an apostille and can be ordered via LegalInc
-for around 100 USD. The other documents are sufficiently valid as
-simple declarations on part of the company representatives. All
-documents need to be translated at a legal quality certification
-level. This is the biggest chunk of cost in the process with quotes
-ranging from 1K to above 2K EUR for a set of different translation
-services. A mid-range choice worked for us.
+Incorporation. As a current extract from a public database, it needs
+to be legalized through a process called an _apostille_ which exists
+by decree from the 1961 Den Haag convention. Apostilles can be
+obtained through a large number of providers of legal services, for
+Stripe Atlas users the document can be ordered via LegalInc for
+something on the order of a 100 USD.
 
- - TODO: add verbatim copy of list
+The other documents are sufficiently legalized through the declaration
+of authenticity on part of the company representative. All documents
+need to be translated at a legal quality certification level. This is
+the biggest chunk of cost in the process with quotes ranging from 1K
+to above 2K EUR for a set of different translation services in
+Germany. A mid-range choice worked for us.
 
 > Registering the business with translated documents
 
-Next, with the translated stack of your proof of company go and find a
-local notary and negotiate the task. This consists of the notary
-preparing a free form letter that asks to enter the Zweigniederlassung
-in the German trade register. Once it is prepared you go there and
-sign it. The document is sent by the notary to the appropriate German
-court for processing.
+With the translated stack of your proof of company a local notary can
+be activated and the task negotiated. The notary prepares a free form
+letter that asks to enter the Zweigniederlassung in the German trade
+register, then you go there once, proof your identity and sign it. The
+document is sent by the notary to the appropriate German court for
+processing.
 
 If the application is accepted for entry, the court will send you
-paper mail with the service charges, so you have to make sure that a
-mailbox is up and running at the specified address. After the
-service charges are paid, the registration will be completed.
+paper mail with their service charges, so you have to make sure that
+the mailbox is up and running at the specified address. After the
+service charges are paid, the registration will be completed. The
+process has indeterminate duration, in our case it took some three to
+four weeks. As soon as the registration is effective, it will be
+published online by the German Bundesanzeiger. A notification of your
+completed entry will be sent by paper mail to you again.
 
-As soon as the registration is effective, it will be published online
-by the German Bundesanzeiger. A notification of your completed entry
-will be sent by paper mail to you again. There is an interesting side
-effect of the maneuver. Since there exists a large semi-legal industry
-of scammers that will scrape the Bundesanzeiger announcements and will
-send you fake invoices that try to look the official court notice
-asking you to urgently pay some significant amount to a given bank
-account. These fakes can be easily spotted but still might take you by
-surprise. All of this is well known and authorities will issue
-warnings about it, the Bundesanzeiger even keeps a blacklist of well
-known entities involved in the scams. Fun fact is, that the scamming
-process is so well automated, that the fakes will arrive in your mail
-even before the official notice. The upside of that is that it serves
-as an indicator of the completion of the registration process.
+There is an interesting side effect of the maneuver. There exists a
+large semi-legal industry of scammers that will scrape the
+Bundesanzeiger announcements and will send you fake invoices that try
+to look like official court letters asking you to urgently pay a
+significant amount to a given bank account. The fakes can be easily
+spotted but might take you by surprise if consumed in a wrong
+moment. All of this is well known and authorities will issue warnings
+about it, the Bundesanzeiger even keeps a blacklist of well known
+entities involved in the scams. Fun fact is, that the scamming process
+is so well automated, that the fakes will arrive in your mail even
+before the official notice. The upside of all that is a very fast
+indication that the registration process has been completed.
 
- - TODO: Include scans.
- 
-The next story parts will be about these topics
+Fake invoice examples
+
+![](/assets/2020-08-19-jetpack-the-story-part-3-enter-germany/Betrugsschreiben-Fake-Handelsregister-img-000-thumb.jpg){:height="100%" width="30%"}
+![](/assets/2020-08-19-jetpack-the-story-part-3-enter-germany/Betrugsschreiben-Fake-Handelsregister-img-001-thumb.jpg){:height="100%" width="30%"}
+![](/assets/2020-08-19-jetpack-the-story-part-3-enter-germany/Betrugsschreiben-Fake-Handelsregister-2-img-000-thumb.jpg){:height="100%" width="30%"}
+
+The next story parts will be about these topics, which are currently work-in-progress.
 
 > TODO: taxes 2019
 
