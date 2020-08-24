@@ -1,19 +1,22 @@
 ---
 layout: post
-title: Jetpack the Story, Part 2
+title: Jetpack the Story, Part 2 Founding mechanics
 comments: true
 tags: jetpack jcl robotics research startups micro-funding
 ---
 
 ### Jetpack the Story, Part 2 Founding mechanics
 
+This is the story of [Jetpack Cognition Lab](https://jetpack.cl),
+creator of the [Bakiwi](https://bakiwi.shop) robot friend.
+
 > recap
 
-In [part one](/2020/02/20/jetpack-the-story-1-init/) of the story we
-talked about the the time and the things leading up to our agreement
-to create Jetpack Cognition Lab on private equity funding. This
-current part covers the mechanics of creating a Delaware C Corporation
-and making the first steps with the baby company.
+In [part one](/2020/02/20/jetpack-the-story-1-init/) we talked about
+the the time and the things leading up to our agreement to create
+Jetpack Cognition Lab on private equity funding. This current part
+covers the mechanics of creating a Delaware C Corporation and making
+the first steps with the baby company.
 
 > ycombinator, standard documents, SAFE agreement
 

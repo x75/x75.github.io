@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jetpack the Story, Part 1
+title: Jetpack the Story, Part 1 Init
 comments: true
 tags: jetpack jcl robotics research startups micro-funding
 ---

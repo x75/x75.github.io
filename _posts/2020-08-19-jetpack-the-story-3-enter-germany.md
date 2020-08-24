@@ -1,13 +1,16 @@
 ---
 layout: post
-title: Jetpack the Story, Part 3
+title: Jetpack the Story, Part 3 Enter Germany
 comments: true
 tags: jetpack jcl robotics research startups micro-funding
 ---
 
 ### Jetpack the Story, Part 3 Enter Germany
 
-> intro and recap
+This is the story of [Jetpack Cognition Lab](https://jetpack.cl),
+creator of the [Bakiwi](https://bakiwi.shop) robot friend.
+
+> recap
 
 In [part one](/2020/02/20/jetpack-the-story-1-init) we talked about
 the the time and the things leading up to the agreement to create
@@ -114,7 +117,7 @@ Fake invoice examples
 ![](/assets/2020-08-19-jetpack-the-story-part-3-enter-germany/Betrugsschreiben-Fake-Handelsregister-img-001-thumb.jpg){:height="100%" width="30%"}
 ![](/assets/2020-08-19-jetpack-the-story-part-3-enter-germany/Betrugsschreiben-Fake-Handelsregister-2-img-000-thumb.jpg){:height="100%" width="30%"}
 
-The next story parts will be about these topics, which are currently work-in-progress.
+The next story parts will be about these topics currently work-in-progress at the lab.
 
 > TODO: taxes 2019
 
