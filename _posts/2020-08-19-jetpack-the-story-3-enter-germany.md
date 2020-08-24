@@ -117,6 +117,18 @@ Fake invoice examples
 ![](/assets/2020-08-19-jetpack-the-story-part-3-enter-germany/Betrugsschreiben-Fake-Handelsregister-img-001-thumb.jpg){:height="100%" width="30%"}
 ![](/assets/2020-08-19-jetpack-the-story-part-3-enter-germany/Betrugsschreiben-Fake-Handelsregister-2-img-000-thumb.jpg){:height="100%" width="30%"}
 
+
+> Bank account
+
+With the completed registration it is straightforward to get a German
+bank account, if you ask the right bank. Smaller banks often don't
+have a legal department that can deal with the international
+regulatory machinery, as was the case with our desired banking partner
+in DE. Suggestions we received that are known to work were Sparkasse
+and Commerzbank.
+
+> Summary
+
 The next story parts will be about these topics currently work-in-progress at the lab.
 
 > TODO: taxes 2019
