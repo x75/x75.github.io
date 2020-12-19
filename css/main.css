@@ -447,3 +447,7 @@ code.x75-tags {
     /* font-color: #6d89eb; */
     /* background-color: #1b4d08; */
 }
+
+.x75-tagcloud p {
+    color: black;
+}
