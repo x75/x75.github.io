@@ -1,9 +1,10 @@
 # Site settings
-title: Always SWERVING avoiding fmobs
+title: Navigating option landscapes
 email: opt X sdfk x de
-description: "x75's blog, a dump for memes and sketches"
+description: "Mission log from climbing mount improbable by Oswald Berthold (x75)"
 baseurl: ""
-url: "http://x75.github.io"
+# url: "https://x75.github.io"
+url: "https://dynatrop.es"
 twitter_username: x7557x
 github_username:  x75
 
