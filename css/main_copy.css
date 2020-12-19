@@ -1,5 +1,4 @@
 /* Base */
-/* with x75 mods
 /* ----------------------------------------------------------*/
 
 * {
@@ -14,20 +13,14 @@ body {
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
-  /* background-color: #fdfdfd; */
-  color: #92bcca;
-  background-color: #355f4f;
+  background-color: #fdfdfd;
 }
 
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
-/* a         { color: #2a7ae2; text-decoration: none; } */
-/* a:hover   { color: #000; text-decoration: underline; } */
-/* a:visited { color: #205caa; } */
-
-a         { color: #d2bbfe; text-decoration: none; }
-a:hover   { color: #f2906c; text-decoration: underline; }
-a:visited { color: #d8f7ab; }
+a         { color: #2a7ae2; text-decoration: none; }
+a:hover   { color: #000; text-decoration: underline; }
+a:visited { color: #205caa; }
 
 /* Utility */
 
@@ -52,16 +45,14 @@ strong { font-weight: bold; }
   border-top: 5px solid #333;
   border-bottom: 1px solid #e8e8e8;
   min-height: 56px;
-  /* background-color: white; */
-  background-color: #203e3d;
+  background-color: white;
 }
 
 .site-title,
 .site-title:hover,
 .site-title:visited {
   display: block;
-  /* color: #333; */
-  color: #8ec7fe;
+  color: #333;
   font-size: 26px;
   letter-spacing: -1px;
   float: left;
@@ -79,8 +70,7 @@ strong { font-weight: bold; }
 
 .site-nav .page-link {
   margin-left: 20px;
-  /* color: #727272; */
-  color: #66e499;
+  color: #727272;
   letter-spacing: -.5px;
 }
 
@@ -148,8 +138,7 @@ strong { font-weight: bold; }
 
 .page-content {
   padding: 30px 0;
-  /* background-color: #fff; */
-  background-color: #355f4f;
+  background-color: #fff;
 }
 
 
@@ -171,8 +160,7 @@ strong { font-weight: bold; }
 .posts .post-date {
   display: block;
   font-size: 15px;
-  /* color: #818181; */
-  color: #fe81d6;
+  color: #818181;
 }
 
 
@@ -190,8 +178,7 @@ strong { font-weight: bold; }
 
 .post-header .meta {
   font-size: 15px;
-  /* color: #818181; */
-  color: #c964f6;
+  color: #818181;
   margin-top: 5px;
 }
 
@@ -421,29 +408,4 @@ strong { font-weight: bold; }
     width: auto;
     margin: 0 0 15px; }
 
-}
-
-/* custom classes */
-.code {
-    font-family: sans-serif;
-    /* font-weight: semi-bold; */
-    /* color: crimson; */
-    /* color: #c87d8e; */
-    color: #4e5811;
-    /* background-color: #1b4d08; */
-    background-color: #020202;
-    padding: 120px;
-    width: 200px;
-    font-size: 20pt;
-}
-
-code.x75-tags {
-    color: #ceaee4;
-    background-color: #2f032e88;
-    border-color: #4e5811;
-    font-size: 80%;
-    /* font-family: sans-serif; */
-    font-family: monospace;
-    /* font-color: #6d89eb; */
-    /* background-color: #1b4d08; */
 }
