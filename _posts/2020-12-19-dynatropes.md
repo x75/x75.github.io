@@ -7,14 +7,53 @@ tags: definitions motion robotics principles research philosophy organization-of
 
 ### dynatropes
 
-What is a dynatrope and do we need this word?
+##### What is a dynatrope?
 
 tl;dr Like plants are things that move towards more light, dynatropes
 are things that move towards more options. A dynatropism is a motion
 towards regions in space that provide more possibilities for different
-actions. A dynatrope is a thing performing this motion.
+and effective actions. A dynatrope is a thing performing this motion.
 
-### context
+#### That's cool, but do we need this word?
+
+The phenomenon is real for all we know and thus deserves a name. It
+has come to play an important part in my personal thinking and thus
+also in the projects I am in involved in,
+[farmersmanual](https://web.fm) for one and even more so for
+[Jetpack](https://jetpack.cl). There, we are looking hard for
+appropriate names as part of a larger effort for developing
+appropriate language to talk about the things that we are making.
+That includes the language part itself.
+
+#### Get the word out
+
+Working on the scientific and technical aspects of the concept, and on
+the sensorimotor account of the method, are only one reason for a need
+of language. From our specialist point of view it is obvious that an
+account of the concept in everyday language terms could be quite
+helpful in many other areas. Seeing it as part of our mission to help
+create a broader understanding and the ability to apply the concept
+and the learnings it provides. The diffusion of several important
+research insights which have not made it into the general public
+knowledge is a larger communication task worth a post of its own
+[WIP].
+
+#### We build bridges
+
+We use the metaphors of building-bridges or playing-message-ferry for
+reflecting this activity. As explorers and scientists it is part of
+the job spec to do that. For some reason the task has been
+insufficiently attended to or even neglected by the science community
+at large for a long time. We think that this is part of the reason for
+a gaping divide in people's and organizations' abilities of
+reality-understanding.
+
+Confounding causes with effects alone is bad enough, but teamed up
+with dramatic social disparity it just creates a massive vortex cloud
+of planet-scale annihilation options for humans and friends. Obviously
+very undesirable and action required.
+
+### Context
 
 An open question in robotics research is how does autonomous
 development work? The type of thing we are going through, starting
@@ -27,22 +66,23 @@ A good part of it can be accounted for with goals, how to choose goals
 when no one provides them to you, how to tell good goals from the
 too-easy or too-hard ones, when to persist and when to give up. This
 goal juggling is the motivation. Many interesting models have been
-proposed for motivation systems [citation needed]. One of them is
-called intrinsic motivation, another one the Polyani-Salge empowerment
-[citation needed,1,3].
+proposed for motivation systems [citation needed]. One approach is
+called intrinsic motivation, and one variant of the is the
+Klyubin-Polani-Nehaniv empowerment [6,citation needed,1,3].
 
-Empowerment provides a measuring stick for the amount of empowerment
-available in different regions of space. Now a map of the space can be
-built visiting random places and taking a measure at each place. The
-things that perform directed motion in this space using the map can now be
-called empowerment maximizing agents or intrinsically motivated
-agents. The names are correct but bulky and awkward.
+This provides a measuring stick for the amount of empowerment
+available in a region of space by 'counting' the number of available
+options. Now a map of the space can be built visiting random places
+and taking a measure at each place. The things that perform directed
+motion in this space using the map can now be called empowerment
+maximizing agents or intrinsically motivated agents. These names are
+correct but bulky and awkward.
 
 ### definition
 
 Dynatropism. from greek dynamis (power)[4] and tropos (a
-turning)[5]. Drive to option, Streben nach Möglichkeit, Streben nach
-kraft, Polyani-Salge empowerment.
+turning)[5]. Drive to option, Streben nach Möglichkeit oder Kraft,
+search for empowering states.
 
 The dyna- part indicates power as the characteristic sensorimotor
 modality. The -tropos bit means 'directed motion towards' by the
@@ -50,21 +90,27 @@ ability to turn into any direction at all.
 
 Things that are controlled by a dynatropism are dynatropes.
 
-### notes and refs
+### Notes
 
 This type of naming is compatible with the biological naming system
-(taxonomy)[5]. There is a precedent of using it in robotics by BEAM [0]
+(taxonomy)[5] for motion in plants and animals. There is at least one
+precedent of using the -tropes form in robotics by the BEAM [0]
 approach.
 
-[0] <https://en.wikipedia.org/wiki/BEAM_robotics>
+### Refs
 
-[1] Polyani-Salge empowerment is a concept from developmental learning research, related concepts are autonomous learning, lifelong learning, intrinsic motivation, artificial motivation, adaptive systems, complex adaptive systems, homeokinesis, predictive infomax, guided self-organization, etc. v/ interesting topic, recommended way for burning idle cycles.
+[1] Klyubin-Polani-Nehaniv empowerment is a concept from artifical life and developmental learning research. Related concepts are intrinsic motivation, artificial motivation, autonomous learning, autonomous mental development, lifelong learning, homeokinesis, ultrastability, predictive information maximization, guided self-organization, and more. Highly recommended topic, also worth a post on its own [WIP].
 
 [3] The everyday language meaning of empowerment corresponds quite well with whats made more precise in the mathematical model.
+
+[0] <https://en.wikipedia.org/wiki/BEAM_robotics>
 
 [4] <https://en.wikipedia.org/wiki/Dynamics>
 
 [5] <https://en.wikipedia.org/wiki/Tropism>
+
+[6] A. S. Klyubin, D. Polani, and C. L. Nehaniv, “All Else Being Equal Be Empowered,” in Advances in Artificial Life, vol. 3630, M. S. Capcarrère, A. A. Freitas, P. J. Bentley, C. G. Johnson, and J. Timmis, Eds. Berlin, Heidelberg: Springer Berlin Heidelberg, 2005, pp. 744–753.
+
 
 ### tropisms basics
 
