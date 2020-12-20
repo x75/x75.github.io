@@ -1,6 +1,6 @@
 ---
 layout: post
-title: books: computer music
+title: books - computer music
 comments: true
 tags: audio sound music computer-music signal-processing research compmus dsp smp jcl gt
 ---
