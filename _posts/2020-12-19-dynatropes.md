@@ -5,9 +5,9 @@ comments: true
 tags: definitions motion robotics principles research philosophy organization-of-behavior smp jcl gt
 ---
 
-### dynatropes
+### Dynatropes
 
-##### What is a dynatrope?
+#### What is a dynatrope?
 
 tl;dr Like plants are things that move towards more light, dynatropes
 are things that move towards more options. A dynatropism is a motion
@@ -24,6 +24,48 @@ also in the projects I am in involved in,
 appropriate names as part of a larger effort for developing
 appropriate language to talk about the things that we are making.
 That includes the language part itself.
+
+#### Just give the definition and be done?
+
+Dynatropism. from greek dynamis (power)[4] and tropos (a
+turning)[5]. Drive to option, Streben nach Möglichkeit oder Kraft,
+search for empowering states.
+
+The dyna- part indicates power as the characteristic sensorimotor
+modality. The -tropos bit means 'directed motion towards' by the
+ability to turn into any direction at all.
+
+Things that are controlled by a dynatropism are dynatropes.
+
+The naming is compatible with the biological naming system [5], and
+integrates seamlessly into the taxonomy of movements. There is at
+least one precedent of using the -tropes form in robotics, established
+by the BEAM robotics [0] community.
+
+#### Context
+
+An open question in robotics research is how does autonomous
+development work? The type of thing we are going through, starting
+with the egg cell, over fetus, infant, teenager to adult and then
+onwards. The learning going on during all that time is immense and
+intricately staged. We want to understand how this works and build our
+machines in a similar way.
+
+A good part of it can be accounted for with goals, how to choose goals
+when no one provides them to you, how to tell good goals from the
+too-easy or too-hard ones, when to persist and when to give up. This
+goal juggling is the motivation. Many interesting models have been
+proposed for motivation systems [citation needed]. One approach is
+called intrinsic motivation, and one variant of the is the
+Klyubin-Polani-Nehaniv empowerment [6,citation needed,1,3].
+
+This provides a measuring stick for the amount of empowerment
+available in a region of space by 'counting' the number of available
+options. Now a map of the space can be built visiting random places
+and taking a measure at each place. The things that perform directed
+motion in this space using the map can now be called empowerment
+maximizing agents or intrinsically motivated agents. These names are
+correct but bulky and awkward.
 
 #### Get the word out
 
@@ -53,50 +95,6 @@ with dramatic social disparity it just creates a massive vortex cloud
 of planet-scale annihilation options for humans and friends. Obviously
 very undesirable and action required.
 
-### Context
-
-An open question in robotics research is how does autonomous
-development work? The type of thing we are going through, starting
-with the egg cell, over fetus, infant, teenager to adult and then
-onwards. The learning going on during all that time is immense and
-intricately staged. We want to understand how this works and build our
-machines in a similar way.
-
-A good part of it can be accounted for with goals, how to choose goals
-when no one provides them to you, how to tell good goals from the
-too-easy or too-hard ones, when to persist and when to give up. This
-goal juggling is the motivation. Many interesting models have been
-proposed for motivation systems [citation needed]. One approach is
-called intrinsic motivation, and one variant of the is the
-Klyubin-Polani-Nehaniv empowerment [6,citation needed,1,3].
-
-This provides a measuring stick for the amount of empowerment
-available in a region of space by 'counting' the number of available
-options. Now a map of the space can be built visiting random places
-and taking a measure at each place. The things that perform directed
-motion in this space using the map can now be called empowerment
-maximizing agents or intrinsically motivated agents. These names are
-correct but bulky and awkward.
-
-### definition
-
-Dynatropism. from greek dynamis (power)[4] and tropos (a
-turning)[5]. Drive to option, Streben nach Möglichkeit oder Kraft,
-search for empowering states.
-
-The dyna- part indicates power as the characteristic sensorimotor
-modality. The -tropos bit means 'directed motion towards' by the
-ability to turn into any direction at all.
-
-Things that are controlled by a dynatropism are dynatropes.
-
-### Notes
-
-This type of naming is compatible with the biological naming system
-(taxonomy)[5] for motion in plants and animals. There is at least one
-precedent of using the -tropes form in robotics by the BEAM [0]
-approach.
-
 ### Refs
 
 [1] Klyubin-Polani-Nehaniv empowerment is a concept from artifical life and developmental learning research. Related concepts are intrinsic motivation, artificial motivation, autonomous learning, autonomous mental development, lifelong learning, homeokinesis, ultrastability, predictive information maximization, guided self-organization, and more. Highly recommended topic, also worth a post on its own [WIP].
@@ -111,8 +109,8 @@ approach.
 
 [6] A. S. Klyubin, D. Polani, and C. L. Nehaniv, “All Else Being Equal Be Empowered,” in Advances in Artificial Life, vol. 3630, M. S. Capcarrère, A. A. Freitas, P. J. Bentley, C. G. Johnson, and J. Timmis, Eds. Berlin, Heidelberg: Springer Berlin Heidelberg, 2005, pp. 744–753.
 
-
-### tropisms basics
+### Extra detail
+#### Tropisms basics
 
 When things are moving around in space in any kind of way that's
 motion. When things move around in a directed way thats a tropic
