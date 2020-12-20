@@ -23,9 +23,8 @@ also in the projects I am in involved in,
 [Jetpack](https://jetpack.cl). There, we are looking hard for
 appropriate names as part of a larger effort for developing
 appropriate language to talk about the things that we are making.
-That includes the language part itself.
-
-#### Just give the definition and be done?
+That making even includes the language itself ⥁.
+#### Just give the definition and be done, OK?
 
 Dynatropism. from greek dynamis (power)[4] and tropos (a
 turning)[5]. Drive to option, Streben nach Möglichkeit oder Kraft,
