@@ -1,18 +1,21 @@
 ---
 layout: post
-title: dynatropes
+title: Dynatropes
 comments: true
 tags: definitions motion robotics principles research philosophy organization-of-behavior smp jcl gt
 ---
 
-### Dynatropes
+### What is a dynatrope?
 
-#### What is a dynatrope?
+#### Dynatropes use what they have
 
-tl;dr Like plants are things that move towards more light, dynatropes
-are things that move towards more options. A dynatropism is a motion
-towards regions in space that provide more possibilities for different
-and effective actions. A dynatrope is a thing performing this motion.
+tl;dr Dynatropes use what they have and make the best of that. They learn
+the limit of their gear before moving on to more gear.
+
+Like plants are things that move towards more light, dynatropes are
+things that move towards more options. A dynatropism is a motion
+towards regions in space that provide more possibilities for more
+effective actions. A dynatrope is a thing performing this motion.
 
 #### That's cool, but do we need this word?
 
