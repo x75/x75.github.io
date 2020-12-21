@@ -37,9 +37,15 @@ ability to turn into any direction at all.
 Things that are controlled by a dynatropism are dynatropes.
 
 The naming is compatible with the biological naming system [5], and
-integrates seamlessly into the taxonomy of movements. There is at
-least one precedent of using the -tropes form in robotics, established
-by the BEAM robotics [0] community.
+integrates seamlessly into the taxonomy of movements. It is used by
+the BEAM [0] robotics community to categorize different BEAMbots
+according to their goal seeking behavior, for example audiotropes,
+phototropes, radiotropes, and thermotropes.
+
+There is a precedent use of the term 'Dynatrope' [7] in the universe
+of the TV series 'Doctor Who', produced by the BBC since 1963. By the
+account in the fandom wiki [7], they "... were powered by mental
+energy".
 
 #### Context
 
@@ -54,17 +60,18 @@ A good part of it can be accounted for with goals, how to choose goals
 when no one provides them to you, how to tell good goals from the
 too-easy or too-hard ones, when to persist and when to give up. This
 goal juggling is the motivation. Many interesting models have been
-proposed for motivation systems [citation needed]. One approach is
-called intrinsic motivation, and one variant of the is the
-Klyubin-Polani-Nehaniv empowerment [6,citation needed,1,3].
+proposed for motivation systems [citation needed]. One general
+approach is called intrinsic motivation, and one variant of it is the
+Klyubin-Polani-Nehaniv empowerment [6,citation needed,1,3], an
+information theoretic measure.
 
-This provides a measuring stick for the amount of empowerment
-available in a region of space by 'counting' the number of available
-options. Now a map of the space can be built visiting random places
-and taking a measure at each place. The things that perform directed
-motion in this space using the map can now be called empowerment
-maximizing agents or intrinsically motivated agents. These names are
-correct but bulky and awkward.
+As such, it provides a general measuring stick for the amount of
+empowerment available in a region of space by 'counting' the number of
+available options. Now a map of the space can be built visiting random
+places and taking a measure at each place. The things that perform
+directed motion in this space using the map can now be called
+empowerment maximizing agents or intrinsically motivated agents. These
+names are correct but bulky and awkward.
 
 #### Get the word out
 
@@ -108,6 +115,8 @@ very undesirable and action required.
 
 [6] A. S. Klyubin, D. Polani, and C. L. Nehaniv, “All Else Being Equal Be Empowered,” in Advances in Artificial Life, vol. 3630, M. S. Capcarrère, A. A. Freitas, P. J. Bentley, C. G. Johnson, and J. Timmis, Eds. Berlin, Heidelberg: Springer Berlin Heidelberg, 2005, pp. 744–753.
 
+[7] in: Spacecraft types: Dynatrope - Dynatropes were the machine spacecraft used by the Krotons. <https://tardis.fandom.com/wiki/Dynatrope>
+
 ### Extra detail
 #### Tropisms basics
 
@@ -134,6 +143,15 @@ another thing doing the actual moving around. That thing is called a
 phototrope. Chemotropes are things that move towards or away from
 particular molecules. Most plants are phototropes, animals are
 chemotropes, people too.
+
+### TODO
+- add fm/jcl logos and fandom wiki pic as dynatrope examples
+- add reference to teleology in Context section re: BEAM goal seeking behavior
+
+### Changes
+- updates 2020-12-21
+- early feedback fixing names and references 2020-12-20
+- init 2020-12-19
 
 ### Comments
 
