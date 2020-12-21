@@ -18,18 +18,9 @@ towards regions in space that provide more possibilities for more
 effective actions. A dynatrope is a thing performing this motion. An
 essential option is energy. No energy, no option whatsoever.
 
-#### That's cool, but do we need this word?
+#### Definition, please
 
-The phenomenon is real for all practical purposes and deserves a name,
-of course. It has come to play an important part in my personal
-thinking and thus also in the projects I am in involved in,
-[farmersmanual](https://web.fm) for one, and even more so for
-[Jetpack](https://jetpack.cl). There, we are constantly searching for
-appropriate names and language to talk about the things that we are
-making, including that language itself ⥁.
-#### Just give the definition and be done, OK?
-
-Dynatropism. from greek dynamis (power)[4] and tropos (a
+Dynatropism. From greek dynamis (power)[4] and tropos (a
 turning)[5]. Drive to option, Streben nach Möglichkeit oder Kraft,
 search for empowering states.
 
@@ -39,6 +30,15 @@ ability to turn into any direction at all.
 
 Things that are controlled by a dynatropism are dynatropes.
 
+#### That's cool, but do we need this word?
+
+The phenomenon is real for all practical purposes and deserves a name,
+of course. It has come to play an important part in my personal
+thinking and thus also in the projects I am in involved in,
+[farmersmanual](https://web.fm) for one, and even more so for
+[Jetpack](https://jetpack.cl). There, we are constantly searching for
+appropriate names and language to talk about the things that we are
+making, including that language itself ⥁.
 The naming is compatible with the biological naming system [5], and
 integrates seamlessly into the taxonomy of movements. It is used by
 the BEAM [0] robotics community to categorize different BEAMbots
@@ -50,7 +50,7 @@ of the TV series 'Doctor Who', produced by the BBC since 1963. By the
 account in the fandom wiki [7], they "... were powered by mental
 energy".
 
-#### Context
+#### Measuring option and empowerment
 
 An open question in robotics research is how does autonomous
 development work? The type of thing we are going through, starting
