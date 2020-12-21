@@ -15,18 +15,18 @@ the limit of their gear before moving on to more gear.
 Like plants are things that move towards more light, dynatropes are
 things that move towards more options. A dynatropism is a motion
 towards regions in space that provide more possibilities for more
-effective actions. A dynatrope is a thing performing this motion.
+effective actions. A dynatrope is a thing performing this motion. An
+essential option is energy. No energy, no option whatsoever.
 
 #### That's cool, but do we need this word?
 
-The phenomenon is real for all we know and thus deserves a name. It
-has come to play an important part in my personal thinking and thus
-also in the projects I am in involved in,
-[farmersmanual](https://web.fm) for one and even more so for
-[Jetpack](https://jetpack.cl). There, we are looking hard for
-appropriate names as part of a larger effort for developing
-appropriate language to talk about the things that we are making.
-That making even includes the language itself ⥁.
+The phenomenon is real for all practical purposes and deserves a name,
+of course. It has come to play an important part in my personal
+thinking and thus also in the projects I am in involved in,
+[farmersmanual](https://web.fm) for one, and even more so for
+[Jetpack](https://jetpack.cl). There, we are constantly searching for
+appropriate names and language to talk about the things that we are
+making, including that language itself ⥁.
 #### Just give the definition and be done, OK?
 
 Dynatropism. from greek dynamis (power)[4] and tropos (a
