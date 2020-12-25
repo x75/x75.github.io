@@ -242,7 +242,8 @@ strong { font-weight: bold; }
 .post pre,
 .post code {
   border: 1px solid #d5d5e9;
-  background-color: #eef;
+  /* background-color: #eef; */
+  background-color: #204f3f;
   padding: 8px 12px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -260,6 +261,7 @@ strong { font-weight: bold; }
   border: 0;
   padding-right: 0;
   padding-left: 0;
+  background-color: #203f2f;
 }
 
 /* terminal */
@@ -436,6 +438,19 @@ strong { font-weight: bold; }
     width: 200px;
     font-size: 20pt;
 }
+
+/* code.language-example { */
+/*     font-family: sans-serif; */
+/*     /\* font-weight: semi-bold; *\/ */
+/*     /\* color: crimson; *\/ */
+/*     color: #c87d8e; */
+/*     /\* color: #4e5811; *\/ */
+/*     /\* background-color: #1b4d08; *\/ */
+/*     background-color: #020202; */
+/*     padding: 120px; */
+/*     width: 200px; */
+/*     /\* font-size: 20pt; *\/ */
+/* } */
 
 code.x75-tags {
     color: #ceaee4;
