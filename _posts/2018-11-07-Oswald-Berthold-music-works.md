@@ -98,10 +98,12 @@ synthesis
 
 Shortly after work on cd\_slopper was started, we built a new version
 of the MEGO sublabel falsch and launched it under the
-[fals.ch](https://web.archive.org/web/19991218005216/http://fals.ch)
-domain. The idea was to be a digital content provider (aka netlabel),
-build a random but unique self-referential and novel digital style,
-and implement the organization of the label as a digital process
+[fals.ch](https://fals.ch) domain, heroically conserved by the
+@internetarchive on [fals.ch
+archive](https://web.archive.org/web/19991218005216/http://fals.ch). The
+idea was to be a digital content provider (aka netlabel), build a
+random but unique self-referential and novel digital style, and
+implement the organization of the label as a digital process
 itself. Curiosly, the first version of the website was written in perl
 using Ted Nelson's ZigZag(tm) structure as a backend database and
 custom frontend code. In the second iteration, a LAMP implementation
