@@ -7,7 +7,7 @@ tags: audio embedding linux mapping music pxp scope sound visualization
 
 ### embed scope audio visualization 🝚
 
-#### Incident sequence approach
+#### Intro / Angles of incidence
 
 As events go in the lifes of over-associating headcases, down in the
 crypt doing some Gullibloon archeology. While making sure not to
