@@ -5,68 +5,71 @@ comments: true
 tags: sound music algorithms models dsp synthesis sonfication data-driven-audio digital-musician aesthetics-ng
 ---
 
-> 2020-12-25 Coming back to this after two years since writing the first
-> draft I remember the motivation. Playing self-customer I wanted to get
-> an overview on all published music I authored or co-authored to get my
-> royalty collections sorted. Project **backward** sprang from this too, I
-> suspect.
+**2021-01-17** Update from another thread, over the years I have
+accumulated so many aliases that I lost track myself. Still picking up
+the threads, there is progress though.
+
+**2020-12-25** Coming back to this after two years since writing the
+first draft I remember the original motivation. I needed to get an
+overview on all published music I authored to get the royalties
+sorted. Project **backward** and the **availability** directive sprang
+from this.
 
 ### Catalogue data
 
-| **Year** | **artist**      | **package**                                      | **Refs**                    |
-| -------- | --------------- | ------------------------------------------------ | --------------------------- |
-|   2020 | dprmkr             | flowers a sun hazy             | generate and test - gt9        |
-|   2020 | tsx x psygod       | smelt                          | generate and test - gt55       |
-|   2020 | farmersmanual      | no residual                    | generate and test - gt31       |
-|   2020 | farmersmanual      | proto fsck                     | generate and test - gt30       |
-|   2020 | tsx                | recur²                         | generate and test - gt41       |
-|   2019 | tsx x sue tompkins | recur³                         | generate and test - gt27       |
-|   2019 | pxp                | neba                           | generate and test - gt32       |
-|   2019 | farmersmanual      | rla 1996 ultraschall           | generate and test - gt22       |
-|   2019 | farmersmanual      | The Singles                    | generate and test - gt12       |
-|   2019 | Calimba de Luna    | Lastout                        | generate and test - gt5        |
-|   2016 | tsx                | recur                          | TRUST - TRUSTe02               |
-|   2017 | farmersmanual      | fmoto                          | generate and test - gt0        |
-|   2017 | farmersmanual      | szwong                         | generate and test - gt25       |
-|   2016 | Oswald Berthold    | Rara Avis                      | Alku - ALKU 99                 |
-|   2015 | dprmkr             | dprmkr                         | generate and test - gt3        |
-|   2010 | gullibloon         | MUH                            | Alku - ALKU 87                 |
-|   2005 | pxp                | nada                           | Dekorder - Dekorder 009        |
-|   2004 | Emanual Frakt      | Kekkoushougai                  | Tonto - tonto #24              |
-|   2003 | farmersmanual      | recent live archive (rla)      | Mego - Mego 777                |
-|   2002 | pxp                | while(p){print"."," "x$p++}    | Wavetrap - WAV04               |
-|   2002 | pxp                | Squeezer-20021025-222100       | Alienation Presents: International Compilation CDr_4 |
-|   2000 | cd\_slopper        | SaskieWoxi                     | OR - JODEL 10                  |
-|   1998 | farmersmanual      | Explorers\_We                  | OR - SQUISH04                  |
-|   1997 | farmersmanual      | fsck                           | tray - TRAY 2, OR - SLUMP 8    |
-|   1997 | Calimba de Luna    | Test codes for the measurement of airborne noise | constar - con* 0004            |
-|   1996 | farmersmanual      | fm                             | Mego - Mego 017                |
-|   1996 | farmersmanual      | does not compute               | tray - TRAY 1                  |
-|   1996 | farmersmanual      | No Backup                      | Mego - Mego 008                |
-|   1994 | plazma             | nervechords                    | Self-published limited edition tape |
+| **Year** | **artist**         | **package**                                                                                                                                                        | **Refs**                                                       |
+|----------|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+|          |                    |                                                                                                                                                                    |                                                                |
+| 2020     | dprmkr             | flowers a sun hazy, [bc](https://dprmkr.bandcamp.com/album/flowers-a-sun-hazy)                                                                                    | generate and test - gt9                                        |
+| 2020     | tsx x psygod       | smelt, [bc](https://tsx1.bandcamp.com/album/l-s)                                                                                                                  | generate and test - gt55                                       |
+| 2020     | farmersmanual      | no residual [bc](https://farmersmanual.bandcamp.com/album/no-residual), [sptfy](https://open.spotify.com/album/6jmPYaDaBJi8WVPeiWwqPZ?si=W3lu_eJ6SoK_3rg4PkArbQ) | generate and test - gt31                                       |
+| 2020     | farmersmanual      | proto fsck                                                                                                                                                         | generate and test - gt30                                       |
+| 2020     | tsx                | recur²                                                                                                                                                             | generate and test - gt41                                       |
+| 2019     | tsx x sue tompkins | recur³                                                                                                                                                             | generate and test - gt27                                       |
+| 2019     | pxp                | neba                                                                                                                                                               | generate and test - gt32                                       |
+| 2019     | farmersmanual      | rla 1996 ultraschall                                                                                                                                               | generate and test - gt22                                       |
+| 2019     | farmersmanual      | The Singles                                                                                                                                                        | generate and test - gt12                                       |
+| 2019     | Calimba de Luna    | Lastout                                                                                                                                                            | generate and test - gt5                                        |
+| 2016     | tsx                | recur                                                                                                                                                              | TRUST - TRUSTe02                                               |
+| 2017     | farmersmanual      | fmoto                                                                                                                                                              | generate and test - gt0                                        |
+| 2017     | farmersmanual      | szwong                                                                                                                                                             | generate and test - gt25                                       |
+| 2016     | Oswald Berthold    | Rara Avis                                                                                                                                                          | Alku - ALKU 99                                                 |
+| 2015     | dprmkr             | Seven Long Minutes ([bc](https://dprmkr.bandcamp.com/album/seven-long-minutes))                                                                                    | generate and test - gt3                                        |
+| 2010     | gullibloon         | MUH                                                                                                                                                                | Alku - ALKU 87                                                 |
+| 2005     | pxp                | nada                                                                                                                                                               | Dekorder - Dekorder 009                                        |
+| 2004     | Emanual Frakt      | Kekkoushougai                                                                                                                                                      | Tonto - tonto \#24                                             |
+| 2003     | farmersmanual      | recent live archive (rla)                                                                                                                                          | Mego - Mego 777                                                |
+| 2002     | pxp                | while(p){print"."," "x$p++}                                                                                                                                        | Wavetrap - WAV04                                               |
+| 2002     | pxp                | Squeezer-20021025-222100                                                                                                                                           | Alienation Presents: International Compilation CDr\_4 |
+| 2000     | cd\_slopper        | SaskieWoxi                                                                                                                                                         | OR - JODEL 10                                                  |
+| 1998     | farmersmanual      | Explorers\_We                                                                                                                                                      | OR - SQUISH04                                                  |
+| 1997     | farmersmanual      | fsck                                                                                                                                                               | tray - TRAY 2, OR - SLUMP 8                                    |
+| 1997     | Calimba de Luna    | Test codes for the measurement of airborne noise                                                                                                                   | constar - con\* 0004                                           |
+| 1996     | farmersmanual      | fm                                                                                                                                                                 | Mego - Mego 017                                                |
+| 1996     | farmersmanual      | does not compute                                                                                                                                                   | tray - TRAY 1                                                  |
+| 1996     | farmersmanual      | No Backup                                                                                                                                                          | Mego - Mego 008                                                |
+| 1994     | plazma             | nervechords                                                                                                                                                        | Self-published limited edition tape                            |
 
 #### TODO
 - use live trackdb
 
 ### Catalogue story
 
-#### Humboldt beginnings and plazma
+#### plazma
 
 Not showing specific musical talent during childhood, Oswald's
 creative audio life starts at age 6 or so with the production of
 nonsense podcasts together with his brother *ub* using a microphone
 and the tape recorder of their parents' stereo. Later on, playing the
 guitar had to be learned to fulfil on a band founded earlier with the
-homies Klaus, grt, Tomi. After some changes in people in name, the
-band was *plazma*, a unique outfit by any measure. plazma had two
-albums and seven tons of session recordings. all self-produced at low
-budget, practicing creative engineering and effective
-self-organization. Both albums were self-published on tape in 1993 and
-1994 in a limited edition.
+homies klaus, grt, and tomi. After some changes in setup and name, the
+band was *plazma*, a unique outfit by any measure. *plazma* produced
+two full-length albums and seven tons of session recordings. All
+self-produced at low budget, practicing creative engineering and
+effective self-organization. Both albums were self-published on tape
+in 1993 and 1994 as limited tape editions.
 
-**Update 2020-12-25**: 𝗻𝗲𝗿𝘃𝗲𝗰𝗵𝗼𝗿𝗱𝘀 by plazma, album digital reissue
-released 2020 on farmersmanual - [generate and
-test](https://farmersmanual.bandcamp.com/album/nervechords) - gt29.
+**Update 2020-12-25**: 𝗻𝗲𝗿𝘃𝗲𝗰𝗵𝗼𝗿𝗱𝘀 by plazma, album digital reissue released 2020 on farmersmanual - [generate and test](https://farmersmanual.bandcamp.com/album/nervechords) - gt29
 
 #### farmersmanual
 

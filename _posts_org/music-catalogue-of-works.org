@@ -1,39 +1,38 @@
 * Raw list
-  :PROPERTIES:
-  :CUSTOM_ID: raw-list
-  :END:
 
 FIXME: include trackdb, in the meantime simple version
 
-| *Year* | *artist*           | *package*                      | *Refs*                         |
-|--------+--------------------+--------------------------------+--------------------------------|
-|        |                    | <30>                           | <30>                           |
-|   2020 | dprmkr             | flowers a sun hazy             | generate and test - gt9        |
-|   2020 | tsx x psygod       | smelt                          | generate and test - gt55       |
-|   2020 | farmersmanual      | no residual                    | generate and test - gt31       |
-|   2020 | farmersmanual      | proto fsck                     | generate and test - gt30       |
-|   2020 | tsx                | recur²                         | generate and test - gt41       |
-|   2019 | tsx x sue tompkins | recur³                         | generate and test - gt27       |
-|   2019 | pxp                | neba                           | generate and test - gt32       |
-|   2019 | farmersmanual      | rla 1996 ultraschall           | generate and test - gt22       |
-|   2019 | farmersmanual      | The Singles                    | generate and test - gt12       |
-|   2019 | Calimba de Luna    | Lastout                        | generate and test - gt5        |
-|   2016 | tsx                | recur                          | TRUST - TRUSTe02               |
-|   2017 | farmersmanual      | fmoto                          | generate and test - gt0        |
-|   2017 | farmersmanual      | szwong                         | generate and test - gt25       |
-|   2016 | Oswald Berthold    | Rara Avis                      | Alku - ALKU 99                 |
-|   2015 | dprmkr             | dprmkr                         | generate and test - gt3        |
-|   2010 | gullibloon         | MUH                            | Alku - ALKU 87                 |
-|   2005 | pxp                | nada                           | Dekorder - Dekorder 009        |
-|   2004 | Emanual Frakt      | Kekkoushougai                  | Tonto - tonto #24              |
-|   2003 | farmersmanual      | recent live archive (rla)      | Mego - Mego 777                |
-|   2002 | pxp                | while(p){print"."," "x$p++}    | Wavetrap - WAV04               |
-|   2002 | pxp                | Squeezer-20021025-222100       | Alienation Presents: International Compilation CDr_4 |
-|   2000 | cd\_slopper        | SaskieWoxi                     | OR - JODEL 10                  |
-|   1998 | farmersmanual      | Explorers\_We                  | OR - SQUISH04                  |
-|   1997 | farmersmanual      | fsck                           | tray - TRAY 2, OR - SLUMP 8    |
-|   1997 | Calimba de Luna    | Test codes for the measurement of airborne noise | constar - con* 0004            |
-|   1996 | farmersmanual      | fm                             | Mego - Mego 017                |
-|   1996 | farmersmanual      | does not compute               | tray - TRAY 1                  |
-|   1996 | farmersmanual      | No Backup                      | Mego - Mego 008                |
-|   1994 | plazma             | nervechords                    | Self-published limited edition tape |
+** Catalogue data
+
+| *Year* | *artist*           | *package*                                        | *Refs*                                                |
+|--------+--------------------+--------------------------------------------------+-------------------------------------------------------|
+|        |                    |                                                  |                                                       |
+|   2020 | dprmkr             | flowers a sun hazy, ([[https://dprmkr.bandcamp.com/album/flowers-a-sun-hazy][bc]])                         | generate and test - gt9                               |
+|   2020 | tsx x psygod       | smelt, ([[https://tsx1.bandcamp.com/album/l-s][bc]])                                    | generate and test - gt55                              |
+|   2020 | farmersmanual      | no residual, ([[https://farmersmanual.bandcamp.com/album/no-residual][bc]], [[https://open.spotify.com/album/6jmPYaDaBJi8WVPeiWwqPZ?si=W3lu_eJ6SoK_3rg4PkArbQ][sptfy]])                         | generate and test - gt31                              |
+|   2020 | farmersmanual      | proto fsck                                       | generate and test - gt30                              |
+|   2020 | tsx                | recur²                                           | generate and test - gt41                              |
+|   2019 | tsx x sue tompkins | recur³                                           | generate and test - gt27                              |
+|   2019 | pxp                | neba                                             | generate and test - gt32                              |
+|   2019 | farmersmanual      | rla 1996 ultraschall                             | generate and test - gt22                              |
+|   2019 | farmersmanual      | The Singles                                      | generate and test - gt12                              |
+|   2019 | Calimba de Luna    | Lastout                                          | generate and test - gt5                               |
+|   2016 | tsx                | recur                                            | TRUST - TRUSTe02                                      |
+|   2017 | farmersmanual      | fmoto                                            | generate and test - gt0                               |
+|   2017 | farmersmanual      | szwong                                           | generate and test - gt25                              |
+|   2016 | Oswald Berthold    | Rara Avis                                        | Alku - ALKU 99                                        |
+|   2015 | dprmkr             | Seven Long Minutes ([[https://dprmkr.bandcamp.com/album/seven-long-minutes][bc]])                          | generate and test - gt3                               |
+|   2010 | gullibloon         | MUH                                              | Alku - ALKU 87                                        |
+|   2005 | pxp                | nada                                             | Dekorder - Dekorder 009                               |
+|   2004 | Emanual Frakt      | Kekkoushougai                                    | Tonto - tonto #24                                     |
+|   2003 | farmersmanual      | recent live archive (rla)                        | Mego - Mego 777                                       |
+|   2002 | pxp                | while(p){print"."," "x$p++}                      | Wavetrap - WAV04                                      |
+|   2002 | pxp                | Squeezer-20021025-222100                         | Alienation Presents: International Compilation CDr\_4 |
+|   2000 | cd\_slopper        | SaskieWoxi                                       | OR - JODEL 10                                         |
+|   1998 | farmersmanual      | Explorers\_We                                    | OR - SQUISH04                                         |
+|   1997 | farmersmanual      | fsck                                             | tray - TRAY 2, OR - SLUMP 8                           |
+|   1997 | Calimba de Luna    | Test codes for the measurement of airborne noise | constar - con* 0004                                   |
+|   1996 | farmersmanual      | fm                                               | Mego - Mego 017                                       |
+|   1996 | farmersmanual      | does not compute                                 | tray - TRAY 1                                         |
+|   1996 | farmersmanual      | No Backup                                        | Mego - Mego 008                                       |
+|   1994 | plazma             | nervechords                                      | Self-published limited edition tape                   |
