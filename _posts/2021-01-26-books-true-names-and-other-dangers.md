@@ -2,7 +2,7 @@
 layout: post
 title: books - true names and other dangers, vernor vinge
 comments: true
-tags: research hacker culture jcl gt
+tags: research hacker culture cyberspace internet books
 ---
 
 ### True names and other dangers by Vernor Vinge
