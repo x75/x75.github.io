@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: factor"
-tag: factor
+title: "Tag: learning"
+tag: learning
 robots: noindex
 ---

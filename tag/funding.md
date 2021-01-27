@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: discount"
-tag: discount
+title: "Tag: funding"
+tag: funding
 robots: noindex
 ---

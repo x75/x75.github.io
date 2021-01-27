@@ -2,7 +2,7 @@
 layout: post
 title: Jetpack the Story, Part 3 Enter Germany
 comments: true
-tags: jetpack jcl robotics research startups micro-funding
+tags: jetpack jcl robotics research startups micro funding
 ---
 
 ### Jetpack the Story, Part 3 Enter Germany

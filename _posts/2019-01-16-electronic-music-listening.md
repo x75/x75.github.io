@@ -2,7 +2,7 @@
 layout: post
 title: Electronic music listening list [perma-WIP]
 comments: true
-tags: sound music dsp synthesis sonfication data-driven-audio digital-musician aesthetics-ng
+tags: sound music dsp synthesis sonfication datadriven audio digital musician aesthetics
 ---
 
 ### A listening list of electronic music

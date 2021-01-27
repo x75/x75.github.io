@@ -2,7 +2,7 @@
 layout: post
 title: Catalogue of sound and music works by Oswald Berthold
 comments: true
-tags: sound music algorithms models dsp synthesis sonfication data-driven-audio digital-musician aesthetics-ng
+tags: sound music algorithms models dsp synthesis sonfication datadriven audio digital musician aesthetics
 ---
 
 **2021-01-17** Update from another thread, over the years I have

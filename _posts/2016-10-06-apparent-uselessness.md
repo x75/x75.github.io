@@ -2,27 +2,30 @@
 layout: post
 title: Apparent uselessness
 comments: true
-tags: robot-epistemology robot-learning exploration dominant-progressivist-narratives undreamed-of-utility
+tags: epistemology learning exploration motivation robotics
 ---
 
-## Apparent uselessness, the illusion of progress, and the difficulty of finding your way
+## Apparent uselessness
 
-Sometime last year I picked up on Kenneth Stanley's and Joel Lehmann's
-2015 book called [Why Greatness Cannot Be Planned - The Myth of the
-Objective](http://mythoftheobjective.com/). In the book they develop an argument for an advanced
-teleology based on experiments with synthetic processes of knowledge
-acquisition in the context of AI, ALife, and Learning. The argument
-roughly says, that if you want to reach a goal, that is ambitious in
-the sense that the *exact* sequence of steps (the route) which will
-get you there, is not known, then accumulating possible steps is a
-better strategy than heading directly into the direction of the
-goal. That's because chances are, that some of these steps will turn
-out, but unforseeably so, to be precisely what is needed to make the
-next move when negotiating the route. So far so good, I agree with this line of reasoning.
+> The illusion of progress, and the difficulty of finding your way in
+> complicated and unknown spaces.
+
+Last year I picked up on Kenneth Stanley's and Joel Lehmann's 2015
+book called [Why Greatness Cannot Be Planned - The Myth of the
+Objective](http://mythoftheobjective.com/). In the book they develop
+an argument for an advanced teleology based on experiments with
+synthetic processes of knowledge acquisition in the context of AI,
+ALife, and Learning. The argument roughly says, that if you want to
+reach a goal, that is ambitious in the sense that the *exact* sequence
+of steps (the route) which will get you there, is not known, then
+accumulating possible steps is a better strategy than heading directly
+into the direction of the goal. That's because chances are, that some
+of these steps will turn out, but unforseeably so, to be precisely
+what is needed to make the next move when negotiating the route. So
+far so good, I agree with this line of reasoning.
 
 In the meantime, additional manifestations of that same idea keep
-popping up urging the collector inside me to collect. Here we
-go.
+popping up urging the collector inside me to collect. Here we go.
 
  - __2015__ Stanley and Lehmann argue that, considering results on
    "novelty search" in learning experiments with artificial agents,

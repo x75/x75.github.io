@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: failure"
-tag: failure
+title: "Tag: theory"
+tag: theory
 robots: noindex
 ---

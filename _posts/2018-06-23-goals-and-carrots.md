@@ -2,7 +2,7 @@
 layout: post
 title: Goals and carrots
 comments: true
-tags: motivation temporal-horizon discount factor policies complexity management self-organization failure creativity open-culture
+tags: motivation temporal scope policies complexity management self organization creativity open-culture
 ---
 
 ### Goals and carrots [WIP]
