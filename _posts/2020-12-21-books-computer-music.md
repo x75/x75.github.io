@@ -1,11 +1,12 @@
 ---
 layout: post
-title: books - computer music
+title: Computer music reading
+author: Oswald Berthold
 comments: true
 tags: audio sound music computer-music signal-processing research compmus dsp smp jcl gt
 ---
 
-### Computer music literature
+### Computer music reading and literature
 
 #### This document
 
