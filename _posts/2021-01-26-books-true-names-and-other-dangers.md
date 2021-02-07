@@ -1,15 +1,16 @@
 ---
 layout: post
-title: books - true names and other dangers, vernor vinge
+title: True names and other dangers
+author: Oswald Berthold
 comments: true
 tags: research hacker culture cyberspace internet books
 ---
 
-### True names and other dangers by Vernor Vinge
+### Summary
 
 Discussion about names on pulsar with Akira Sileas and the ensuing
-alias outings activated my memory on the 1984 book / story *True names
-and other dangers* by Vernor Vinge. Has been a standing phrase in
+alias outings activated my memory on the *True names and other
+dangers* by Vernor Vinge. Has been a standing phrase in
 self-programming over the years.
 
 Obsessing about attribution and the genealogy of knowledge wondering
@@ -40,8 +41,9 @@ opening of the cyberspace frontier", ebook available
 [here](https://www.buecher.de/shop/science-fiction/true-names-ebook-epub/vinge-vernor/products_products/detail/prod_id/45324784/)
 for example.
 
-Thinking about hosting the HTML copy that I have because a/ want to
-read original edition and b/ can't read the PDF on the phone.
+Thinking about hosting the [HTML
+copy](/assets/vv_truenames/truename.htm) that I have because a/ want
+to read original edition and b/ can't read the PDF on the phone.
 
 ### Hacker jargon file bibliography
 
