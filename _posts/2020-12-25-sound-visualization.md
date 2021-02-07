@@ -1,11 +1,12 @@
 ---
 layout: post
-title: embed scope audio visualization 🝚
+title: Embed scope audio visualization 🝚
+author: Oswald Berthold
 comments: true
 tags: audio embedding linux mapping music pxp scope sound visualization
 ---
 
-### embed scope audio visualization 🝚
+### Embed scope audio visualization 🝚
 
 #### Intro / Angles of incidence
 
