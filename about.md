@@ -25,6 +25,8 @@ Topics are AI, robots, music, art, philosophy, business, complexity,
 biology, machine learning, see also the hyper-associative tag-cloud.
 
 Check up
+<a class="fab fa-twitter" href="https://twitter.com/x7557x"></a>
+
 [](https://twitter.com/x7557x)
 [](https://github.com/x75)
 [](https://instagram.com/farmersmanual)
