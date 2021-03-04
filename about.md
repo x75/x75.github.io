@@ -24,17 +24,14 @@ pieces as is the good style to create the unexpected.
 Topics are AI, robots, music, art, philosophy, business, complexity,
 biology, machine learning, see also the hyper-associative tag-cloud.
 
-Make sure to check up profiles on a network of your choice
-
-<a class="fab fa-twitter" href="https://twitter.com/x7557x" target="_blank"></a>
-
-[](https://twitter.com/x7557x),
-[github](https://github.com/x75),
-gitlab
-[insta](https://instagram.com/farmersmanual),
-[facebook](https://facebook.com/oswald.berthold),
-linkedin,
-angel.co
+Check up
+[](https://twitter.com/x7557x)
+[](https://github.com/x75)
+[](https://instagram.com/farmersmanual)
+[](https://facebook.com/oswald.berthold)
+[](https://gitlab.com/x75)
+[](https://www.linkedin.com/in/oswald-berthold-571088ab/) 
+[](https://angel.co/u/oswald-berthold)
 
 
 <article>
