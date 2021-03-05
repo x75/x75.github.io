@@ -25,15 +25,14 @@ Topics are AI, robots, music, art, philosophy, business, complexity,
 biology, machine learning, see also the hyper-associative tag-cloud.
 
 Check up
-<a class="fab fa-twitter" href="https://twitter.com/x7557x"></a>
 
-[](https://twitter.com/x7557x)
-[](https://github.com/x75)
-[](https://instagram.com/farmersmanual)
-[](https://facebook.com/oswald.berthold)
-[](https://gitlab.com/x75)
-[](https://www.linkedin.com/in/oswald-berthold-571088ab/) 
-[](https://angel.co/u/oswald-berthold)
+<a class="fab fa-twitter" href="https://twitter.com/x7557x"></a>
+<a class="fab fa-github" href="https://github.com/x75"></a>
+<a class="fab fa-instagram" href="https://instagram.com/farmersmanual"></a>
+<a class="fab fa-facebook" href="https://facebook.com/oswald.berthold"></a>
+<a class="fab fa-gitlab" href="https://gitlab.com/x75"></a>
+<a class="fab fa-linkedin" href="https://www.linkedin.com/in/oswald-berthold-571088ab/"></a>
+<a class="fab fa-angellist" href="https://angel.co/u/oswald-berthold"></a>
 
 
 <article>
