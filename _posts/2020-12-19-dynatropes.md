@@ -150,6 +150,16 @@ chemotropes, people too.
 ### TODO
 - add fm/jcl logos and fandom wiki pic as dynatrope examples
 - add reference to teleology in Context section re: BEAM goal seeking behavior
+- see new scientist, 19/26 December 2020 p.51: Vermeji argues that
+  evolution is getting better at producing new. "Organisms have, on
+  the whole, become more energetic over time," he says. It is known,
+  for instance, that the veins running through the leaves of flowering
+  plants have become more densely packed over millions of years,
+  meaning modern flowering plants can extract more energy from
+  sunlight than their ancestors could 100 million years
+  ago. Similarly, "the average metabolic rates of things like snails
+  and clams and many more organisms have increased over time", says
+  Vermeji.
 
 ### Changes
 - updates 2020-12-21
