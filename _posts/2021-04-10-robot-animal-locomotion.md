@@ -7,19 +7,21 @@ comments: true
 tags: robots biology locomotion
 ---
 
-# Videos
+# Animal and robot locomotion video collection
+
+Mirror of this Twitter [thread](https://twitter.com/x7557x/status/1380859693715820550)
 
 ## Birds
 - Goshawk Slow Motion Flies through tree shot on Phantom HD Gold - 6 Shots <https://www.youtube.com/watch?v=_FrdiMoxH_Y>
 - Goshawk Flies Through Tiny Spaces in Slo-Mo! - The Animal's Guide to Britain, Episode 3 - BBC Two <https://www.youtube.com/watch?v=2CFckjfP-1E>
 - Flying with the fastest birds on the planet: Peregrine Falcon & Goshawk - Animal Camera - BBC <https://www.youtube.com/watch?v=p-_RHRAzUHM>
-- Birds eye view from Golden Eagle flight | Animal Camera | BBC Studios <https://www.youtube.com/watch?v=lswBDZuL-8w>
+- Birds eye view from Golden Eagle flight - Animal Camera - BBC Studios <https://www.youtube.com/watch?v=lswBDZuL-8w>
 
 ## Goats (G.O.A.T.)
--  The incredible ibex defies gravity and climbs a dam | Forces of Nature with Brian Cox - BBC <https://www.youtube.com/watch?v=RG9TMn1FJzc>
+-  The incredible ibex defies gravity and climbs a dam - Forces of Nature with Brian Cox - BBC <https://www.youtube.com/watch?v=RG9TMn1FJzc>
 
 ## Lizards
-- Jesus Christ Lizard | National Geographic <https://www.youtube.com/watch?v=CW0TijmAUqY>
+- Jesus Christ Lizard - National Geographic <https://www.youtube.com/watch?v=CW0TijmAUqY>
 - Jesus Christ Lizard Runs on Water <https://www.youtube.com/watch?v=0TkvmFpijcc>
 
 ## Ingo Rechenberg
@@ -42,7 +44,7 @@ tags: robots biology locomotion
 
 ## Swarms
 - Countless Starlings Flock Together in a Miraculous Bird-Shaped Murmuration Over Lough Ennell <https://www.thisiscolossal.com/2021/03/james-crombie-bird-photo/>
-- Can we really trust the crowd? | Jens Krause | TEDxGhent <https://www.youtube.com/watch?v=kjYFN4ElzzE>
+- Can we really trust the crowd? - Jens Krause - TEDxGhent <https://www.youtube.com/watch?v=kjYFN4ElzzE>
 - Jens Krause Wandlungsfähigkeit durch Schwarmintelligenz und Selbstorganisation <https://www.youtube.com/watch?v=veZrZ0oxJzw>
 
 ### Comments
