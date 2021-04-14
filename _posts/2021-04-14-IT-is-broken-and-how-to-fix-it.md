@@ -7,7 +7,7 @@ comments: true
 tags: networking computing discrete math
 ---
 
-# Information technology is broken
+### Information technology is broken
 
 To the trouble of my surroundings I am going on at least three times a day about "IT is broken, see there!".
 
@@ -27,7 +27,7 @@ Naive mega-scaling is more of a problem than concrete reasons itself.
 
 Discrete state machine based approaches are long known to be brittle, and the effect is called brittleness.
 
-# The fix
+### The fix
 
 Biological systems still outperform human-made technology in pretty much every relevant aspect.
 
