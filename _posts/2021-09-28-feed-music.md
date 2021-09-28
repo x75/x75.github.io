@@ -1,6 +1,6 @@
 ---
 layout: post
-title: feed: music:
+title: feed music
 author: Oswald Berthold
 date: 2021-09-28
 comments: true
