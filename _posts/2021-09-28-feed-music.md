@@ -4,22 +4,20 @@ title: feed music
 author: Oswald Berthold
 date: 2021-09-28
 comments: true
-tags: music
+tags: feed music
 ---
 
 ## feed: music:
 
-## ORBIT by Eiko Ishibashi - \<2020-11-20 Fr 15:21\>
-
-<https://superpang.bandcamp.com/album/orbit>
-
-## mark fell and will guthrie - infoldings - \<2020-11-20 Fr 15:13\>
-
-<https://boomkat.com/products/infoldings> -
-
-## nakul krishnamurty - cafe oto publishing - \<2020-11-20 Fr 01:43\>
-
-<https://www.cafeoto.co.uk/shop/nakul-krishnamurthy-tesserae/>
+| SPALK                                                                                              |                     | 2021-05-28 | <https://spalk.bandcamp.com/track/hello-world-prologue-mix>                     |
+| SPALK                                                                                              |                     | 2021-05-28 | <https://soundcloud.com/spalkmusic/sets/beyonderland-pre-release/s-FkF7TeCHiWN> |
+| Completely generative music, all made with ‘poor man’s AI’ in SC, but with a brazilian MPB flavour |                     |            | <https://s4ntp.org/memorabilia>                                                 |
+| etat.xyz netlabel                                                                                  | vienna dissociative | 2020-12-10 | <https://etat.xyz/info>                                                         |
+| rm francis                                                                                         |                     | 2020-12-10 | <https://www.rmfrancis.net/releases>                                            |
+| Eiko Ishibashi                                                                                     | ORBIT               | 2020-11-20 | <https://superpang.bandcamp.com/album/orbit>                                    |
+| mark fell and will guthrie                                                                         | infoldings          | 2020-11-20 | <https://boomkat.com/products/infoldings>                                       |
+| nakul krishnamurty                                                                                 | cafe oto publishing | 2020-11-20 | <https://www.cafeoto.co.uk/shop/nakul-krishnamurthy-tesserae/>                  |
+|                                                                                                    |                     |            |                                                                                 |
 
 ### Comments
 
