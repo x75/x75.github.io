@@ -9,6 +9,8 @@ tags: feed music
 
 ## feed: music:
 
+| a0n0                           | Calopteryx atrata (fals.ch)                                                     | 2021-10-01 | <https://fals.ch/album/calopteryx-atrata>                                                                                      |
+| xxxxx                          | .​/​self .​/​self "​.​/​self" > selflog                                      | 2021-10-01 | <https://xxxxx4.bandcamp.com/releases>                                                                                         |
 |                                | DJ Lag - 'Ice Drop' (Official Video)                                  | 2021-09-30 | <https://www.youtube.com/watch?v=9ycr4BI8I94>                                                                                  |
 | twitter / tokinogake radio     |                                                                       | 2021-09-04 |                                                                                                                                |
 |                                | tokinogake: radio:                                                    | 2021-09-04 | <https://www.mixcloud.com/tokinogake/>                                                                                         |
