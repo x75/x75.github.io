@@ -21,7 +21,7 @@ robotics.
 Or, even in some other ways. Easy, because our own brain and CNS is
 involved in all our perception and acquisition of knowledge. It is
 involved in everything we are and do. It is us, and it is bodily
-(somatic) al the way down. This is called embodiment.
+(somatic) all the way down. This is called embodiment.
 
 If the 20th century has seen the emergence of non-classical theory in
 physics, it has also seen the beginnings of non-classical theory in,
