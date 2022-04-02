@@ -11,8 +11,8 @@ Berthold (he/him), an Austrian artist, computer scientist, and
 entrepreneur. Has also been called a [Digital
 musician](https://www.amazon.com/Digital-Musician-Andrew-Hugill-2007-10-26/dp/B01FEOFJM0)
 or an
-[Artist-technologist](https://arttech.mason.digital/profile/oswald-berthold/). He's
-has a global outlook and a strong interdisciplinary scope.
+[Artist-technologist](https://arttech.mason.digital/profile/oswald-berthold/). He
+has got a global outlook and a strong interdisciplinary scope.
 
 The purpose of this blog is to document his work. This includes ongoing
 and historical research activity and projects. Both the blog and the
