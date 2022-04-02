@@ -2,12 +2,12 @@
 layout: post
 title: Sound, music, sequences, search
 comments: true
-tags: sound music algorithms generative models sequence models
+tags: sound music algorithms generative models sequence models computer
 ---
 
 ### Sound, music, sequences, search
 
-__Keywords__: sound, music, algorithms, generative models, sequence models
+__Keywords__: sound, music, computer music, algorithms, generative models, sequence models
 
 This turned out the quickest way to get it done, a graphical dump of
 my current picture related to the relationship of sound, music,
