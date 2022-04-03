@@ -15,6 +15,8 @@ an
 and is working hard on the creation of new words for new things
 [digitalia](https://chicagoreader.com/arts-culture/oswald-berthold/).
 
+![Head shot](/assets/profile-opt-12b-heike-IMG_C927B2F91606-1_oswald02-crop.jpg){:class="img-responsive"}
+
 The purpose of the blog is to document Oswald's work, including ongoing
 and historical research activity and projects. Everything is
 work-in-progress, as of last update 2022-04-02.
