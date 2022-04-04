@@ -19,6 +19,8 @@ from this.
 
 ### Catalogue data
 
+![All album covers tiled](/assets/catalog-sound-music-works-oswald-berthold.jpg){:class="img-responsive"}
+
 | Artist             | Year | Title                       | Link                                                                                                                                                                       | Label                    |
 |--------------------|------|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
 | farmersmanual      | 2022 | tcpsymphony\#2              | [bandcamp](https://farmersmanual.bandcamp.com/album/tcpsymphony-2)                                                                                                         | generate and test - gt39 |
