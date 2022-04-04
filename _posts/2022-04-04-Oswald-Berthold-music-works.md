@@ -5,7 +5,7 @@ comments: true
 tags: sound music algorithms models dsp synthesis sonfication datadriven audio digital musician aesthetics computer
 ---
 
-**2022-04-02** Updating this list by way of updating cv, adding most recent releases and adding more links.
+**2022-04-02** Updating this list by way of updating my cv, adding most recent releases and adding more direct links.
 
 **2021-01-17** Update from another thread, over the years I have
 accumulated so many aliases that I lost track myself. Still picking up
@@ -87,8 +87,8 @@ in 1993 and 1994 as limited tape editions.
 #### farmersmanual
 
 Separate story to be filled in at another time. In the meantime please
-check up all their music on
-[bandcamp](https://farmersmanual.bandcamp.com/) and more information
+check up all of farmersmanual's music on
+[bandcamp](https://farmersmanual.bandcamp.com/) and find more information
 on [wikipedia](https://en.wikipedia.org/wiki/Farmers_Manual),
 [discogs](https://www.discogs.com/artist/356-Farmers-Manual), the fm
 [website](http://web.fm), the [recent live archive
@@ -156,9 +156,17 @@ be found on the [web](https://gullibloon.org).
 
 #### Solo work
 
-Been creating a dizzying amount of synthetic persona over time
-including *Calimba de Luna*, *dprmkr*, *pxp* and *tsx*, to name just a
-few. They are all listed in the data table at the top of the page.
+Been creating an amount of synthetic persona over time that makes
+myself dizzy at times. These persona including *Calimba de Luna*,
+*dprmkr*, *pxp* and *tsx*, to name just a few. They are all listed in
+the musicography table at the beginning of this page.
+
+Here is a clipping from the [Chicago
+Reader](https://chicagoreader.com/arts-culture/oswald-berthold/) by
+Peter Margasak from 27 Nov, 2003 published in the run-up to the first
+and so far only live appearance of *pxp*
+
+> There are few practitioners of electronic music more challenging than the Austrian group Farmers Manual. Their music draws on the vocabulary of club music–pulsating bass lines, frantic drum ‘n’ bass and techno beats, modem handshakes and digital glitches–but embeds these elements in a new and alien grammar. Their long, apparently improvised streams of digitalia are at times grating and self-indulgent, but at its best their work is densely layered with arresting details and packed with abrupt and exciting shifts in texture and rhythm. They recently issued a mind-boggling DVD-ROM entitled RLA (Mego; it stands for “recent live archive”) containing more than 70 hours of audio produced at performances and gallery installations since 1995. The additional 70 minutes of electronic abstraction on While(p)”print”.”,” “x$p++” (Wavetrap), a recent solo album by group member Oswald Berthold (working as PXP), are by turns harsh and serene, viscous and brittle. For his Chicago debut, Berthold will present a new piece called “Tats=3D94chliche-Chaos,” which depends in part on what he calls “distributed online automated entities” that kidnap random packets of data from the Internet and turn them into sound–working, according to Berthold, “like virtual players in a virtual little band.” There will be a visual component to the performance as the same data is simultaneously translated into pixelated animations. Berthold’s work strains the conventional definition of music to the breaking point, but between the range of the sounds he creates and the mystery of the underlying methodology, there’s plenty here to sink your teeth into. Saturday, November 29, 9 PM, 6Odum, 2116 W. Chicago; 773-227-3617 or 312-666-0795.
 
 ### Comments
 
