@@ -48,6 +48,8 @@ In robotics we need to model at least four layers of spatial competence:
 All these layers connect with questions about adequate spatial exploration and modeling strategies. One of the most pressing ones is exploration, that is, what do you do when you have no idea? Without energy constraints, exploration can do everything that knowledge can do, only alas, energy is asking for a trade-off. What does it have to do with dynatropes? Well, if dynatropes are moving in the space of empowerment, they are still down to a locomotion and navigation task, only that the space is a bit more weird but no less relevant.
 
 ### References & see also
+ - Bond, 2020, Wayfinding, The art and science of how we find and lose our way, <https://www.amazon.co.uk/Wayfinding-Art-Science-Find-Lose-ebook/dp/B07XP8P2NW>
+ - Rössler, 1976, Rössler, O.E., 1974. Adequate locomotion strategies for an abstract organism in an abstract environment—a relational approach to brain function. In Physics and Mathematics of the Nervous System (pp. 342-369). Springer, Berlin, Heidelberg. <https://link.springer.com/chapter/10.1007/978-3-642-80885-2_19> Write me for a copy of the article.
  - Franz & Mallot, 2000, Biomimetic robot navigation, page 3, Navigation hierarchy, <https://www.sciencedirect.com/science/article/abs/pii/S092188909900069X>
  - Poincare, Science and hypothesis, Part II: Space, Chapter IV: Space and geometry, <https://www.gutenberg.org/ebooks/37157>
 
