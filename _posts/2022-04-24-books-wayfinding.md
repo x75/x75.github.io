@@ -45,7 +45,7 @@ In robotics we need to model at least four layers of spatial competence:
  3. How particular limb movement coordinated with respect to gravity leads to locomotion
  4. Once you locomote, how to navigate and bridge large distances with the entire body viewed as a point mass
  
-All these layers connect with questions about adequate spatial exploration and modeling strategies. One of the most pressing ones is exploration, that is, what do you do when you have no idea? Without energy constraints, exploration can do everything that knowledge can do, only alas, energy is asking for a trade-off.
+All these layers connect with questions about adequate spatial exploration and modeling strategies. One of the most pressing ones is exploration, that is, what do you do when you have no idea? Without energy constraints, exploration can do everything that knowledge can do, only alas, energy is asking for a trade-off. What does it have to do with dynatropes? Well, if dynatropes are moving in the space of empowerment, they are still down to a locomotion and navigation task, only that the space is a bit more weird but no less relevant.
 
 ### References & see also
  - Franz & Mallot, 2000, Biomimetic robot navigation, page 3, Navigation hierarchy, <https://www.sciencedirect.com/science/article/abs/pii/S092188909900069X>
