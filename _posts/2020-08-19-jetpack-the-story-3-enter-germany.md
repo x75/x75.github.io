@@ -13,11 +13,11 @@ creator of the [Bakiwi](https://bakiwi.shop) robot friend.
 > recap
 
 In [part one](/2020/02/20/jetpack-the-story-1-init) we talked about
-the the time and the things leading up to the agreement to create
+the time and the things leading up to the decision to found
 Jetpack Cognition Lab and on what terms this is going to occur. [Part
 two](/2020/02/28/jetpack-the-story-2-make) covered the mechanics of
 creating a Delaware C Corporation and making the first steps with the
-baby company. This part contains the record of registering the
+baby company. This third part contains the record of registering the
 business locally in Germany.
 
 > enter Germany
