@@ -15,6 +15,8 @@ There are at least two reasons for why knowledge about this fact is not commonpl
 
 One reason is the people who actively and silently fix broken processes 24/7, see <https://twitter.com/x7557x/status/1374463844924289031>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">IT is broken. it is people that make it work</p>&mdash; Oswald Berthold (@x7557x) <a href="https://twitter.com/x7557x/status/1374463844924289031?ref_src=twsrc%5Etfw">March 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 Then, another one is that not all of it is utterly broken but only let's say 90%. The remaining 10% are so well designed and built to compensate away the broken stuff and keep things working on top, previously expressed here <https://twitter.com/x7557x/status/1361096165270372356>
 
 On topical occasion, here is an example: Name:Wreck, which just came up to me through this article in [Wired](https://www.wired.com/story/namewreck-iot-vulnerabilities-tcpip-millions-devices/amp).
