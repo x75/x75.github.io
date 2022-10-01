@@ -89,16 +89,16 @@ the full thing.
 ![Quality education](/assets/E-WEB-Goal-04.png){:class="img-responsive"}
 
 Education is a lot about didactics, that is, how to best *teach*
-particular knowledge and skills. All of this depends, not only but
-none the less so, on the availability of adequate teaching material,
-and, more importantly, on the general availability of information
-about how things work. Open source technology is a revolution with
-respect to availability of such functional documentation. While not
-always well documented in prose, it contributes by making mechanisms
-available for reading *in principle*. With complex technology,
-understanding is hard to start off with, but without a definitive
-description of what is going on, anything downstream is guesswork and
-reverse engineering at best. |
+particular knowledge and skills. All of this depends largely on the
+availability of adequate teaching material, and, more importantly, on
+the general availability of information about how things work. Open
+source technology is a revolution with respect to availability of such
+functional documentation. While not always well documented in prose,
+it contributes tremenduously to the education task by making
+mechanisms available for reading *in principle*. With complex
+technology, understanding is hard to start off with, but without a
+definitive description of what is going on, anything downstream is
+guesswork and reverse engineering at best.
 
 Thus, basically any piece of functional technology being published
 under an open licensing term, contributes to quality education, in
@@ -106,6 +106,21 @@ terms of hard, reliable, and reproducible facts about the workings of
 any kind of complex artificial system, be it a car, a chat bot, or any
 other kind of social robot.
 
+Another huge part good teaching depends on is the availability of good
+story blocks. Motivation is everything, and usually stories are the
+best way to create true excitement for a field or a cause. Thus
+flatcat also contributes to learning and understanding of something
+complex through its ability to create playful engagement and
+interaction. So it is not just about the technology behind flatcat but
+also about the object itself and what it does.
+
+The ongoing reaction and adjustment to its environment and behavioural
+patterns creates the possibility for human-robot couple to invent
+itself accordingly. Thus, the constant exchange of stimulation and,
+arguably, knowledge through the sensory interaction between flatcat
+and human and vice versa creates a learning by doing educational
+approach, an example of how robots can make us learn something about
+ourselves.
 
 ### SDG #5 Gender equality
 
@@ -170,8 +185,12 @@ production, materials used, and the effective placement of the robot
 in a larger cultural frame. Open source technology is a prerequisite
 for repairabiity, which again is a prerequisite for sustainable
 quality hardware products that are ready for an uncertain future,
-which above all uncertainty it certainly is.
-
+which, above all the uncertainty, it certainly is. flatcat is fully
+repairable through the availability of its contruction plan, the use
+of 3D-printed parts which can be recreated at home or somewhere
+nearby, regardless of where in the world you are. Parts are made from
+biodegradable material, locally manufactured and sourced where
+possible.
 
 ### Summary
 

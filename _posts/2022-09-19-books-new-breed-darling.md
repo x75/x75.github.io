@@ -9,6 +9,8 @@ tags: feed books psychology robotics AI intelligence computational ethology
 
 ## Summary review
 
+> Totally outstanding book bringing an entirely new spin to how we can imagine, and thus invent and build, a symbiotic and meaningful life with robots.
+
 While fantasizing about the vision for jetpack cognition lab, on Jan
 1st, 2020, I was noting down "a new breed of robots", with my own idea
 going more down the lines of the self-learning capacity we want to
@@ -21,7 +23,7 @@ disappointed. All this "new breed" talk is about how we get to a new
 way of thinking about robots, both for the general public and for
 roboticists. We need to elevate our thinking here in order to get a
 new generation of robots on the market and really make a difference to
-the positive for many people. Darlings book is of great help in
+the positive for many people. Darling's book is of great help in
 spinning that story.
 
 ![The New Breed (e-book) by Kate Darling](/assets/The+New+Breed+cover+image.jpg){:class="img-responsive"}
@@ -46,7 +48,7 @@ story-telling put forward in the book, as well as the prose itself,
 which is simple, readable, and stealthily funny. Totally recommended
 for roboticists and everyone else alike.  In addition, it could be a
 very interesting read for people interested in animal rights &
-vegetarianism, is it unrolls the history of animal rights in (mostly)
+vegetarianism, as it unrolls the history of animal rights in (mostly)
 western societies.
 
 ## Annotated quotes
@@ -58,7 +60,8 @@ using some quotes from the book.
 1. **Public imagination** about robots is strongly centered on the idea
 of human-like robots, which look like we do and can do everything we
 can do, only better
-2. Robots allow us to learn something about **ourselves**.
+2. The **state of robotics** is nowhere near science fiction
+3. Robots allow us to learn something about **ourselves**.
 
 ### Public imagination and story-telling
 
@@ -103,8 +106,8 @@ the surface that was present while our current relation and general
 view of animals was shaped, historically. The close look she takes
 reveals that a lot of ambiguity still persists. And all of this makes
 for some awesome stories. In the meantime,
- - No, the oxen did not replace farmers. But yes, the oxen does something farmer-like.
- - No, hunting dogs did not replace hunters. But yes, the hunting dog does something hunter-like.
+ - No, the oxen did not replace the farmer. But yes, the oxen does something farmer-like.
+ - No, hunting dogs did not replace the hunter. But yes, the hunting dog does something hunter-like.
  - No, adoption of pets did not replace friendship. But yes, the pet does something friendship-like.
 
 OK, and yes you guessed it, while not replacing pets social robots do
@@ -123,15 +126,15 @@ robot. Art, relaxation, being social.
 
 ### State of robotics
 
-Awesome stories, it was said. Let's start with some funny one that the
-book adds to a growing list of funny robot, AI & tech fails.
+Awesome stories, it was said. Let's start with some funny ones that the
+book adds to a growing list of robot, AI & tech fails.
 
 > Our advancements in artificial intelligence, as amazing as they are, haven’t gotten anywhere near understanding how to create the adaptable, flexible general intelligence that a human, even a toddler, has. [1. Workers Trained and Engineered > p. 14]
 
 #### Robot fails
 
 The vacuuming robot Roomba represents the most successful type of
-consumer robot to date with iRobot selling 20 million unit
+consumer robot to date with iRobot selling 20 million units
 in 2018. These robots have real utility within a narrow scope. Early
 versions and apparently also more recent ones will fall down
 stairs. But hilariously they are also known to mindlessly distribute
@@ -154,8 +157,8 @@ chess-playing robot pinched then fingers of a seven year old kid and
 apparently broke them.
 
 We have been calling these grounding fails. With grounding we mean the
-completeness of the connection of an agents actions down to the
-sensorimotor and physical reality. As the Tesla story clearly tells,
+completeness of the connection of an agent's actions out through the
+sensorimotor layer and down to physical reality. As the Tesla story clearly tells,
 physical reality does have its special surprises, even for our own
 reasoning at times.
 
@@ -174,7 +177,7 @@ our internal activity that makes sure this things are taken care of.
 This is the great introspective fallacy that some many, including
 roboticists of every generation, fall victim to.
 
-That is a grand one and there is more things robot can teach us about
+That is a grand one and there is more things robots can teach us about
 ourselves and the skills we actually have but do not perceive them as
 such. This only becomes obvious when you try to replicate these skills
 in a machine. [tbd]
