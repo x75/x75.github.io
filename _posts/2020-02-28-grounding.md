@@ -2,44 +2,53 @@
 layout: post
 title: grounding
 comments: true
-tags: jetpack jcl robotics research startups grounding grounding-fail
+tags: robotics research AI startups grounding fail robot epistemology
 ---
 
 ### grounding
 
-> what is meant by grounding and why is it important
+> what is 'grounding' and why is it important
 
-Over the last few years I have picked up strongly on the term
-_grounding_ to talk about a robots "knowledge" (robot epistemology)
-and especially for discussing _grounding fails_ as they come in
-through the news or through experience.
+Over the last few years I have picked up more and more on the term
+_grounding_ to talk about a robot's knowledge of the physical world
+and especially for identifying _grounding fails_ as they occur in
+my own robot experiments, personal experience of the technicized
+world, or through the news.
 
-Grounding is related to the symbol grounding problem (SGP) in AI where
-_thinking_ is often modeled as inference on mental _symbols_. The
-symbols represent outside objects or object relationships. Now, the
-SGP asks to what extent and how precisely any such symbol is
-__grounded__ in, that is, connected to, the raw sensory data.
+Grounding is related to the symbol grounding problem (SGP) in AI,
+which you might be familiar with. Especially in good old-fashioned AI,
+reasoning is often modeled as inference over mental _symbols_. The
+symbols represent outside objects, their relations to other objects,
+or other environmental states. Now, the symbol grounding problem
+occurs when you ask to what extent, and how precisely any such symbol
+is __grounded__ in, aka connected to, the raw sensorimotor data. The
+raw sensorimotor data is a multidimensional stream of noisy data
+impinging on the robot via the entirety of its sensors.
 
 The grounding should be a complete description of how sensor values
 change symbol states and how sensor values can be predicted from
 symbol states. If a symbol's grounding is even only slightly off, this
 might be amplified during inference, producing potentially large and
 disastrous errors when the inference is being committed to, aka sent
-to the motors.
+to the motors and an action is performed.
 
 Depending on your philosophical stance you might disagree but raw
-sensory data is the only source of information available to an
-organism, both individually and phylogenetically. Introducing symbols
-taken from the introspection into mental activity creates large risk
+sensorimotor data is the only source of information available to an
+organism in any given moment, apart from the phylogenetic information
+it carries. Introducing symbols into robots where the symbols are
+taken from introspection into human mental activity creates large risk
 to end up with _dangling_ symbols and associated downstream
-effects. It appears the issue has crucial relevance for building
-trustworthy robots.
+effects. Introspection is very limited in what brain processes it can
+actually access. This issue has crucial relevance for the
+trustworthiness of a robot.
 
 > grounding fails
 
-The systems that are being built and which surround us and shape our
-lives are usually built to a specification which is held in vague
-(natural language) terms. Then engineering kicks in to solve each
+What happens if the grounding is bad and a grounding fail occurs?
+
+Many systems being built which surround us and shape our lives are
+usually designed according to a natural language specification which
+is known to be ambigous. Then engineering kicks in to solve each
 point of the spec. If the project is framed in narrow terms
 (Kahneman), it is likely that a solution is created that fits the spec
 but does so in a fragile way that relies on assumptions that often do
@@ -67,11 +76,19 @@ them to be mastered before we even begin to speak ourselves.
 List of funny and serious examples
 - Janelle Shane's supernice blog on [https://aiweirdness.com](https://aiweirdness.com) is full of this
 - Alexa doll house incident, radio runaway / replay attack, [https://www.theverge.com/2017/1/7/14200210/amazon-alexa-tech-news-anchor-order-dollhouse](https://www.theverge.com/2017/1/7/14200210/amazon-alexa-tech-news-anchor-order-dollhouse)
-- accidental recording and leak of couple arguing to random addressbook contact, [https://www.theguardian.com/technology/2018/may/24/amazon-alexa-recorded-conversation](https://www.theguardian.com/technology/2018/may/24/amazon-alexa-recorded-conversation)
+- Accidental recording and leak of couple arguing to random addressbook contact, [https://www.theguardian.com/technology/2018/may/24/amazon-alexa-recorded-conversation](https://www.theguardian.com/technology/2018/may/24/amazon-alexa-recorded-conversation)
 - new scientist: adversarial foo: [https://twitter.com/newscientist/status/1122794657568698369](https://twitter.com/newscientist/status/1122794657568698369)
 - AI hallucination problem: pareidolia: face in the street: [https://www.wired.com/story/ai-has-a-hallucination-problem-thats-proving-tough-to-fix/](https://www.wired.com/story/ai-has-a-hallucination-problem-thats-proving-tough-to-fix/), [https://en.wikipedia.org/wiki/Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
 - steganographic audio attacks to voice recognition
-- tbc
+- Darling: mobile office printer falling off the stairs
+- Darling: Elon Musk conceding to problems in attaining desired scope of automation in tesla factory
+- Chess robot in Moscow pinches and breaks finger of seven year old, twitter opt?
+- ** DONE posts: chess robot breaks finger of seven year old <2022-08-10 Mi>
+- 2020 first year a human got killed by a fully autonomous drone, twitter opt?
+- feed: robotics: fails: drone lands on power lines https://twitter.com/BotJunkie/status/1575704353536868352, https://www.abc.net.au/news/2022-09-30/food-delivery-drone-lands-on-power-lines-qld-browns-plains/101489670
+- feed: AI: fail: https://spectrum.ieee.org/machine-learningbackdoor
+- feed: AI: fail: https://spectrum.ieee.org/artificial-intelligence-in-government
+- feed: tech: fail: https://spectrum.ieee.org/can-you-trust-nist
 
 > pile of sheets
 

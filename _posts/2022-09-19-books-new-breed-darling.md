@@ -60,7 +60,7 @@ using some quotes from the book.
 1. **Public imagination** about robots is strongly centered on the idea
 of human-like robots, which look like we do and can do everything we
 can do, only better
-2. The **state of robotics** is nowhere near science fiction
+2. The **state of robotics** is nowhere near the science fiction
 3. Robots allow us to learn something about **ourselves**.
 
 ### Public imagination and story-telling
