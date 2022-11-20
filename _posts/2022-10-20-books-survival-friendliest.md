@@ -43,7 +43,7 @@ change"](https://pluralistic.net/2022/10/23/narrative-warfare/) with
 an interesting book review of The Persuaders in there.
 
 I think this is all very hot and interesting, despite some criticism
-of the self-domestication hypothesis which hinges on the fact that
+of the [self-domestication hypothesis](https://en.wikipedia.org/wiki/Self-domestication) which hinges on the fact that
 Belyaev's foxes were preselected and had seen previous breeding as
 they were imported from a Canadian fox farm, back at the time.
 
@@ -126,6 +126,28 @@ relation with animals and whether we dehumanize them or not and then
 what we are able to do to them.
 
 Good and wild stuff, thanks.
+
+### Selected and annotated quotes
+
+> pg 3-4 By age four, you could guess someone’s thoughts so cleverly that for the first time, you could lie. You could also help someone if they had been deceived.
+>
+> 
+> You will spend the rest of your life wondering what other people are thinking.
+>
+> 
+> Theory of mind allows us to engage in the most sophisticated cooperation and communication on the planet. It is crucial to almost every problem you will ever face.
+
+This is the last part on the schedule with which we acquire theory of mind as a baby and small child. The last sentence nicely emphasizes the importance of that function and concept.
+
+> pg4 You can teach only if you can remember what it is like not to know.
+
+A more general one but a gem at putting the focus on the part that does **not know**. It is such an important state of mind and we look back on ourselves, there was always a time when we did not yet know something that we now know. We learned everything that we know at some point since being born (or since shortly before that).
+
+> pg189 If there is an essential lesson to be learned from psychology research, it is that we are not always aware of what shapes our attitudes and behavior.
+
+I just love *psychology* and how it does just that, tell weird and funny stories about how behavior is shaped in ways that we would not know from pure introspection, aka the introspection fallacy.
+
+More to come, check back.
 
 ### References
  
