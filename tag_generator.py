@@ -20,14 +20,14 @@ filenames = glob.glob(post_dir + '*md')
 
 total_tags = []
 for filename in filenames:
-    print "scanning file {0}".format(filename)
+    print("scanning file {0}".format(filename))
     f = open(filename, 'r')
     crawl = False
     for line in f:
         if crawl:
-            print "crawl line {0}".format(line)
+            print("crawl line {0}".format(line))
             current_tags = line.strip().split()
-            print "      current_tags {0}".format(current_tags)
+            print("      current_tags {0}".format(current_tags))
             if len(current_tags) < 1: continue
             if current_tags[0] == 'tags:':
                 total_tags.extend(current_tags[1:])
@@ -55,4 +55,4 @@ for tag in total_tags:
     write_str = '---\nlayout: tagpage\ntitle: \"Tag: ' + tag + '\"\ntag: ' + tag + '\nrobots: noindex\n---\n'
     f.write(write_str)
     f.close()
-print("Tags generated, count", total_tags.__len__())
+print(("Tags generated, count", total_tags.__len__()))

@@ -4,7 +4,7 @@ title: Book review - Wayfinding by Michael Bond
 author: Oswald Berthold
 date: 2022-04-24
 comments: true
-tags: feed books navigation wyafinding cognition mapping psychology decision risk robotics AI intelligence computational ethology
+tags: feed books navigation wayfinding cognition mapping psychology decision risk robotics AI intelligence computational ethology
 ---
 
 ## Wayfinding
