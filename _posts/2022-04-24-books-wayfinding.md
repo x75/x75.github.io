@@ -15,7 +15,7 @@ By way of a friend I got my hands on a very nice little book called '[Wayfinding
 
 In short, it is a very sensitive, gentle, empathic, and well researched book on the topic of human wayfinding. It is about different kinds of spaces that we end up navigating as humans, and the effect they have as well as the different challenges these environments pose. It is, at the same time, about the neuro- and cognitive science of how animals, including humans, actually manage to traverse space in coordinated manner utilizing their neuronal circuits, aka the brain.
 
-Starting out with a historical and evolutionary account of wayfinding, it covers the importance of the right to roam for children with respect to their cognitive development, goes into two chapters of the neuroscience of first, the actual navigation in extrinsic space, and then, that about how these same circuits are reappropriated for more abstract types of cognitive activity, aka thinking, and how extrinsic navigation skills affect the ability to navigate mental spaces. The second half of the book is about how all this plays out in real world scenarios, touching on mindfulness, non-existent gender differences, getting lost and decision making under fear, getting lost under dementia or depression, inhumane architecture and state-fo-the-art-neglect in city planning.
+Starting out with a historical and evolutionary account of wayfinding, it covers the importance of the right to roam for children with respect to their cognitive development, goes into two chapters of the neuroscience of first, the actual navigation in extrinsic space, and then, that about how these same circuits are reappropriated for more abstract types of cognitive activity, aka thinking, and how extrinsic navigation skills affect the ability to navigate mental spaces. The second half of the book is about how all this plays out in real world scenarios, touching on mindfulness, non-existent gender differences, getting lost and decision making under fear, getting lost under dementia or depression, inhumane architecture and state-of-the-art neglect in city planning.
 
 Having looked a lot at bio-inspired navigation strategies for robots, including the neuroscience of animal navigation, it was an extremely satisfying and reaffirming read, and it was an interesting one with a lot of enriching context, that again is highly relevent for reappropriating into robotics. I would totally recommend chapters 3 & 4 as a gentle introduction into brain-based navigation for both humans and robots.
 
@@ -35,7 +35,15 @@ There is a robot mentioned in the book and it does get a page or so. Another ent
 
 ### Final notes
 
-There is a notion and some evidence that the brain evolved as a motion computer in the first place, thus it is a spatial reasoning engine. Embodiment research has documented a trajectory of where abstract thinking (aka intelligence) including mathematics (Where mathematics comes from) comes from. This is one of the weirdest and most interesting bits about the brain, that it kind of finds out how it can *reuse* the circuits adapted for one particular domain to an entirely different domain, by way of a matched modeling relation (Rosen).
+There is a notion and some evidence that the brain evolved as a motion
+computer in the first place, thus it is a spatial reasoning
+engine. Embodiment research has documented a trajectory of where
+abstract thinking (aka intelligence) including mathematics (Where
+mathematics comes from) comes from. This is one of the weirdest and
+most interesting bits about the brain, that it kind of finds out how
+it can *reuse* the circuits adapted for one particular domain to an
+entirely different domain, by way of a matched modeling relation
+(Rosen).
 
 The canonical three-dimensional euclidean space of cultural perception is a great achievement and the intrinsic perceptual spaces of almost all orgamisms have more dimensions. Thinking is all about spatial reasoning, only that the dimensionality of mental spaces is not restricted to three dimensions.
 
