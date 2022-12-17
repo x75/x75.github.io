@@ -2,33 +2,40 @@
 layout: post
 title: Sound, music, sequences, search
 comments: true
-tags: sound music algorithms generative models sequence models computer
+tags: models robotics music language
 ---
 
 ### Sound, music, sequences, search
 
-__Keywords__: sound, music, computer music, algorithms, generative models, sequence models
-
 This turned out the quickest way to get it done, a graphical dump of
 my current picture related to the relationship of sound, music,
-sequences and search, based on a shared modelling approach; incomplete
-but more or less consistent [claim]. Domain layer in black, modelling
+sequences and search, based on a shared modeling approach. Incomplete
+but more or less consistent [claim]. Domain layer in black, modeling
 layer in green.
 
 ![Graphical description of the scenery drawing]({{ site-url }}/assets/2018-08-14-Sound-music-sequences-search/aib-sound-music-sequences-search.svg)
 
-Would like to argue that by combining *coding*, *latent space state
-propagation*, and *hierarchical composition*, most of the phenomena in
-sound, music, vocalization, spoken language, and written language can
-be modelled, all with the *same few items*. Let me know if you think,
-that this is obvious. Taking language as variable length sequences of
-actions, this can be extended straightforwardly to model navigation
-problems.
+By combining *coding*, *latent space state propagation*, and
+*hierarchical composition*, most of the phenomena in sound, music,
+vocalization, spoken language, and written language can be modelled,
+all with the *same few components*.
+
+Taking language as variable length sequences of actions, this can be
+extended straightforwardly to model navigation problems.
 
 <!--
 References: autopop, augmented creativity, augmented editing,
 teaching, game sounds, sonification, information sound scapes.
 -->
+
+### Music and robotics
+
+(Merging previous standalone post from 2019-02-12, because it was only a mini-draft and relates to sequence models.)
+
+The strong connection between robots and music is not so easily seen
+by surprisingly many people. Let's try and tell the story in an
+accessible way and then provide high level of detail for those
+interested.
 
 ### Comments
 
