@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: sequence"
-tag: sequence
+title: "Tag: language"
+tag: language
 robots: noindex
 ---
