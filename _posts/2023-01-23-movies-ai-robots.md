@@ -45,6 +45,9 @@ all a) simulation hypothesis.
  - Her, 2013, by Spike Jonze, Man falls in love with chatbot, had to stop watching in the middle because it felt awkward, <https://en.wikipedia.org/wiki/Her_(film)>
  - Nummer fünf lebt (classic)
  - Wall-E
+ - 2001: A Space Odyssey HAL. HAL's embodiment is the spaceship? OK. bwo Joe Gilmore.
+ - Hardware, 1990, Indie cyperpunk, <https://en.wikipedia.org/wiki/Hardware_(film)>
+ - Interstellar, 2014, they have these clonky robots in that film, <https://interstellarfilm.fandom.com/wiki/Interstellar_Wiki>
 
 #### Unwatched
  - Hi, Ai - Liebesgeschichten aus der Zukunft (hi ai, documentary, bwo udk 111) <https://www.imdb.com/title/tt9081788/>
@@ -61,6 +64,10 @@ all a) simulation hypothesis.
  - Welt am Draht (World on a Wire), 1972, Fassbinder, Two part TV show, great style and mood. Story by Daniel F. Galoye, 1964, Simulacron-3, <https://en.wikipedia.org/wiki/Simulacron-3>
  - The thirtenth floor, remake of Welt am Draht / re-adaptation of Simulacron-3
  - Matrix trilogy, for completeness
+
+### Aliens and alien robot embodiment
+ - Under the skin, 2013, <https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)>, bwo Luke Harby
+ - Terminator 1,2,3, <https://en.wikipedia.org/wiki/Under_the_Skin_(2013_film)>
 
 ### Comments
 
