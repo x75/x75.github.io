@@ -43,21 +43,23 @@ all a) simulation hypothesis.
  - Hitchhiker's guide to the Galaxy (robot Marvin)
  - Final space (robot KVN, among others)
  - Her, 2013, by Spike Jonze, Man falls in love with chatbot, had to stop watching in the middle because it felt awkward, <https://en.wikipedia.org/wiki/Her_(film)>
- - Nummer fünf lebt (classic)
  - Wall-E
- - 2001: A Space Odyssey HAL. HAL's embodiment is the spaceship? OK. bwo Joe Gilmore.
- - Hardware, 1990, Indie cyperpunk, <https://en.wikipedia.org/wiki/Hardware_(film)>
+ - 2001: A Space Odyssey HAL. HAL's embodiment is the spaceship? OK. <https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)> bwo Joe Gilmore.
  - Interstellar, 2014, they have these clonky robots in that film, <https://interstellarfilm.fandom.com/wiki/Interstellar_Wiki>
+ - Nummer fünf lebt (classic)
 
 #### Unwatched
  - Hi, Ai - Liebesgeschichten aus der Zukunft (hi ai, documentary, bwo udk 111) <https://www.imdb.com/title/tt9081788/>
+ - Hardware, 1990, Indie cyperpunk, <https://en.wikipedia.org/wiki/Hardware_(film)>
  - Brian and Charles, 2022, <https://en.wikipedia.org/wiki/Brian_and_Charles>
 
 ### Not directly AI but highly related, brain interfacing and mind upload
 
  - Ghost in the Shell (1995 original), more a cyborg tale, <https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(1995_film)>
  - Paprika, 2006, <https://en.wikipedia.org/wiki/Paprika_(2006_film)>
- - Pantheon, series, <https://en.wikipedia.org/wiki/Pantheon_(TV_series)>, GitS reference included.
+ - Pantheon, 2022, TV series, <https://en.wikipedia.org/wiki/Pantheon_(TV_series)>, GitS reference included. bwo sansculotte
+ - Robocop, 1987, (classic), dead person is revived as a cyborg
+
 
 ### Simulation hypothesis
 
@@ -66,8 +68,11 @@ all a) simulation hypothesis.
  - Matrix trilogy, for completeness
 
 ### Aliens and alien robot embodiment
- - Under the skin, 2013, <https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)>, bwo Luke Harby
- - Terminator 1,2,3, <https://en.wikipedia.org/wiki/Under_the_Skin_(2013_film)>
+ - Under the skin, 2013, <https://en.wikipedia.org/wiki/Under_the_Skin_(2013_film)>, bwo Luke Harby
+ - Terminator 1,2,3, including the time travel this is close to an alien robot
+
+### Other
+ - Star Wars of course, but this one is so big I will leave to specialist sites / people.
 
 ### Comments
 
