@@ -40,7 +40,7 @@ This article is a very entertaining read. Do not get scared by the
 number of pages, one third of it is references and each page is
 short. Highly recommended regarding its entertainment value and some
 insights on the intricacies and everyday hickups when dealing with
-language and that starts with word like 'a', 'the', and 'is'.
+language and that starts with words like 'a', 'the', and 'is'.
 
 #### Some selected quotes
 
@@ -129,6 +129,14 @@ epistemology. Epistemology is about how we acquire knowledge about
 stuff. Acoustemology then means, how we acquire knowledge about stuff
 acoustically, that is, through hearing. Essentially, you will often
 start hearing it first, when your car starts having a problem.
+
+I have this thing going in my robotics research which I call preverbal
+audio perception. Learning things about the world through hearing on a
+level fundamentally below language, parsing and understanding streams
+of words. I have always been puzzled by the general preoccupation with
+language as opposed to this analytical listening before there are
+words. It is not only much more interesting but also a prerequisite
+for language competence (that's a hypothesis).
 
 The pyramid of listeners was also particularly noteworthy and first seen here.
 
