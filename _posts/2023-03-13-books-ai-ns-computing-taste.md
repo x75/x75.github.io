@@ -33,14 +33,14 @@ leads to a state where problems that are really unsolved appear as if
 they are solved for future students picking topics, and thus left
 untouched thereafter. The claim is, that if an implementation would be
 accepted for getting a PhD awarded, and the thesis text would focus on
-the failure analysis this one single implementation, it would be
-beneficial for the actual development field.
+the failure analysis of this one single implementation, it would be
+beneficial for the actual development of the field.
 
 This article is a very entertaining read. Do not get scared by the
 number of pages, one third of it is references and each page is
-short. Recommended regarding some intricacies and everyday hickups
-when dealing with language and that starts with word like 'a', 'the',
-and 'is'.
+short. Highly recommended regarding its entertainment value and some
+insights on the intricacies and everyday hickups when dealing with
+language and that starts with word like 'a', 'the', and 'is'.
 
 #### Some selected quotes
 
