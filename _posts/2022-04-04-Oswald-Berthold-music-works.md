@@ -5,6 +5,8 @@ comments: true
 tags: sound music algorithms models dsp synthesis sonfication datadriven audio digital musician aesthetics computer
 ---
 
+**2023-07-12** Update, TODO: gullibloon releases
+
 **2022-04-02** Updating this list by way of updating my cv, adding most recent releases and adding more direct links.
 
 **2021-01-17** Update from another thread, over the years I have
@@ -13,7 +15,7 @@ the threads, there is progress though.
 
 **2020-12-25** Coming back to this after two years since writing the
 first draft I remember the original motivation. I needed to get an
-overview on all published music I authored to get the royalties
+overview of all published music I authored to get my royalty collection
 sorted. Project **backward** and the **availability** directive sprang
 from this.
 
@@ -21,48 +23,56 @@ from this.
 
 ![All album covers tiled](/assets/catalog-sound-music-works-oswald-berthold.jpg){:class="img-responsive"}
 
-| Artist             | Year | Title                       | Link                                                                                                                                                                       | Label                    |
-|--------------------|------|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
-| farmersmanual      | 2022 | tcpsymphony\#2              | [bandcamp](https://farmersmanual.bandcamp.com/album/tcpsymphony-2)                                                                                                         | generate and test - gt39 |
-| farmersmanual      | 2022 | tcpsymphony\#1              | [bandcamp](https://farmersmanual.bandcamp.com/album/tcpsymphony-1)                                                                                                         | generate and test - gt38 |
-| farmersmanual      | 2022 | nomad 46                    | [bandcamp](https://farmersmanual.bandcamp.com/album/nomad-46)                                                                                                              | generate and test - gt68 |
-| Epy x tsx          | 2021 | ☡plit                       | [bandcamp](https://farmersmanual.bandcamp.com/album/plit)                                                                                                                  | generate and test - gt69 |
-| pxp                | 2021 | qnizzles                    | [bandcamp](https://superpang.bandcamp.com/album/qnizzles-dbg-0)                                                                                                            | superpang - sp44         |
-| farmersmanual      | 2021 | rla+                        | [bandcamp](https://farmersmanual.bandcamp.com/album/rla)                                                                                                                   | generate and test - gt67 |
-| cd\_slopper        | 2020 | pfanscotcoe                 | [bandcamp](https://superpang.bandcamp.com/album/pfanscotcoe)                                                                                                               | superpang - sp37         |
-| dprmkr             | 2020 | flowers a sun hazy          | [bandcamp](https://dprmkr.bandcamp.com/album/flowers-a-sun-hazy)                                                                                                           | generate and test - gt9  |
-| tsx x psygod       | 2020 | smelt                       | [bandcamp](https://tsx1.bandcamp.com/album/l-s), [spotify](https://open.spotify.com/album/77WRV3JvtnslEgobKj4GkX?si=erX_cVaKTTa7_jDM60gmog&dl_branch=1)                    | generate and test - gt55 |
-| farmersmanual      | 2020 | 11.84.0                     | [bandcamp](https://farmersmanual.bandcamp.com/album/11840-10-11-1)                                                                                                         | generate and test - gt60 |
-| pxp                | 2020 | tats=3D94chliche-chaos      | [bandcamp](https://farmersmanual.bandcamp.com/album/tats-3d94chliche-chaos)                                                                                                | generate and test - gt40 |
-| farmersmanual      | 2020 | no residual                 | [bandcamp](https://farmersmanual.bandcamp.com/album/no-residual), [spotify](https://open.spotify.com/album/6jmPYaDaBJi8WVPeiWwqPZ?si=W3lu_eJ6SoK_3rg4PkArbQ)               | generate and test - gt31 |
-| farmersmanual      | 2020 | proto fsck                  | [bandcamp](https://farmersmanual.bandcamp.com/album/proto-fsck)                                                                                                            | generate and test - gt30 |
-| tsx                | 2020 | recur2                      | [bandcamp](https://tsx1.bandcamp.com/album/recur-2?label=3200328970&tab=music), [spotify](https://open.spotify.com/album/5cZt76yQp5znd9pmkocPM8?si=nwpQahixSpucuv3bNk_lUg) | generate and test - gt41 |
-| tsx x sue tompkins | 2019 | recur3                      | [bandcamp](https://farmersmanual.bandcamp.com/album/recur)                                                                                                                 | generate and test - gt27 |
-| pxp                | 2019 | neba                        | [bandcamp](https://farmersmanual.bandcamp.com/album/neba)                                                                                                                  | generate and test - gt32 |
-| farmersmanual      | 2019 | rla 1996 ultraschall        | [bandcamp](https://farmersmanual.bandcamp.com/album/rla-1996-ultraschall)                                                                                                  | generate and test - gt22 |
-| farmersmanual      | 2019 | The Singles                 | [bandcamp](https://farmersmanual.bandcamp.com/album/the-singles)                                                                                                           | generate and test - gt12 |
-| calimba de luna    | 2019 | Lastout                     | [bandcamp](https://farmersmanual.bandcamp.com/album/lastout)                                                                                                               | generate and test - gt5  |
-| 2o4                | 2019 | squimble                    | [bandcamp](https://2o4m.bandcamp.com/album/squimble)                                                                                                                       | generate and test - gt10 |
-| tsx                | 2016 | recur                       | [bandcamp](https://trust.bandcamp.com/album/recur)                                                                                                                         | TRUST - TRUSTe02         |
-| farmersmanual      | 2017 | fmoto                       | [bandcamp](https://farmersmanual.bandcamp.com/album/fmoto)                                                                                                                 | generate and test - gt0  |
-| farmersmanual      | 2017 | szwong                      | [bandcamp](https://farmersmanual.bandcamp.com/track/szwong)                                                                                                                | generate and test - gt25 |
-| Oswald Berthold    | 2016 | Rara Avis                   | [website](http://alkualkualkualkualkualkualkualkualkualku.org/pmwiki/pmwiki.php/Main/ALKU99)                                                                               | Alku - ALKU 99           |
-| dprmkr             | 2015 | Seven Long Minutes          | [bandcamp](https://dprmkr.bandcamp.com/album/seven-long-minutes)                                                                                                           | generate and test - gt3  |
-| gullibloon         | 2010 | MUH                         | [website](http://alkualkualkualkualkualkualkualkualkualku.org/pmwiki/pmwiki.php/Main/ALKU87)                                                                               | Alku - ALKU 87           |
-| pxp                | 2005 | nada                        | [boomkat](https://boomkat.com/products/nada-bcd4a85e-e24a-4c7b-a0b9-a523a7ae9dbf)                                                                                          | Dekorder - Dekorder 009  |
-| Emanual Frakt      | 2004 | Kekkoushougai               | [bandcamp](https://emanuelfrakt.bandcamp.com/album/kekkoushougai)                                                                                                          | Tonto - tonto \#24       |
-| farmersmanual      | 2003 | recent live archive (rla)   | [amazon](https://www.amazon.co.uk/Farmers-Manual-Recent-Live-Archive/dp/B00HUYQICS)                                                                                        | Mego - Mego 777          |
-| pxp                | 2002 | while(p){print"."," "x$p++} | [bandcamp](https://farmersmanual.bandcamp.com/album/while-p-print-x-p)                                                                                                     | Wavetrap - WAV04         |
-| pxp                | 2002 | Squeezer                    | [youtube](https://www.youtube.com/watch?v=BQRzuW0mlBo)                                                                                                                     | Alienation Presents      |
-| cd\_slopper        | 2000 | SaskieWoxi                  | [amazon](https://www.amazon.com/cd_slopper-SaskieWoxi/dp/B000UD4UQ2)                                                                                                       | OR - JODEL 10            |
-| farmersmanual      | 1998 | Explorers\_We               | [amazon](https://www.amazon.de/-/en/Farmers-Manual/dp/B0000274VB)                                                                                                          | OR - SQUISH04            |
-| farmersmanual      | 1997 | fsck                        | [wikipedia](https://en.wikipedia.org/wiki/Fsck_(album))                                                                                                                  | tray - TRAY 2            |
-| Calimba de Luna    | 1997 | Test codes                  | [bandcamp](https://farmersmanual.bandcamp.com/album/test-code-for-the-measurement-of-airborne-noise)                                                                       | constar - con\* 0004     |
-| farmersmanual      | 1996 | does not compute            | [spotify](https://open.spotify.com/album/6eVVyzwsMKQFJNuAly8U5U?si=bitOfLpXSDqtb0bfRG6csw)                                                                                 | tray - TRAY 1            |
-| farmersmanual      | 1996 | No Backup                   | [wikipedia](https://en.wikipedia.org/wiki/No_Backup)                                                                                                                       | Mego - Mego 008          |
-| farmersmanual      | 1996 | fm                          | [bandcamp](https://farmersmanual.bandcamp.com/album/fm)                                                                                                                    | Mego - Mego 017          |
-| plazma             | 1994 | nervechords                 | [bandcamp](https://farmersmanual.bandcamp.com/album/nervechords)                                                                                                           | Self-published tape      |
-| plazma             | 1993 | geschickte hände            |                                                                                                                                                                            | Self-published tape      |
+| Artist             | Year | Title                       | Link                                                                                                                                                                       | Label                     |
+|--------------------|------|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| farmersmanual      | 2023 | sorted                      | [bandcamp](https://farmersmanual.bandcamp.com/album/sorted-2)                                                                                                              | generate and test - gt101 |
+| farmersmanual      | 2023 | nullgerät                   | [bandcamp](https://tokinogake.bandcamp.com/album/nullgera-t)                                                                                                               | 時の崖\_tokinogake        |
+| farmersmanual      | 2022 | iiiiooooi-iiiooo[...]       | [bandcamp](https://farmersmanual.bandcamp.com/album/iiiiooooi-iiiooooooooooooooooiiiiiioiii)                                                                               | generate and test - gt73  |
+| tsx                | 2022 | recur⁵                      | [bandcamp](https://tsx1.bandcamp.com/album/recur-3)                                                                                                                        | generate and test - gt34  |
+| farmersmanual      | 2022 | shmip                       | [bandcamp](https://farmersmanual.bandcamp.com/album/shmip)                                                                                                                 | generate and test - gt72  |
+| farmersmanual      | 2022 | testphase top               | [bandcamp](https://farmersmanual.bandcamp.com/album/testphase-top)                                                                                                         | generate and test - gt74  |
+| Various artists    | 2022 | Point Cloud Noise II        | [bandcamp](https://silentrecords.bandcamp.com/album/point-cloud-noise-ii)                                                                                                  | Silent Records            |
+| farmersmanual      | 2022 | nomad 46                    | [bandcamp](https://farmersmanual.bandcamp.com/album/nomad-46)                                                                                                              | generate and test - gt68  |
+| farmersmanual      | 2022 | tcpsymphony\#2              | [bandcamp](https://farmersmanual.bandcamp.com/album/tcpsymphony-2)                                                                                                         | generate and test - gt39  |
+| farmersmanual      | 2022 | tcpsymphony\#1              | [bandcamp](https://farmersmanual.bandcamp.com/album/tcpsymphony-1)                                                                                                         | generate and test - gt38  |
+| farmersmanual      | 2022 | nomad 46                    | [bandcamp](https://farmersmanual.bandcamp.com/album/nomad-46)                                                                                                              | generate and test - gt68  |
+| Epy x tsx          | 2021 | ☡plit                       | [bandcamp](https://farmersmanual.bandcamp.com/album/plit)                                                                                                                  | generate and test - gt69  |
+| pxp                | 2021 | qnizzles                    | [bandcamp](https://superpang.bandcamp.com/album/qnizzles-dbg-0)                                                                                                            | superpang - sp44          |
+| farmersmanual      | 2021 | rla+                        | [bandcamp](https://farmersmanual.bandcamp.com/album/rla)                                                                                                                   | generate and test - gt67  |
+| cd\_slopper        | 2020 | pfanscotcoe                 | [bandcamp](https://superpang.bandcamp.com/album/pfanscotcoe)                                                                                                               | superpang - sp37          |
+| dprmkr             | 2020 | flowers a sun hazy          | [bandcamp](https://dprmkr.bandcamp.com/album/flowers-a-sun-hazy)                                                                                                           | generate and test - gt9   |
+| tsx x psygod       | 2020 | smelt                       | [bandcamp](https://tsx1.bandcamp.com/album/l-s), [spotify](https://open.spotify.com/album/77WRV3JvtnslEgobKj4GkX?si=erX_cVaKTTa7_jDM60gmog&dl_branch=1)                    | generate and test - gt55  |
+| farmersmanual      | 2020 | 11.84.0                     | [bandcamp](https://farmersmanual.bandcamp.com/album/11840-10-11-1)                                                                                                         | generate and test - gt60  |
+| pxp                | 2020 | tats=3D94chliche-chaos      | [bandcamp](https://farmersmanual.bandcamp.com/album/tats-3d94chliche-chaos)                                                                                                | generate and test - gt40  |
+| farmersmanual      | 2020 | no residual                 | [bandcamp](https://farmersmanual.bandcamp.com/album/no-residual), [spotify](https://open.spotify.com/album/6jmPYaDaBJi8WVPeiWwqPZ?si=W3lu_eJ6SoK_3rg4PkArbQ)               | generate and test - gt31  |
+| farmersmanual      | 2020 | proto fsck                  | [bandcamp](https://farmersmanual.bandcamp.com/album/proto-fsck)                                                                                                            | generate and test - gt30  |
+| tsx                | 2020 | recur2                      | [bandcamp](https://tsx1.bandcamp.com/album/recur-2?label=3200328970&tab=music), [spotify](https://open.spotify.com/album/5cZt76yQp5znd9pmkocPM8?si=nwpQahixSpucuv3bNk_lUg) | generate and test - gt41  |
+| tsx x sue tompkins | 2019 | recur3                      | [bandcamp](https://farmersmanual.bandcamp.com/album/recur)                                                                                                                 | generate and test - gt27  |
+| pxp                | 2019 | neba                        | [bandcamp](https://farmersmanual.bandcamp.com/album/neba)                                                                                                                  | generate and test - gt32  |
+| farmersmanual      | 2019 | rla 1996 ultraschall        | [bandcamp](https://farmersmanual.bandcamp.com/album/rla-1996-ultraschall)                                                                                                  | generate and test - gt22  |
+| farmersmanual      | 2019 | The Singles                 | [bandcamp](https://farmersmanual.bandcamp.com/album/the-singles)                                                                                                           | generate and test - gt12  |
+| calimba de luna    | 2019 | Lastout                     | [bandcamp](https://farmersmanual.bandcamp.com/album/lastout)                                                                                                               | generate and test - gt5   |
+| 2o4                | 2019 | squimble                    | [bandcamp](https://2o4m.bandcamp.com/album/squimble)                                                                                                                       | generate and test - gt10  |
+| tsx                | 2016 | recur                       | [bandcamp](https://trust.bandcamp.com/album/recur)                                                                                                                         | TRUST - TRUSTe02          |
+| farmersmanual      | 2017 | fmoto                       | [bandcamp](https://farmersmanual.bandcamp.com/album/fmoto)                                                                                                                 | generate and test - gt0   |
+| farmersmanual      | 2017 | szwong                      | [bandcamp](https://farmersmanual.bandcamp.com/track/szwong)                                                                                                                | generate and test - gt25  |
+| Oswald Berthold    | 2016 | Rara Avis                   | [website](http://alkualkualkualkualkualkualkualkualkualku.org/pmwiki/pmwiki.php/Main/ALKU99)                                                                               | Alku - ALKU 99            |
+| dprmkr             | 2015 | Seven Long Minutes          | [bandcamp](https://dprmkr.bandcamp.com/album/seven-long-minutes)                                                                                                           | generate and test - gt3   |
+| gullibloon         | 2010 | MUH                         | [website](http://alkualkualkualkualkualkualkualkualkualku.org/pmwiki/pmwiki.php/Main/ALKU87)                                                                               | Alku - ALKU 87            |
+| pxp                | 2005 | nada                        | [boomkat](https://boomkat.com/products/nada-bcd4a85e-e24a-4c7b-a0b9-a523a7ae9dbf)                                                                                          | Dekorder - Dekorder 009   |
+| Emanual Frakt      | 2004 | Kekkoushougai               | [bandcamp](https://emanuelfrakt.bandcamp.com/album/kekkoushougai)                                                                                                          | Tonto - tonto \#24        |
+| farmersmanual      | 2003 | recent live archive (rla)   | [amazon](https://www.amazon.co.uk/Farmers-Manual-Recent-Live-Archive/dp/B00HUYQICS)                                                                                        | Mego - Mego 777           |
+| pxp                | 2002 | while(p){print"."," "x$p++} | [bandcamp](https://farmersmanual.bandcamp.com/album/while-p-print-x-p)                                                                                                     | Wavetrap - WAV04          |
+| pxp                | 2002 | Squeezer                    | [youtube](https://www.youtube.com/watch?v=BQRzuW0mlBo)                                                                                                                     | Alienation Presents       |
+| cd\_slopper        | 2000 | SaskieWoxi                  | [amazon](https://www.amazon.com/cd_slopper-SaskieWoxi/dp/B000UD4UQ2)                                                                                                       | OR - JODEL 10             |
+| farmersmanual      | 1998 | Explorers\_We               | [amazon](https://www.amazon.de/-/en/Farmers-Manual/dp/B0000274VB)                                                                                                          | OR - SQUISH04             |
+| farmersmanual      | 1997 | fsck                        | [wikipedia](https://en.wikipedia.org/wiki/Fsck_(album))                                                                                                                    | tray - TRAY 2             |
+| Calimba de Luna    | 1997 | Test codes [...]            | [bandcamp](https://farmersmanual.bandcamp.com/album/test-code-for-the-measurement-of-airborne-noise)                                                                       | constar - con\* 0004      |
+| farmersmanual      | 1996 | does not compute            | [spotify](https://open.spotify.com/album/6eVVyzwsMKQFJNuAly8U5U?si=bitOfLpXSDqtb0bfRG6csw)                                                                                 | tray - TRAY 1             |
+| farmersmanual      | 1996 | No Backup                   | [wikipedia](https://en.wikipedia.org/wiki/No_Backup)                                                                                                                       | Mego - Mego 008           |
+| farmersmanual      | 1996 | fm                          | [bandcamp](https://farmersmanual.bandcamp.com/album/fm)                                                                                                                    | Mego - Mego 017           |
+| plazma             | 1994 | nervechords                 | [bandcamp](https://farmersmanual.bandcamp.com/album/nervechords)                                                                                                           | Self-published tape       |
+| plazma             | 1993 | geschickte hände [...]      | [bandcamp](https://farmersmanual.bandcamp.com/album/geschickte-h-nde-schnitten-mich-auf-die-richtige-l-nge-zu)                                                             | Self-published tape       |
 
 
 #### TODO
@@ -84,13 +94,21 @@ self-produced at low budget, practicing creative engineering and
 effective self-organization. Both albums were self-published on tape
 in 1993 and 1994 as limited tape editions.
 
-**Update 2020-12-25**: 𝗻𝗲𝗿𝘃𝗲𝗰𝗵𝗼𝗿𝗱𝘀 by plazma, album digital reissue released 2020 on farmersmanual - [generate and test](https://farmersmanual.bandcamp.com/album/nervechords) - gt29
+**Update 2023-07-12**: **geschickte hände schnitten mich auf die
+richtige länge zu** by plazma, album digital reissue released 2021 on
+farmersmanual - [generate and
+test](https://farmersmanual.bandcamp.com/album/geschickte-h-nde-schnitten-mich-auf-die-richtige-l-nge-zu) -
+gt29
+
+**Update 2020-12-25**: 𝗻𝗲𝗿𝘃𝗲𝗰𝗵𝗼𝗿𝗱𝘀 by plazma, album digital reissue
+released 2020 on farmersmanual - [generate and
+test](https://farmersmanual.bandcamp.com/album/nervechords) - gt28
 
 #### farmersmanual
 
 Separate story to be filled in at another time. In the meantime please
-check up all of farmersmanual's music on
-[bandcamp](https://farmersmanual.bandcamp.com/) and find more information
+check up on farmersmanual's sounds and music on
+[bandcamp](https://farmersmanual.bandcamp.com/), and find more information
 on [wikipedia](https://en.wikipedia.org/wiki/Farmers_Manual),
 [discogs](https://www.discogs.com/artist/356-Farmers-Manual), the fm
 [website](http://web.fm), the [recent live archive
@@ -101,13 +119,16 @@ etc. Please write in at any time and leave a like or a comment.
 
 #### cd\_slopper
 
-Working together with [Florian Hecker](http://florianhecker.blogspot.com/) we came up with
-[cd\_slopper](https://www.discogs.com/artist/11328-CD_slopper) thinking it to be a
-good name for our joint activity. At the time we were deep in
-exploring codecs and manipulating audio on the level of non-PCM
-codecs. The frame structure used in MP3 is aesthetically very close to
-grain based synthesis. This became an interesting set of relations to
-sample from and work with.
+Working together with [Florian
+Hecker](http://florianhecker.blogspot.com/) we came up with
+[cd\_slopper](https://www.discogs.com/artist/11328-CD_slopper)
+thinking it to be a good name for our joint activity. At the time we
+were deep in exploring codecs and manipulating audio on the level of
+non-PCM codecs. The frame structure used in MP3 is aesthetically very
+close to grain based synthesis. This became an interesting set of
+relations to sample from and work with.
+
+**2023-07-12** Update, [SaskieWoxi](https://farmersmanual.bandcamp.com/album/saskiewoxi) digital reissue artist's version available on generate and test - gt62
 
 **2020-12-25**: frame slopping, grains / pulsarets, codec frame
 synthesis
