@@ -9,7 +9,7 @@ tags: robotics message-passing computer-music supercollider
 
 ## how to make flatcat audio work
 
-log into flatcat and start `./ux0_serial_osc` or boot into ux0<sub>osc</sub> automatically via editing
+log into flatcat, ctrl-C on `ux0_serial` and start `./ux0_serial_osc`, or boot into `ux0_serial_osc` automatically via editing
 
     vim jetpack/flatcat_setup/boot/start-tmux.sh
 
