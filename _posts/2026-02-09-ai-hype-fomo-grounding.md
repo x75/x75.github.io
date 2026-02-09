@@ -27,10 +27,10 @@ Benchmarks are being gamed (anyone remember Llama 4 release a year ago?). Benchm
 
 The incentive for a vendor is clear, if benchmark number go up, business number go up. Good for them, but
 
-   LLM vendors seem to regard benchmarks as marketing tools to
-   increase their valuation, and have noticed that while valuations go
-   up if they report good benchmark performance, they dont go down if
-   obscure academics question the validity of their claims.
+>   LLM vendors seem to regard benchmarks as marketing tools to
+>   increase their valuation, and have noticed that while valuations
+>   go up if they report good benchmark performance, they dont go down
+>   if obscure academics question the validity of their claims.
 
 Granted. For individual users, they are testing things based on their own specific context, and while things might work well there, it doesn't say much about how well it might work for my own specific context. The smarter the thing, the harder to evaluate.
 
