@@ -32,9 +32,9 @@ The incentive for a vendor is clear, if benchmark number go up, business number 
 >   go up if they report good benchmark performance, they dont go down
 >   if obscure academics question the validity of their claims.
 
-Granted. For individual users, they are testing things based on their own specific context, and while things might work well there, it doesn't say much about how well it might work for my own specific context. The smarter the thing, the harder to evaluate.
+Granted. For individual users, they are testing things based on their own specific context, and while things might work well there, it doesn't say much about how well it might work for my own specific context. The smarter the thing, the harder to evaluate. Repeat.
 
-If LLMs are anything, they are prime stereotyping machines, cutting out the long tail and professing on serving the 1% tasks that get 99% of the popularity. This popularity might be a real world usage frequency, no question. Boilerplate code. Repetive tasks. Either way, whenever I tried to do something less stereotypical, I was met with zero shot failure and had to take the thing by the hand, break it down into small digestible pieces, and work it from there.
+If LLMs are anything, they are prime stereotyping machines, cutting out the long tail and professing on serving the 1% tasks that get 99% of the popularity. This popularity might be a real world usage frequency, no question. Boilerplate code. Repetive tasks. Either way, whenever I tried to do something less stereotypical, I was met with zero shot failure and had to take the thing by the hand, break it down into small digestible pieces, and work it from there. This is a type of "drift" across category and I claim the "adaptation" to myself.
 
 I can see that there is a point in this one off "throwaway" prototyping approaches or other simple, well defined applications with plenty of precursors. I have not seen maintainability of agent's code output being evaluated. And again, the stereotyping machine will make good interpolations between minor variations of the same thing, but it will fail without notice on anything that is not in the training distribution. By construction. Period.
 
