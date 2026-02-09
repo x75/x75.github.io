@@ -38,11 +38,11 @@ If LLMs are anything, they are prime stereotyping machines, cutting out the long
 
 I can see that there is a point in this one off "throwaway" prototyping approaches or other simple, well defined applications with plenty of precursors. I have not seen maintainability of agent's code output being evaluated. And again, the stereotyping machine will make good interpolations between minor variations of the same thing, but it will fail without notice on anything that is not in the training distribution. By construction. Period.
 
-This is my personal take and rant, done. Let's try and broaden the persepctive. One well-known problem with benchmarks is, that as soon as they become available, they become available for training. This is called train / text contamination, and if it occurs, it will lead to exaggerated results. Usually, neither the precise training data nor the benchmark trajectories themselves are disclosed. Will I trust any claim in this situation? I trust your guess.
+This is my personal take and rant, done. Let's try and broaden the persepctive. One well-known problem with benchmarks is, that as soon as they become available, they become available for training. This is called train / test contamination, and if it occurs, it will lead to exaggerated results. Usually, neither the precise training data nor the benchmark trajectories themselves are disclosed. Will I trust any claim in this situation? I trust your guess.
 
 Contamination seems rather minor though when you can just cheat on your exam. The cheating phenomenon seems to have become large during last year. For completeness, also called reward hacking. The issue not only pertains to benchmarking but also to in-the-field use.
 
-Prime example for cheating? ImpossibleBench :) If you report more than 0% on this benchmark, you cheated. https://arxiv.org/pdf/2510.20270v1
+Prime example for cheating? ImpossibleBench :) If you report more than 0% on this benchmark, you cheated, I love it <https://arxiv.org/pdf/2510.20270v1>
 
 Silent but deadly failures <https://spectrum.ieee.org/ai-coding-degrades>
 
