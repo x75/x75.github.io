@@ -7,7 +7,7 @@ comments: true
 tags: ai llms coding-agents benchmarks criticism
 ---
 
-# LLMs, coding agents, benchmarks grounding
+## LLMs, coding agents, benchmarks grounding
 
 Grounded airplanes are airplanes that need to stay on the ground, not fly.
 
