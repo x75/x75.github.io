@@ -11,7 +11,7 @@ tags: thinking brain culture slop action
 
 Just logging some stuff into a micropost, mainly for my own sake and sanity. Thinking is action in imagined space. That is fine. There is a fundamental difference, yet and still, between imagined space and physical reality. Embodiment, the messiness if microphysics.
 
-There is one fundamental, categorical difference between the imagined and the physical realms I want to highlight. Imagination can sustain multiple option paths (superposition) no problem, physical reality can do so at the quantum level but at the macroscopic scale, it is the exception rather than the norm. Hope we agree.
+There is one fundamental, categorical difference between the imagined and the physical realms I want to highlight. Imagination can sustain multiple option paths (superposition) no problem, physical reality can do so at the quantum level but _not_ at the macroscopic scale, it is the exception rather than the norm.
 
 This means, that putting your thoughts into action by speaking out loud, writing it up, or do something else yet in a way which is more conventionally associated with "action", like changing your pension plan, going to a protest, helping someone out, forces your superposition bundle of thinking to decide, for once.
 
