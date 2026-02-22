@@ -9,21 +9,53 @@ tags: thinking brain culture slop action
 
 ## Intro
 
-Just logging some stuff into a micropost, mainly for my own sake and sanity. Thinking is action in imagined space. That is fine. There is a fundamental difference, yet and still, between imagined space and physical reality. Embodiment, the messiness if microphysics.
+Logging some stuff into a micropost, mainly for my own sake and sanity
+(sasa). Thinking is action in imagined space. That is fine. There is a
+fundamental difference, yet and still, between imagined space and
+physical reality. Embodiment, the messiness if microphysics.
 
-There is one fundamental, categorical difference between the imagined and the physical realms I want to highlight. Imagination can sustain multiple option paths (superposition) no problem, physical reality can do so at the quantum level but _not_ at the macroscopic scale, it is the exception rather than the norm.
+There is one fundamental, categorical difference between the imagined
+and the physical realms I want to highlight. Imagination can sustain
+multiple option paths (superposition) no problem, physical reality can
+do so at the quantum level but _not_ at the macroscopic scale, it is
+the exception rather than the norm.
 
-This means, that putting your thoughts into action by speaking out loud, writing it up, or do something else yet in a way which is more conventionally associated with "action", like changing your pension plan, going to a protest, helping someone out, forces your superposition bundle of thinking to decide, for once.
+This means, that putting your thoughts into action by speaking out
+loud (even to yourself), writing it up, or do something else yet in a
+way which is more conventionally associated with "action", like
+changing your pension plan, going to a protest, helping someone out,
+forces your superposition bundle of thinking to decide, for once. The
+point is, it is all not about the external feedback but the effect of
+action on yourself.
 
-In many cases you can still change your mind later on, but importantly, forcing the collapse of your imagination waves into one single thing for a moment, makes a difference for all your thinking, as it percolates back through your brain. OK, that took longer than I anticipated.
+In many cases you can still change your mind later on, but
+importantly, forcing the collapse of your imagination waves into one
+single thing for a moment, makes a difference for all your thinking,
+as it percolates back through your brain. OK, that took longer than I
+anticipated, intro finito.
 
 ## Predictive brain presentation
 
-So, I did a presentation on the "predictive brain" at a work event a week ago. There, we have a weekly meeting with the purpose of keeping in sync as a team and we are experimenting with formats of how this can be accomplished in an effective and entertaining way. Currently, the format is, one person picks "anything" they would like to rant about uninterruptedly and then do so. This was my turn, and the "predictive brain" was is just the most astonishing thing I learned about in my entire life.
+Last week I did a presentation on the "predictive brain" at a work
+event. There, we have a weekly meeting with the purpose of keeping in
+sync as a team and we are experimenting with formats of how this can
+be accomplished in an effective and entertaining way. Currently, the
+format is, one person picks "anything" they would like to rant about
+uninterruptedly and then do so. This was my turn, and the "predictive
+brain" is just the most astonishing thing I learned about in my
+entire life, and thus my topic.
 
-Why is that? "Predictive brain" means a couple of things. First, it changes who's got the lead from the world to yourself. Our organism is not a stimulus-response machine, but is actually ahead of the wav(e).
+Why is that? "Predictive brain" means a couple of things. First, it
+changes who's got the lead from the world to yourself. Our organism is
+not a stimulus-response machine, but is actually ahead of the wav(e).
 
-Perception is _not_ a passive taking in of things "as they are objectively". Perception is active prediction of what is going to happen next, from the micro- to the macro-scale. You must not underestimate how your assumptions change your perception. Testified to by cognitive illusions (eg the perceived size of the moon when near the horizon). And many more, literature to the testimony, see my review of "Surfing uncertainty" book by Andy Clark.
+Perception is _not_ a passive taking in of things "as they are
+objectively". Perception is active prediction of what is going to
+happen next, from the micro- to the macro-scale. You must not
+underestimate how your assumptions change your perception. Testified
+to by cognitive illusions (eg the perceived size of the moon when near
+the horizon). And many more, literature to the testimony, see my
+review of "Surfing uncertainty" book by Andy Clark.
 
 ## Predictive brain books: Seven and a half lessons about the brain
 
