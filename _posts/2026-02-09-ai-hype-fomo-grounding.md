@@ -35,7 +35,7 @@ If LLMs are anything, they are prime stereotyping machines, cutting out the long
 I can see that there is a point in this one off "throwaway" prototyping approaches or other simple, well defined applications with plenty of precursors (a website). I have not seen maintainability of agent's code output being evaluated. And again, the stereotyping machine will make good interpolations between minor variations of the same thing, but it will fail without notice on anything that is not in the training distribution. By construction. Period.
 
 This is my personal take and rant, done. Let's try and broaden the
-persepctive. One well-known problem with benchmarks is, that as soon
+perspective. One well-known problem with benchmarks is, that as soon
 as they become available, they become available for training. This can
 lead to something called train / test contamination, and if it occurs,
 it will lead to exaggerated results. Usually, neither the precise
